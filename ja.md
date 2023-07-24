@@ -3,42 +3,42 @@
 **ツール名**: 地理座標形式の一括変換ツール  
 **ツールの説明**: 地理座標を6種類の一般的な形式に簡単に変換し、これら6種類の形式間で相互変換を実現します  
 **ツールカテゴリ**: 地理学のツール  
-**リンク**: https://www.tools366.com/ja/coordinate-format-converter
+**リンク**: https://www.tools366.com/ja/tool/coordinate-format-converter
 
 
 **ツール名**: 地理座標相対位置プロッター  
 **ツールの説明**: 緯度と経度に基づいて地理座標の相対位置をプロットします  
 **ツールカテゴリ**: 地理学のツール  
-**リンク**: https://www.tools366.com/ja/coordinate-relative-position-drawing
+**リンク**: https://www.tools366.com/ja/tool/coordinate-relative-position-drawing
 
 
 **ツール名**: 数値千分位形式変換ツール  
 **ツールの説明**: 数値をカンマ区切り形式に簡単に変換したり、カンマ区切りの数値を元に戻すことができます。  
 **ツールカテゴリ**: 数学的なツール  
-**リンク**: https://www.tools366.com/ja/number-thousandths-formatter
+**リンク**: https://www.tools366.com/ja/tool/number-thousandths-formatter
 
 
 **ツール名**: US-UK数値形式変換ツール  
 **ツールの説明**: US-UKの数値形式をヨーロッパ形式に簡単に変換したり、ヨーロッパの数値形式をUS-UK形式に変換します。  
 **ツールカテゴリ**: 数学的なツール  
-**リンク**: https://www.tools366.com/ja/us-en-number-formatter
+**リンク**: https://www.tools366.com/ja/tool/us-en-number-formatter
 
 
 **ツール名**: テキスト逆転ツール  
 **ツールの説明**: 文字の順序でテキストを簡単に逆転します。  
 **ツールカテゴリ**: テキストツール  
-**リンク**: https://www.tools366.com/ja/reverse-text
+**リンク**: https://www.tools366.com/ja/tool/reverse-text
 
 
 **ツール名**: JSONパスのコピー、フォーマット、および圧縮ツール  
 **ツールの説明**: JSONテキストを視覚的なツリー構造に変換し、JSONパスを迅速にコピーして表示します。非標準のJSONを処理し、JSONデータを標準のJSONにフォーマットまたは圧縮します。  
 **ツールカテゴリ**: プログラミングツール  
-**リンク**: https://www.tools366.com/ja/copy-json-path
+**リンク**: https://www.tools366.com/ja/tool/copy-json-path
 
 
 **ツール名**: オンライン画像色比率抽出と視覚化ツール  
 **ツールの説明**: 画像をアップロードし、画像の主要な色を分析し、主要な色相を計算し、画像の色比率情報を計算し、キャンバス上で色の分布を視覚化します。  
 **ツールカテゴリ**: 画像ツール  
-**リンク**: https://www.tools366.com/ja/image-color-ratio
+**リンク**: https://www.tools366.com/ja/tool/image-color-ratio
 
 
