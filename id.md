@@ -36,6 +36,12 @@
 **Tautan**: https://www.tools366.com/id/tool/copy-json-path
 
 
+**Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
+**Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
+**Kategori Alat**: Alat Pemrograman  
+**Tautan**: https://www.tools366.com/id/tool/camel-case-converter
+
+
 **Nama Alat**: Alat Ekstraksi dan Tampilan Rasio Warna Gambar Online  
 **Deskripsi Alat**: Unggah gambar, analisis warna utama dalam gambar, warna utama, hitung informasi rasio warna gambar, dan tampilkan distribusi warna di kanvas.  
 **Kategori Alat**: Alat Gambar  

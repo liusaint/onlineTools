@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/pt/tool/copy-json-path
 
 
+**Nome da ferramenta**: Ferramenta de Conversão CamelCase / Underscore / Hífen  
+**Descrição da ferramenta**: Implementa a conversão entre convenções de nomenclatura de texto CamelCase, sublinhado e texto separado por hífen.  
+**Categoria da ferramenta**: Ferramentas de Programação  
+**Link**: https://www.tools366.com/pt/tool/camel-case-converter
+
+
 **Nome da ferramenta**: Ferramenta de Extração e Visualização de Relação de Cor de Imagem Online  
 **Descrição da ferramenta**: Faça o upload de uma imagem, analise as cores principais na imagem, o tom principal, calcule as informações de relação de cor da imagem e visualize a distribuição de cores no canvas.  
 **Categoria da ferramenta**: Ferramentas de Imagem  

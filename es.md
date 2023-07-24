@@ -36,6 +36,12 @@
 **Enlace**: https://www.tools366.com/es/tool/copy-json-path
 
 
+**Nombre de la herramienta**: Herramienta de conversión CamelCase/Underscore/Hyphen  
+**Descripción de la herramienta**: Implementa la conversión entre las convenciones de nomenclatura de texto CamelCase, underscore y texto separado por guiones.  
+**Categoría de la herramienta**: Herramientas de programación  
+**Enlace**: https://www.tools366.com/es/tool/camel-case-converter
+
+
 **Nombre de la herramienta**: Herramienta de extracción y visualización de la relación de colores de imágenes en línea  
 **Descripción de la herramienta**: Sube una imagen, analiza los colores principales en la imagen, el tono principal, calcula la información de relación de color de la imagen y visualiza la distribución de color en el lienzo.  
 **Categoría de la herramienta**: Herramientas de imagen  

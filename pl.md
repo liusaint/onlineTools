@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/pl/tool/copy-json-path
 
 
+**Nazwa narzędzia**: Narzędzie do konwersji CamelCase/Underscore/Kreska  
+**Opis narzędzia**: Implementuje konwersję między konwencjami nazywania tekstu w stylu CamelCase, underscore i tekstem oddzielonym kreską.  
+**Kategoria narzędzi**: Narzędzia programistyczne  
+**Link**: https://www.tools366.com/pl/tool/camel-case-converter
+
+
 **Nazwa narzędzia**: Narzędzie do online ekstrakcji i wyświetlania proporcji kolorów obrazu  
 **Opis narzędzia**: Prześlij obraz, analizuj główne kolory na obrazie, ton główny, oblicz informacje o proporcjach kolorów obrazu i wyświetlaj rozkład kolorów na płótnie.  
 **Kategoria narzędzi**: Narzędzia do obrazów  

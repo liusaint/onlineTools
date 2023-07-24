@@ -36,6 +36,12 @@
 **Lien**: https://www.tools366.com/fr/tool/copy-json-path
 
 
+**Nom de l'outil**: Outil de conversion CamelCase/Underscore/Hyphen  
+**Description de l'outil**: Met en œuvre la conversion entre les conventions de nommage de texte en CamelCase, underscore et texte séparé par des tirets.  
+**Catégorie d'outil**: Outils de programmation  
+**Lien**: https://www.tools366.com/fr/tool/camel-case-converter
+
+
 **Nom de l'outil**: Outil d'extraction et de visualisation en ligne du ratio de couleur d'image  
 **Description de l'outil**: Téléchargez une image, analysez les couleurs principales dans l'image, la teinte principale, calculez les informations de ratio de couleur de l'image et visualisez la distribution des couleurs sur le canvas.  
 **Catégorie d'outil**: Outils d'image  

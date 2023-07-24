@@ -36,6 +36,12 @@
 **Länk**: https://www.tools366.com/sv/tool/copy-json-path
 
 
+**Verktygsnamn**: Verktyg för konvertering av CamelCase/Underscore/Streck  
+**Verktygsbeskrivning**: Implementerar konvertering mellan CamelCase, understreck, och textnamngivningskonventioner separerade med streck.  
+**Verktygskategori**: Programmeringsverktyg  
+**Länk**: https://www.tools366.com/sv/tool/camel-case-converter
+
+
 **Verktygsnamn**: Online verktyg för extraktion och visning av bildfärgförhållande  
 **Verktygsbeskrivning**: Ladda upp en bild, analysera de huvudsakliga färgerna i bilden, huvudtonen, beräkna bildfärgförhållandets information och visa färgdistributionen på duken.  
 **Verktygskategori**: Bildverktyg  

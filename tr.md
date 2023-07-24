@@ -36,6 +36,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/copy-json-path
 
 
+**Araç Adı**: CamelCase / Alt Çizgi / Kısa Çizgi Dönüşüm Aracı  
+**Araç Açıklaması**: CamelCase, alt çizgi ve kısa çizgi ile ayrılmış metin adlandırma kuralları arasındaki dönüşümü gerçekleştirir.  
+**Araç Kategorisi**: Programlama Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/camel-case-converter
+
+
 **Araç Adı**: Online Resim Renk Oranı Çıkarma ve Görüntüleme Aracı  
 **Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri, ana tonu analiz edin, resmin renk oranı bilgilerini hesaplayın ve renk dağılımını tuval üzerinde görüntüleyin.  
 **Araç Kategorisi**: Resim Araçları  

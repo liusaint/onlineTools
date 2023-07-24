@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/nl/tool/copy-json-path
 
 
+**Toolnaam**: CamelCase / Underscore / Koppelteken Conversietool  
+**Toolbeschrijving**: Implementeert de conversie tussen CamelCase, underscore, en koppelteken-gescheiden tekstnaamgevingsconventies.  
+**Toolcategorie**: Programmeer Gereedschap  
+**Link**: https://www.tools366.com/nl/tool/camel-case-converter
+
+
 **Toolnaam**: Online afbeeldingskleurverhouding extractie en weergave tool  
 **Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, de hoofdtoon, bereken de afbeeldingskleurverhoudingsinformatie en toon de kleurverdeling op het canvas.  
 **Toolcategorie**: Afbeeldingstools  

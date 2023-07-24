@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/tool/copy-json-path
 
 
+**Tool Name**: CamelCase/Underscore/Hyphen Conversion Tool  
+**Tool Description**: Implements conversion between CamelCase, underscore, and hyphen-separated text naming conventions.  
+**Tool Category**: Programming Tools  
+**Link**: https://www.tools366.com/tool/camel-case-converter
+
+
 **Tool Name**: Online Image Color Ratio Extraction and Visualization Tool  
 **Tool Description**: Upload an image, analyze the main colors in the image, the main hue, calculate the color ratio information of the image, and visualize the color distribution on the canvas.  
 **Tool Category**: Image Tools  

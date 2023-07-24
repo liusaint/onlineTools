@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/de/tool/copy-json-path
 
 
+**Tool-Name**: CamelCase/Unterstrich/Bindestrich-Umwandlungstool  
+**Tool-Beschreibung**: Implementiert die Umwandlung zwischen CamelCase, Unterstrich und Bindestrich-getrennten Textbenennungskonventionen.  
+**Tool-Kategorie**: Programmierwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/camel-case-converter
+
+
 **Tool-Name**: Online-Bildfarbenverhältnis-Extraktion und Visualisierungswerkzeug  
 **Tool-Beschreibung**: Laden Sie ein Bild hoch, analysieren Sie die Hauptfarben im Bild, den Hauptfarbton, berechnen Sie die Farbverhältnisinformationen des Bildes und visualisieren Sie die Farbverteilung auf der Leinwand.  
 **Tool-Kategorie**: Bildwerkzeuge  

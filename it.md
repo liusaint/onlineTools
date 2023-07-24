@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/it/tool/copy-json-path
 
 
+**Nome dello strumento**: Strumento di conversione CamelCase / Underscore / Hyphen  
+**Descrizione dello strumento**: Implementa la conversione tra le convenzioni di denominazione del testo CamelCase, underscore e testo separato da trattini.  
+**Categoria dello strumento**: Strumenti di programmazione  
+**Link**: https://www.tools366.com/it/tool/camel-case-converter
+
+
 **Nome dello strumento**: Strumento di estrazione e visualizzazione del rapporto colore immagine online  
 **Descrizione dello strumento**: Carica un'immagine, analizza i colori principali nell'immagine, la tonalità principale, calcola le informazioni sul rapporto colore dell'immagine e visualizza la distribuzione dei colori sulla tela.  
 **Categoria dello strumento**: Strumenti per immagini  
