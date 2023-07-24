@@ -30,6 +30,12 @@
 **Link**: https://www.tools366.com/tool/reverse-text
 
 
+**Tool Name**: Online Repeat Text Generator  
+**Tool Description**: Generate repeated text, sentences, words online.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/repeat-text-string-generator
+
+
 **Tool Name**: Copy JSON Path, Format and Compress JSON Tool  
 **Tool Description**: Convert JSON text to a visual tree structure, quickly copy and display JSON paths. Handle non-standard JSON, format or compress JSON data into standard JSON.  
 **Tool Category**: Programming Tools  

@@ -30,6 +30,12 @@
 **Link**: https://www.tools366.com/pl/tool/reverse-text
 
 
+**Nazwa narzędzia**: Generator Tekstu Powtarzanego Online  
+**Opis narzędzia**: Generuje powtarzający się tekst, zdania, słowa online.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/repeat-text-string-generator
+
+
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
 **Opis narzędzia**: Konwertuje tekst JSON na wizualną strukturę drzewa, szybko kopiuje i wyświetla ścieżki JSON. Obsługuje niestandardowy JSON, formatuje lub kompresuje dane JSON do standardowego JSON.  
 **Kategoria narzędzi**: Narzędzia programistyczne  

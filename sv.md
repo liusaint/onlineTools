@@ -30,6 +30,12 @@
 **Länk**: https://www.tools366.com/sv/tool/reverse-text
 
 
+**Verktygsnamn**: Online Repeterad Textgenerator  
+**Verktygsbeskrivning**: Genererar repeterad text, fraser, ord online.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/repeat-text-string-generator
+
+
 **Verktygsnamn**: Kopiera JSON-sökväg, Formatera och Komprimera JSON-verktyg  
 **Verktygsbeskrivning**: Omvandlar JSON-text till en visuell trädstruktur, kopierar snabbt och visar JSON-sökvägar. Hanterar icke-standard JSON, formaterar eller komprimerar JSON-data till standard JSON.  
 **Verktygskategori**: Programmeringsverktyg  

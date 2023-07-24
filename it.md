@@ -30,6 +30,12 @@
 **Link**: https://www.tools366.com/it/tool/reverse-text
 
 
+**Nome dello strumento**: Generatore di Testo Ripetuto Online  
+**Descrizione dello strumento**: Genera testo, frasi, parole ripetute online.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/repeat-text-string-generator
+
+
 **Nome dello strumento**: Copia Percorso JSON, Formatta e Comprimi Strumento JSON  
 **Descrizione dello strumento**: Converte il testo JSON in una struttura ad albero visuale, copia rapidamente e visualizza i percorsi JSON. Gestisce JSON non standard, formatta o comprime i dati JSON in JSON standard.  
 **Categoria dello strumento**: Strumenti di programmazione  

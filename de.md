@@ -30,6 +30,12 @@
 **Link**: https://www.tools366.com/de/tool/reverse-text
 
 
+**Tool-Name**: Online-Wiederholungs-Textgenerator  
+**Tool-Beschreibung**: Erzeugen Sie wiederholten Text, Sätze, Wörter online.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/repeat-text-string-generator
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

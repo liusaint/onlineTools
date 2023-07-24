@@ -30,6 +30,12 @@
 **링크**: https://www.tools366.com/ko/tool/reverse-text
 
 
+**도구 이름**: 온라인 텍스트 반복 생성기  
+**도구 설명**: 텍스트, 문장, 단어를 온라인으로 반복 생성합니다.  
+**도구 카테고리**: 텍스트 도구  
+**링크**: https://www.tools366.com/ko/tool/repeat-text-string-generator
+
+
 **도구 이름**: JSON 경로 복사, 포맷 및 압축 JSON 도구  
 **도구 설명**: JSON 텍스트를 시각적인 트리 구조로 변환하고, 빠르게 JSON 경로를 복사하고 표시합니다. 표준이 아닌 JSON을 처리하고, JSON 데이터를 표준 JSON으로 포맷하거나 압축합니다.  
 **도구 카테고리**: 프로그래밍 도구  

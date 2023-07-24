@@ -30,6 +30,12 @@
 **Link**: https://www.tools366.com/pt/tool/reverse-text
 
 
+**Nome da ferramenta**: Gerador de Texto Repetido Online  
+**Descrição da ferramenta**: Gera texto, frases, palavras repetidas online.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/repeat-text-string-generator
+
+
 **Nome da ferramenta**: Copiar Caminho JSON, Formatar e Comprimir Ferramentas JSON  
 **Descrição da ferramenta**: Transforma texto JSON em uma estrutura de árvore visual, copia rapidamente e exibe caminhos JSON. Lida com JSON não padrão, formata ou comprime dados JSON para JSON padrão.  
 **Categoria da ferramenta**: Ferramentas de Programação  

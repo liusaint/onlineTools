@@ -30,6 +30,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/reverse-text
 
 
+**工具名称**: 在线重复文本生成器  
+**工具描述**: 重复文本，重复句子，重复单词在线生成。  
+**工具类别**: 文本工具  
+**链接**: https://www.tools366.com/zh-CN/tool/repeat-text-string-generator
+
+
 **工具名称**: 复制JSON路径、格式化和压缩JSON工具  
 **工具描述**: 将JSON文本转换为可视化的树形结构，快捷复制和显示JSON路径。处理非标准的JSON，将JSON数据格式化或压缩为标准JSON。  
 **工具类别**: 编程工具  

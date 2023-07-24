@@ -30,6 +30,12 @@
 **Tautan**: https://www.tools366.com/id/tool/reverse-text
 
 
+**Nama Alat**: Penghasil Teks yang Diulang Secara Online  
+**Deskripsi Alat**: Hasilkan teks, frasa, kata-kata yang diulang secara online.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/repeat-text-string-generator
+
+
 **Nama Alat**: Salin Jalur JSON, Format dan Alat Kompresi JSON  
 **Deskripsi Alat**: Mengubah teks JSON menjadi struktur pohon visual, dengan cepat menyalin dan menampilkan jalur JSON. Menangani JSON non-standar, format atau kompres data JSON menjadi JSON standar.  
 **Kategori Alat**: Alat Pemrograman  

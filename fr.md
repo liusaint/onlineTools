@@ -30,6 +30,12 @@
 **Lien**: https://www.tools366.com/fr/tool/reverse-text
 
 
+**Nom de l'outil**: Générateur de texte en ligne  
+**Description de l'outil**: Générez du texte, des phrases, des mots répétés en ligne.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/repeat-text-string-generator
+
+
 **Nom de l'outil**: Copier le chemin JSON, outil de formatage et de compression JSON  
 **Description de l'outil**: Convertit le texte JSON en une structure d'arbre visuelle, copie rapidement et affiche les chemins JSON. Gère le JSON non standard, formate ou compresse les données JSON en JSON standard.  
 **Catégorie d'outil**: Outils de programmation  

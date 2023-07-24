@@ -30,6 +30,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/reverse-text
 
 
+**Araç Adı**: Online Tekrarlanan Metin Üretici  
+**Araç Açıklaması**: Online olarak tekrarlanan metin, cümle, kelimeler üretir.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/repeat-text-string-generator
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  
