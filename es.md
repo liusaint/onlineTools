@@ -48,9 +48,15 @@
 **Enlace**: https://www.tools366.com/es/tool/camel-case-converter
 
 
-**Nombre de la herramienta**: Herramienta de extracción y visualización de la relación de colores de imágenes en línea  
-**Descripción de la herramienta**: Sube una imagen, analiza los colores principales en la imagen, el tono principal, calcula la información de relación de color de la imagen y visualiza la distribución de color en el lienzo.  
+**Nombre de la herramienta**: Herramienta de extracción y visualización de la proporción de colores de la imagen en línea  
+**Descripción de la herramienta**: Sube una imagen, analiza los colores principales en la imagen, calcula la proporción de colores de la imagen y muestra visualmente la distribución de colores.  
 **Categoría de la herramienta**: Herramientas de imagen  
 **Enlace**: https://www.tools366.com/es/tool/image-color-ratio
+
+
+**Nombre de la herramienta**: Extractor de Color Temático/ Tono de Color Principal de la Imagen  
+**Descripción de la herramienta**: Analiza imágenes. Esta herramienta extrae el tono de color principal y otro número especificado de colores principales de una imagen  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/main-color-of-image
 
 

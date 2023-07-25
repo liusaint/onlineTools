@@ -48,9 +48,15 @@
 **Link**: https://www.tools366.com/pt/tool/camel-case-converter
 
 
-**Nome da ferramenta**: Ferramenta de Extração e Visualização de Relação de Cor de Imagem Online  
-**Descrição da ferramenta**: Faça o upload de uma imagem, analise as cores principais na imagem, o tom principal, calcule as informações de relação de cor da imagem e visualize a distribuição de cores no canvas.  
+**Nome da ferramenta**: Ferramenta de extração e visualização da proporção de cores da imagem online  
+**Descrição da ferramenta**: Faça upload de uma imagem, analise as cores principais na imagem, calcule a proporção das cores da imagem e exiba visualmente a distribuição das cores.  
 **Categoria da ferramenta**: Ferramentas de Imagem  
 **Link**: https://www.tools366.com/pt/tool/image-color-ratio
+
+
+**Nome da ferramenta**: Extrator de Cor do Tema/Tom Principal da Imagem  
+**Descrição da ferramenta**: Analisa imagens. Esta ferramenta extrai o tom de cor principal e outro número especificado de cores principais de uma imagem  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/main-color-of-image
 
 

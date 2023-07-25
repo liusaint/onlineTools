@@ -49,8 +49,14 @@
 
 
 **Tool Name**: Online Image Color Ratio Extraction and Visualization Tool  
-**Tool Description**: Upload an image, analyze the main colors in the image, the main hue, calculate the color ratio information of the image, and visualize the color distribution on the canvas.  
+**Tool Description**: Upload an image, analyze the main colors in the image, calculate the proportion of image colors, and visually display the distribution of colors.  
 **Tool Category**: Image Tools  
 **Link**: https://www.tools366.com/tool/image-color-ratio
+
+
+**Tool Name**: Image Theme Color/Main Color Tone Extractor  
+**Tool Description**: Analyze images. This tool extracts the main color tone and other specified number of main colors from an image  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/main-color-of-image
 
 

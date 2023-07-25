@@ -48,9 +48,15 @@
 **Link**: https://www.tools366.com/it/tool/camel-case-converter
 
 
-**Nome dello strumento**: Strumento di estrazione e visualizzazione del rapporto colore immagine online  
-**Descrizione dello strumento**: Carica un'immagine, analizza i colori principali nell'immagine, la tonalità principale, calcola le informazioni sul rapporto colore dell'immagine e visualizza la distribuzione dei colori sulla tela.  
+**Nome dello strumento**: Strumento di estrazione e visualizzazione del rapporto di colore dell'immagine online  
+**Descrizione dello strumento**: Carica un'immagine, analizza i colori principali nell'immagine, calcola la proporzione dei colori dell'immagine e visualizza visivamente la distribuzione dei colori.  
 **Categoria dello strumento**: Strumenti per immagini  
 **Link**: https://www.tools366.com/it/tool/image-color-ratio
+
+
+**Nome dello strumento**: Estrattore di Colore Principale/Tonalità Principale dell'Immagine  
+**Descrizione dello strumento**: Analizza le immagini. Questo strumento estrae la tonalità di colore principale e un altro numero specificato di colori principali da un'immagine  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/main-color-of-image
 
 

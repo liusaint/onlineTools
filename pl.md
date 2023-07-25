@@ -48,9 +48,15 @@
 **Link**: https://www.tools366.com/pl/tool/camel-case-converter
 
 
-**Nazwa narzędzia**: Narzędzie do online ekstrakcji i wyświetlania proporcji kolorów obrazu  
-**Opis narzędzia**: Prześlij obraz, analizuj główne kolory na obrazie, ton główny, oblicz informacje o proporcjach kolorów obrazu i wyświetlaj rozkład kolorów na płótnie.  
+**Nazwa narzędzia**: Narzędzie do ekstrakcji i wizualizacji proporcji kolorów obrazu online  
+**Opis narzędzia**: Prześlij obraz, przeanalizuj główne kolory na obrazie, oblicz proporcje kolorów obrazu i wizualnie przedstaw rozkład kolorów.  
 **Kategoria narzędzi**: Narzędzia do obrazów  
 **Link**: https://www.tools366.com/pl/tool/image-color-ratio
+
+
+**Nazwa narzędzia**: Ekstraktor Koloru Motywu/Głównego Tonu Koloru Obrazu  
+**Opis narzędzia**: Analizuje obrazy. To narzędzie ekstrahuje główny ton koloru i inny określony liczbę głównych kolorów z obrazu  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/main-color-of-image
 
 

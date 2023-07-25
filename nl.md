@@ -48,9 +48,15 @@
 **Link**: https://www.tools366.com/nl/tool/camel-case-converter
 
 
-**Toolnaam**: Online afbeeldingskleurverhouding extractie en weergave tool  
-**Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, de hoofdtoon, bereken de afbeeldingskleurverhoudingsinformatie en toon de kleurverdeling op het canvas.  
+**Toolnaam**: Online afbeelding kleurverhouding extractie en visualisatie tool  
+**Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, bereken de verhouding van de kleuren van de afbeelding en visualiseer de kleurverdeling.  
 **Toolcategorie**: Afbeeldingstools  
 **Link**: https://www.tools366.com/nl/tool/image-color-ratio
+
+
+**Toolnaam**: Afbeeldingsthema Kleur/Hoofdkleurtoon Extractor  
+**Toolbeschrijving**: Analyseer afbeeldingen. Dit hulpmiddel extraheert de hoofdkleurtoon en een ander gespecificeerd aantal hoofdkleuren uit een afbeelding  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/main-color-of-image
 
 

@@ -48,9 +48,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/camel-case-converter
 
 
-**Araç Adı**: Online Resim Renk Oranı Çıkarma ve Görüntüleme Aracı  
-**Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri, ana tonu analiz edin, resmin renk oranı bilgilerini hesaplayın ve renk dağılımını tuval üzerinde görüntüleyin.  
+**Araç Adı**: Çevrimiçi Resim Renk Oranı Çıkarma ve Görselleştirme Aracı  
+**Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri analiz edin, resim renklerinin oranını hesaplayın ve renklerin dağılımını görsel olarak gösterin.  
 **Araç Kategorisi**: Resim Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/image-color-ratio
+
+
+**Araç Adı**: Görüntü Tema Rengi/Ana Renk Tonu Çıkarıcı  
+**Araç Açıklaması**: Görüntüleri analiz eder. Bu araç, bir görüntüden ana renk tonunu ve diğer belirtilen sayıda ana renkleri çıkarır  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/main-color-of-image
 
 

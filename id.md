@@ -48,9 +48,15 @@
 **Tautan**: https://www.tools366.com/id/tool/camel-case-converter
 
 
-**Nama Alat**: Alat Ekstraksi dan Tampilan Rasio Warna Gambar Online  
-**Deskripsi Alat**: Unggah gambar, analisis warna utama dalam gambar, warna utama, hitung informasi rasio warna gambar, dan tampilkan distribusi warna di kanvas.  
+**Nama Alat**: Alat Ekstraksi dan Visualisasi Rasio Warna Gambar Online  
+**Deskripsi Alat**: Unggah gambar, analisis warna utama dalam gambar, hitung proporsi warna gambar, dan tampilkan secara visual distribusi warna.  
 **Kategori Alat**: Alat Gambar  
 **Tautan**: https://www.tools366.com/id/tool/image-color-ratio
+
+
+**Nama Alat**: Ekstraktor Warna Tema/Warna Utama dari Gambar  
+**Deskripsi Alat**: Analisis gambar. Alat ini mengekstrak warna utama dan sejumlah warna utama lainnya dari gambar  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/main-color-of-image
 
 

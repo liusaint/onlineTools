@@ -48,9 +48,15 @@
 **Lien**: https://www.tools366.com/fr/tool/camel-case-converter
 
 
-**Nom de l'outil**: Outil d'extraction et de visualisation en ligne du ratio de couleur d'image  
-**Description de l'outil**: Téléchargez une image, analysez les couleurs principales dans l'image, la teinte principale, calculez les informations de ratio de couleur de l'image et visualisez la distribution des couleurs sur le canvas.  
+**Nom de l'outil**: Outil d'extraction et de visualisation du ratio de couleurs d'image en ligne  
+**Description de l'outil**: Téléchargez une image, analysez les couleurs principales de l'image, calculez la proportion des couleurs de l'image et affichez visuellement la distribution des couleurs.  
 **Catégorie d'outil**: Outils d'image  
 **Lien**: https://www.tools366.com/fr/tool/image-color-ratio
+
+
+**Nom de l'outil**: Extracteur de couleur thématique/image principale  
+**Description de l'outil**: Analysez les images. Cet outil extrait la teinte principale et un certain nombre de couleurs principales spécifiées d'une image  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/main-color-of-image
 
 

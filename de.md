@@ -48,9 +48,15 @@
 **Link**: https://www.tools366.com/de/tool/camel-case-converter
 
 
-**Tool-Name**: Online-Bildfarbenverhältnis-Extraktion und Visualisierungswerkzeug  
-**Tool-Beschreibung**: Laden Sie ein Bild hoch, analysieren Sie die Hauptfarben im Bild, den Hauptfarbton, berechnen Sie die Farbverhältnisinformationen des Bildes und visualisieren Sie die Farbverteilung auf der Leinwand.  
+**Tool-Name**: Online-Tool zur Extraktion und Visualisierung von Bildfarbverhältnissen  
+**Tool-Beschreibung**: Laden Sie ein Bild hoch, analysieren Sie die Hauptfarben im Bild, berechnen Sie das Verhältnis der Bildfarben und stellen Sie die Farbverteilung visuell dar.  
 **Tool-Kategorie**: Bildwerkzeuge  
 **Link**: https://www.tools366.com/de/tool/image-color-ratio
+
+
+**Tool-Name**: Bild-Themenfarbe/Hauptfarbton-Extraktor  
+**Tool-Beschreibung**: Analysiert Bilder. Dieses Tool extrahiert den Hauptfarbton und eine andere spezifizierte Anzahl von Hauptfarben aus einem Bild  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/main-color-of-image
 
 

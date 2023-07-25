@@ -48,9 +48,15 @@
 **Länk**: https://www.tools366.com/sv/tool/camel-case-converter
 
 
-**Verktygsnamn**: Online verktyg för extraktion och visning av bildfärgförhållande  
-**Verktygsbeskrivning**: Ladda upp en bild, analysera de huvudsakliga färgerna i bilden, huvudtonen, beräkna bildfärgförhållandets information och visa färgdistributionen på duken.  
+**Verktygsnamn**: Onlineverktyg för extraktion och visualisering av bildfärgförhållande  
+**Verktygsbeskrivning**: Ladda upp en bild, analysera de huvudsakliga färgerna i bilden, beräkna andelen bildfärger och visualisera färgfördelningen.  
 **Verktygskategori**: Bildverktyg  
 **Länk**: https://www.tools366.com/sv/tool/image-color-ratio
+
+
+**Verktygsnamn**: Extraktor för Bildtema Färg/Huvudfärg Ton  
+**Verktygsbeskrivning**: Analyserar bilder. Detta verktyg extraherar huvudfärgtonen och ett annat angivet antal huvudfärger från en bild  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/main-color-of-image
 
 
