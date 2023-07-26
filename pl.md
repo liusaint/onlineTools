@@ -48,6 +48,12 @@
 **Link**: https://www.tools366.com/pl/tool/camel-case-converter
 
 
+**Nazwa narzędzia**: Online narzędzie do ekstrakcji kluczy JSON | Kalkulator długości JSON  
+**Opis narzędzia**: Analizuj głęboko obiekty JSON, ekstrahuj i wylistuj wszystkie klucze oraz policz ilość każdego klucza. To narzędzie jest odpowiednie do analizy i zarządzania danymi JSON.  
+**Kategoria narzędzi**: Narzędzia programistyczne  
+**Link**: https://www.tools366.com/pl/tool/json-keys-length-online
+
+
 **Nazwa narzędzia**: Narzędzie do ekstrakcji i wizualizacji proporcji kolorów obrazu online  
 **Opis narzędzia**: Prześlij obraz, przeanalizuj główne kolory na obrazie, oblicz proporcje kolorów obrazu i wizualnie przedstaw rozkład kolorów.  
 **Kategoria narzędzi**: Narzędzia do obrazów  

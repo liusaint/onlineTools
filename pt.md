@@ -48,6 +48,12 @@
 **Link**: https://www.tools366.com/pt/tool/camel-case-converter
 
 
+**Nome da ferramenta**: Ferramenta de Extração de Chaves JSON Online | Calculadora de Comprimento JSON  
+**Descrição da ferramenta**: Analise profundamente os objetos JSON, extraia e liste todas as chaves, e conte o número de cada chave. Esta ferramenta é adequada para a análise e gestão de dados JSON.  
+**Categoria da ferramenta**: Ferramentas de Programação  
+**Link**: https://www.tools366.com/pt/tool/json-keys-length-online
+
+
 **Nome da ferramenta**: Ferramenta de extração e visualização da proporção de cores da imagem online  
 **Descrição da ferramenta**: Faça upload de uma imagem, analise as cores principais na imagem, calcule a proporção das cores da imagem e exiba visualmente a distribuição das cores.  
 **Categoria da ferramenta**: Ferramentas de Imagem  

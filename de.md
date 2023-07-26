@@ -48,6 +48,12 @@
 **Link**: https://www.tools366.com/de/tool/camel-case-converter
 
 
+**Tool-Name**: Online JSON Schlüssel Extraktor Tool | JSON Längenrechner  
+**Tool-Beschreibung**: Analysieren Sie JSON-Objekte tiefgehend, extrahieren und listen Sie alle Schlüssel auf und zählen Sie die Anzahl jedes Schlüssels. Dieses Tool ist geeignet für die JSON-Datenanalyse und -verwaltung.  
+**Tool-Kategorie**: Programmierwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/json-keys-length-online
+
+
 **Tool-Name**: Online-Tool zur Extraktion und Visualisierung von Bildfarbverhältnissen  
 **Tool-Beschreibung**: Laden Sie ein Bild hoch, analysieren Sie die Hauptfarben im Bild, berechnen Sie das Verhältnis der Bildfarben und stellen Sie die Farbverteilung visuell dar.  
 **Tool-Kategorie**: Bildwerkzeuge  

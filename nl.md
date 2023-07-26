@@ -48,6 +48,12 @@
 **Link**: https://www.tools366.com/nl/tool/camel-case-converter
 
 
+**Toolnaam**: Online JSON Sleutel Extractor Tool | JSON Lengte Calculator  
+**Toolbeschrijving**: Analyseer JSON-objecten diepgaand, extraheer en lijst alle sleutels op, en tel het aantal van elke sleutel. Deze tool is geschikt voor JSON data-analyse en -beheer.  
+**Toolcategorie**: Programmeer Gereedschap  
+**Link**: https://www.tools366.com/nl/tool/json-keys-length-online
+
+
 **Toolnaam**: Online afbeelding kleurverhouding extractie en visualisatie tool  
 **Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, bereken de verhouding van de kleuren van de afbeelding en visualiseer de kleurverdeling.  
 **Toolcategorie**: Afbeeldingstools  

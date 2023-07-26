@@ -48,6 +48,12 @@
 **Länk**: https://www.tools366.com/sv/tool/camel-case-converter
 
 
+**Verktygsnamn**: Online Verktyg för Extraktion av JSON Nycklar | JSON Längdkalkylator  
+**Verktygsbeskrivning**: Analysera JSON objekt på djupet, extrahera och lista alla nycklar, och räkna antalet av varje nyckel. Detta verktyg är lämpligt för analys och hantering av JSON data.  
+**Verktygskategori**: Programmeringsverktyg  
+**Länk**: https://www.tools366.com/sv/tool/json-keys-length-online
+
+
 **Verktygsnamn**: Onlineverktyg för extraktion och visualisering av bildfärgförhållande  
 **Verktygsbeskrivning**: Ladda upp en bild, analysera de huvudsakliga färgerna i bilden, beräkna andelen bildfärger och visualisera färgfördelningen.  
 **Verktygskategori**: Bildverktyg  

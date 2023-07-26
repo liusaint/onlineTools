@@ -48,6 +48,12 @@
 **Link**: https://www.tools366.com/tool/camel-case-converter
 
 
+**Tool Name**: Online JSON Key Extractor Tool | JSON Length Calculator  
+**Tool Description**: Deeply analyze JSON objects, extract and list all keys, and count the number of each key. This tool is suitable for JSON data analysis and management.  
+**Tool Category**: Programming Tools  
+**Link**: https://www.tools366.com/tool/json-keys-length-online
+
+
 **Tool Name**: Online Image Color Ratio Extraction and Visualization Tool  
 **Tool Description**: Upload an image, analyze the main colors in the image, calculate the proportion of image colors, and visually display the distribution of colors.  
 **Tool Category**: Image Tools  

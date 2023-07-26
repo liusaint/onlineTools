@@ -48,6 +48,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/camel-case-converter
 
 
+**工具名称**: 在线JSON键提取工具 | JSON长度测量器  
+**工具描述**: 深度解析JSON对象，提取并列出所有的键，并统计各键的数量。适用于JSON数据的分析和管理。  
+**工具类别**: 编程工具  
+**链接**: https://www.tools366.com/zh-CN/tool/json-keys-length-online
+
+
 **工具名称**: 在线图片颜色比例提取和可视化工具  
 **工具描述**: 上传图片，分析图片中的主要颜色，计算图片颜色的占比信息，可视化展示颜色的分布。  
 **工具类别**: 图片工具  

@@ -48,6 +48,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/camel-case-converter
 
 
+**Araç Adı**: Çevrimiçi JSON Anahtar Çıkarıcı Araç | JSON Uzunluk Hesaplayıcı  
+**Araç Açıklaması**: JSON nesnelerini derinlemesine analiz edin, tüm anahtarları çıkarıp listeyin ve her anahtarın sayısını sayın. Bu araç, JSON veri analizi ve yönetimi için uygundur.  
+**Araç Kategorisi**: Programlama Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/json-keys-length-online
+
+
 **Araç Adı**: Çevrimiçi Resim Renk Oranı Çıkarma ve Görselleştirme Aracı  
 **Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri analiz edin, resim renklerinin oranını hesaplayın ve renklerin dağılımını görsel olarak gösterin.  
 **Araç Kategorisi**: Resim Araçları  

@@ -48,6 +48,12 @@
 **Tautan**: https://www.tools366.com/id/tool/camel-case-converter
 
 
+**Nama Alat**: Alat Pemroses Kunci JSON Online | Kalkulator Panjang JSON  
+**Deskripsi Alat**: Analisis objek JSON secara mendalam, ekstrak dan daftarkan semua kunci, dan hitung jumlah setiap kunci. Alat ini cocok untuk analisis dan manajemen data JSON.  
+**Kategori Alat**: Alat Pemrograman  
+**Tautan**: https://www.tools366.com/id/tool/json-keys-length-online
+
+
 **Nama Alat**: Alat Ekstraksi dan Visualisasi Rasio Warna Gambar Online  
 **Deskripsi Alat**: Unggah gambar, analisis warna utama dalam gambar, hitung proporsi warna gambar, dan tampilkan secara visual distribusi warna.  
 **Kategori Alat**: Alat Gambar  

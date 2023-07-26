@@ -48,6 +48,12 @@
 **Link**: https://www.tools366.com/it/tool/camel-case-converter
 
 
+**Nome dello strumento**: Strumento online per l'estrazione di chiavi JSON | Calcolatore della lunghezza JSON  
+**Descrizione dello strumento**: Analizza profondamente gli oggetti JSON, estrai e elenca tutte le chiavi e conta il numero di ciascuna chiave. Questo strumento è adatto per l'analisi e la gestione dei dati JSON.  
+**Categoria dello strumento**: Strumenti di programmazione  
+**Link**: https://www.tools366.com/it/tool/json-keys-length-online
+
+
 **Nome dello strumento**: Strumento di estrazione e visualizzazione del rapporto di colore dell'immagine online  
 **Descrizione dello strumento**: Carica un'immagine, analizza i colori principali nell'immagine, calcola la proporzione dei colori dell'immagine e visualizza visivamente la distribuzione dei colori.  
 **Categoria dello strumento**: Strumenti per immagini  

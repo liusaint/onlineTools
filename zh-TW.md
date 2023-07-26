@@ -48,6 +48,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/copy-json-path
 
 
+**工具名稱**: 線上JSON鍵提取器工具 | JSON長度計算器  
+**工具描述**: 深度分析JSON對象，提取並列出所有鍵，並計算每個鍵的數量。此工具適用於JSON數據分析和管理。  
+**工具類別**: 程式設計工具  
+**連結**: https://www.tools366.com/zh-TW/tool/json-keys-length-online
+
+
 **工具名稱**: 在線重複文字生成器  
 **工具描述**: 在線生成重複的文本，句子，詞語。  
 **工具類別**: 文本工具  
