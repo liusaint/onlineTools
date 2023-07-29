@@ -54,6 +54,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/json-keys-length-online
 
 
+**Araç Adı**: Online JSON Filtre/Arama/Seçim Aracı  
+**Araç Açıklaması**: Sayılardan, metinden ve düzenli ifadelerden esnek bir şekilde filtreleme, arama ve gerekli verileri seçme yeteneğine sahip. macOS Numbers uygulamasının filtreleme işlevine benzer.  
+**Araç Kategorisi**: Programlama Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/search-in-json-online
+
+
 **Araç Adı**: Çevrimiçi Resim Renk Oranı Çıkarma ve Görselleştirme Aracı  
 **Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri analiz edin, resim renklerinin oranını hesaplayın ve renklerin dağılımını görsel olarak gösterin.  
 **Araç Kategorisi**: Resim Araçları  

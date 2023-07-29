@@ -54,6 +54,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/json-keys-length-online
 
 
+**工具名稱**: 在線 JSON 篩選/搜索/選擇工具  
+**工具描述**: 能靈活地從數字、文本和正則表達式中篩選、搜索和選擇所需數據。類似於 macOS Numbers 應用程序的篩選功能。  
+**工具類別**: 程式設計工具  
+**連結**: https://www.tools366.com/zh-TW/tool/search-in-json-online
+
+
 **工具名稱**: 在線重複文字生成器  
 **工具描述**: 在線生成重複的文本，句子，詞語。  
 **工具類別**: 文本工具  

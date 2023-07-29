@@ -54,6 +54,12 @@
 **Länk**: https://www.tools366.com/sv/tool/json-keys-length-online
 
 
+**Verktygsnamn**: Online JSON Filter/Sök/Valverktyg  
+**Verktygsbeskrivning**: Kan flexibelt filtrera, söka och välja nödvändiga data från nummer, text och reguljära uttryck. Liknar filtreringsfunktionen i macOS Numbers-applikationen.  
+**Verktygskategori**: Programmeringsverktyg  
+**Länk**: https://www.tools366.com/sv/tool/search-in-json-online
+
+
 **Verktygsnamn**: Onlineverktyg för extraktion och visualisering av bildfärgförhållande  
 **Verktygsbeskrivning**: Ladda upp en bild, analysera de huvudsakliga färgerna i bilden, beräkna andelen bildfärger och visualisera färgfördelningen.  
 **Verktygskategori**: Bildverktyg  

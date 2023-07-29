@@ -36,22 +36,28 @@
 **Tautan**: https://www.tools366.com/id/tool/repeat-text-string-generator
 
 
-**Nama Alat**: Salin Jalur JSON, Format dan Alat Kompresi JSON  
-**Deskripsi Alat**: Mengubah teks JSON menjadi struktur pohon visual, dengan cepat menyalin dan menampilkan jalur JSON. Menangani JSON non-standar, format atau kompres data JSON menjadi JSON standar.  
-**Kategori Alat**: Alat Pemrograman  
-**Tautan**: https://www.tools366.com/id/tool/copy-json-path
-
-
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  
 **Tautan**: https://www.tools366.com/id/tool/camel-case-converter
 
 
+**Nama Alat**: Salin Jalur JSON, Format dan Alat Kompresi JSON  
+**Deskripsi Alat**: Mengubah teks JSON menjadi struktur pohon visual, dengan cepat menyalin dan menampilkan jalur JSON. Menangani JSON non-standar, format atau kompres data JSON menjadi JSON standar.  
+**Kategori Alat**: Alat Pemrograman  
+**Tautan**: https://www.tools366.com/id/tool/copy-json-path
+
+
 **Nama Alat**: Alat Pemroses Kunci JSON Online | Kalkulator Panjang JSON  
 **Deskripsi Alat**: Analisis objek JSON secara mendalam, ekstrak dan daftarkan semua kunci, dan hitung jumlah setiap kunci. Alat ini cocok untuk analisis dan manajemen data JSON.  
 **Kategori Alat**: Alat Pemrograman  
 **Tautan**: https://www.tools366.com/id/tool/json-keys-length-online
+
+
+**Nama Alat**: Alat Pencarian/Penyaringan/Pemilihan JSON Online  
+**Deskripsi Alat**: Mampu menyaring, mencari, dan memilih data yang dibutuhkan secara fleksibel dari angka, teks, dan ekspresi reguler. Mirip dengan fungsi penyaringan aplikasi Numbers di macOS.  
+**Kategori Alat**: Alat Pemrograman  
+**Tautan**: https://www.tools366.com/id/tool/search-in-json-online
 
 
 **Nama Alat**: Alat Ekstraksi dan Visualisasi Rasio Warna Gambar Online  

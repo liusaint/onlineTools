@@ -36,22 +36,28 @@
 **链接**: https://www.tools366.com/zh-CN/tool/repeat-text-string-generator
 
 
-**工具名称**: 复制JSON路径、格式化和压缩JSON工具  
-**工具描述**: 将JSON文本转换为可视化的树形结构，快捷复制和显示JSON路径。处理非标准的JSON，将JSON数据格式化或压缩为标准JSON。  
-**工具类别**: 编程工具  
-**链接**: https://www.tools366.com/zh-CN/tool/copy-json-path
-
-
 **工具名称**: 大小驼峰式/下划线/短横线分隔转换工具  
 **工具描述**: 实现大小驼峰式、下划线、短横线分隔符的文本命名规则互相转换。  
 **工具类别**: 编程工具  
 **链接**: https://www.tools366.com/zh-CN/tool/camel-case-converter
 
 
+**工具名称**: 复制JSON路径、格式化和压缩JSON工具  
+**工具描述**: 将JSON文本转换为可视化的树形结构，快捷复制和显示JSON路径。处理非标准的JSON，将JSON数据格式化或压缩为标准JSON。  
+**工具类别**: 编程工具  
+**链接**: https://www.tools366.com/zh-CN/tool/copy-json-path
+
+
 **工具名称**: 在线JSON键提取工具 | JSON长度测量器  
 **工具描述**: 深度解析JSON对象，提取并列出所有的键，并统计各键的数量。适用于JSON数据的分析和管理。  
 **工具类别**: 编程工具  
 **链接**: https://www.tools366.com/zh-CN/tool/json-keys-length-online
+
+
+**工具名称**: 在线JSON过滤/搜索/筛选工具  
+**工具描述**: 可对数字、文本、正则表达式进行灵活地筛选/过滤/搜索，以获取所需数据。类似于macOS的Numbers应用程序的筛选功能。  
+**工具类别**: 编程工具  
+**链接**: https://www.tools366.com/zh-CN/tool/search-in-json-online
 
 
 **工具名称**: 在线图片颜色比例提取和可视化工具  

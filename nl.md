@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/nl/tool/json-keys-length-online
 
 
+**Toolnaam**: Online JSON Filter/Zoek/Selectie Tool  
+**Toolbeschrijving**: In staat om flexibel te filteren, zoeken en benodigde gegevens te selecteren uit nummers, tekst en reguliere expressies. Vergelijkbaar met de filterfunctie van de macOS Numbers applicatie.  
+**Toolcategorie**: Programmeer Gereedschap  
+**Link**: https://www.tools366.com/nl/tool/search-in-json-online
+
+
 **Toolnaam**: Online afbeelding kleurverhouding extractie en visualisatie tool  
 **Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, bereken de verhouding van de kleuren van de afbeelding en visualiseer de kleurverdeling.  
 **Toolcategorie**: Afbeeldingstools  

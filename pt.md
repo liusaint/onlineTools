@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/pt/tool/json-keys-length-online
 
 
+**Nome da ferramenta**: Ferramenta de Filtro/Pesquisa/Seleção de JSON Online  
+**Descrição da ferramenta**: Capaz de filtrar, pesquisar e selecionar flexivelmente os dados necessários a partir de números, texto e expressões regulares. Semelhante à função de filtro do aplicativo Numbers do macOS.  
+**Categoria da ferramenta**: Ferramentas de Programação  
+**Link**: https://www.tools366.com/pt/tool/search-in-json-online
+
+
 **Nome da ferramenta**: Ferramenta de extração e visualização da proporção de cores da imagem online  
 **Descrição da ferramenta**: Faça upload de uma imagem, analise as cores principais na imagem, calcule a proporção das cores da imagem e exiba visualmente a distribuição das cores.  
 **Categoria da ferramenta**: Ferramentas de Imagem  

@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/tool/json-keys-length-online
 
 
+**Tool Name**: Online JSON Filter/Search/Selection Tool  
+**Tool Description**: Capable of flexibly filtering, searching, and selecting needed data from numbers, text, and regular expressions. Similar to the filtering function of the macOS Numbers application.  
+**Tool Category**: Programming Tools  
+**Link**: https://www.tools366.com/tool/search-in-json-online
+
+
 **Tool Name**: Online Image Color Ratio Extraction and Visualization Tool  
 **Tool Description**: Upload an image, analyze the main colors in the image, calculate the proportion of image colors, and visually display the distribution of colors.  
 **Tool Category**: Image Tools  

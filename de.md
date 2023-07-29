@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/de/tool/json-keys-length-online
 
 
+**Tool-Name**: Online JSON Filter/Such-/Auswahl-Tool  
+**Tool-Beschreibung**: In der Lage, flexibel Daten aus Zahlen, Text und regulären Ausdrücken zu filtern, zu suchen und auszuwählen. Ähnlich wie die Filterfunktion der macOS Numbers Anwendung.  
+**Tool-Kategorie**: Programmierwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/search-in-json-online
+
+
 **Tool-Name**: Online-Tool zur Extraktion und Visualisierung von Bildfarbverhältnissen  
 **Tool-Beschreibung**: Laden Sie ein Bild hoch, analysieren Sie die Hauptfarben im Bild, berechnen Sie das Verhältnis der Bildfarben und stellen Sie die Farbverteilung visuell dar.  
 **Tool-Kategorie**: Bildwerkzeuge  
