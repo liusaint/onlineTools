@@ -36,6 +36,12 @@
 **Tautan**: https://www.tools366.com/id/tool/repeat-text-string-generator
 
 
+**Nama Alat**: Generator Sandi Online yang Aman dan Efisien  
+**Deskripsi Alat**: Secara cepat menghasilkan sandi yang aman dan kompleks dalam jumlah besar untuk melindungi akun online Anda. Sesuaikan panjang sandi, jenis karakter yang disertakan (huruf besar, huruf kecil, angka, simbol), dan opsi untuk mengecualikan karakter yang mirip.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/password-generator
+
+
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  

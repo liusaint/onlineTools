@@ -36,6 +36,12 @@
 **Enlace**: https://www.tools366.com/es/tool/repeat-text-string-generator
 
 
+**Nombre de la herramienta**: Generador de contraseñas en línea seguro y eficiente  
+**Descripción de la herramienta**: Genera rápidamente contraseñas seguras y complejas en grandes cantidades para proteger tus cuentas en línea. Personaliza la longitud de la contraseña, los tipos de caracteres incluidos (mayúsculas, minúsculas, números, símbolos) y las opciones para excluir caracteres similares.  
+**Categoría de la herramienta**: Herramientas de Texto  
+**Enlace**: https://www.tools366.com/es/tool/password-generator
+
+
 **Nombre de la herramienta**: Copiar la ruta JSON, Herramienta de formato y compresión de JSON  
 **Descripción de la herramienta**: Convierte el texto JSON en una estructura de árbol visual, copia rápidamente y muestra las rutas JSON. Maneja JSON no estándar, formatea o comprime datos JSON en JSON estándar.  
 **Categoría de la herramienta**: Herramientas de programación  

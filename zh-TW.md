@@ -72,3 +72,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/reverse-text
 
 
+**工具名稱**: 安全且高效的在線密碼生成器  
+**工具描述**: 快速大量生成安全且複雜的密碼，以幫助保護您的在線帳戶。自定義密碼長度、包含的字符類型（大寫、小寫、數字、符號）以及排除相似字符的選項。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/password-generator
+
+

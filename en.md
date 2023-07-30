@@ -36,16 +36,22 @@
 **Link**: https://www.tools366.com/tool/repeat-text-string-generator
 
 
-**Tool Name**: Copy JSON Path, Format and Compress JSON Tool  
-**Tool Description**: Convert JSON text to a visual tree structure, quickly copy and display JSON paths. Handle non-standard JSON, format or compress JSON data into standard JSON.  
-**Tool Category**: Programming Tools  
-**Link**: https://www.tools366.com/tool/copy-json-path
+**Tool Name**: Secure and Efficient Online Password Generator  
+**Tool Description**: Quickly generate secure and complex passwords in bulk to help protect your online accounts. Customize password length, included character types (uppercase, lowercase, numbers, symbols), and options to exclude similar characters.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/password-generator
 
 
 **Tool Name**: CamelCase/Underscore/Hyphen Conversion Tool  
 **Tool Description**: Implements conversion between CamelCase, underscore, and hyphen-separated text naming conventions.  
 **Tool Category**: Programming Tools  
 **Link**: https://www.tools366.com/tool/camel-case-converter
+
+
+**Tool Name**: Copy JSON Path, Format and Compress JSON Tool  
+**Tool Description**: Convert JSON text to a visual tree structure, quickly copy and display JSON paths. Handle non-standard JSON, format or compress JSON data into standard JSON.  
+**Tool Category**: Programming Tools  
+**Link**: https://www.tools366.com/tool/copy-json-path
 
 
 **Tool Name**: Online JSON Key Extractor Tool | JSON Length Calculator  

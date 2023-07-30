@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/pl/tool/repeat-text-string-generator
 
 
+**Nazwa narzędzia**: Bezpieczny i Efektywny Generator Haseł Online  
+**Opis narzędzia**: Szybko generuj bezpieczne i skomplikowane hasła hurtowo, aby pomóc chronić Twoje konta online. Dostosuj długość hasła, rodzaje znaków do uwzględnienia (wielkie litery, małe litery, cyfry, symbole) i opcje wykluczenia podobnych znaków.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/password-generator
+
+
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
 **Opis narzędzia**: Konwertuje tekst JSON na wizualną strukturę drzewa, szybko kopiuje i wyświetla ścieżki JSON. Obsługuje niestandardowy JSON, formatuje lub kompresuje dane JSON do standardowego JSON.  
 **Kategoria narzędzi**: Narzędzia programistyczne  

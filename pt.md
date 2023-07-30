@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/pt/tool/repeat-text-string-generator
 
 
+**Nome da ferramenta**: Gerador de Senhas Online Seguro e Eficiente  
+**Descrição da ferramenta**: Gere rapidamente senhas seguras e complexas em grande quantidade para proteger suas contas online. Personalize o comprimento da senha, os tipos de caracteres incluídos (maiúsculas, minúsculas, números, símbolos) e as opções para excluir caracteres similares.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/password-generator
+
+
 **Nome da ferramenta**: Copiar Caminho JSON, Formatar e Comprimir Ferramentas JSON  
 **Descrição da ferramenta**: Transforma texto JSON em uma estrutura de árvore visual, copia rapidamente e exibe caminhos JSON. Lida com JSON não padrão, formata ou comprime dados JSON para JSON padrão.  
 **Categoria da ferramenta**: Ferramentas de Programação  

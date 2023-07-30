@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/nl/tool/repeat-text-string-generator
 
 
+**Toolnaam**: Veilige en Efficiënte Online Wachtwoordgenerator  
+**Toolbeschrijving**: Genereer snel veilige en complexe wachtwoorden in bulk om uw online accounts te beschermen. Personaliseer de lengte van het wachtwoord, de inbegrepen karaktertypes (hoofdletters, kleine letters, cijfers, symbolen), en opties om gelijkaardige karakters uit te sluiten.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/password-generator
+
+
 **Toolnaam**: Kopieer JSON Pad, Formaat en Comprimeer JSON Tool  
 **Toolbeschrijving**: Converteert JSON tekst naar een visuele boomstructuur, kopieert snel en toont JSON paden. Behandelt niet-standaard JSON, formatteert of comprimeert JSON gegevens naar standaard JSON.  
 **Toolcategorie**: Programmeer Gereedschap  

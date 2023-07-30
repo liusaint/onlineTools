@@ -36,6 +36,12 @@
 **Link**: https://www.tools366.com/de/tool/repeat-text-string-generator
 
 
+**Tool-Name**: Sichere und effiziente Online-Passwortgenerator  
+**Tool-Beschreibung**: Erzeugen Sie schnell sichere und komplexe Passwörter in großen Mengen, um Ihre Online-Konten zu schützen. Passen Sie die Passwortlänge, enthaltene Zeichentypen (Großbuchstaben, Kleinbuchstaben, Zahlen, Symbole) und Optionen zum Ausschluss ähnlicher Zeichen an.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/password-generator
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

@@ -36,6 +36,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/repeat-text-string-generator
 
 
+**Araç Adı**: Güvenli ve Etkili Online Şifre Üreteci  
+**Araç Açıklaması**: Online hesaplarınızı korumaya yardımcı olmak için hızla güvenli ve karmaşık şifreler oluşturun. Şifre uzunluğunu, dahil edilen karakter türlerini (büyük harfler, küçük harfler, numaralar, semboller) ve benzer karakterleri hariç tutma seçeneklerini özelleştirin.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/password-generator
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  

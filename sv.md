@@ -36,6 +36,12 @@
 **Länk**: https://www.tools366.com/sv/tool/repeat-text-string-generator
 
 
+**Verktygsnamn**: Säker och Effektiv Online Lösenordsgenerator  
+**Verktygsbeskrivning**: Generera snabbt säkra och komplexa lösenord i bulk för att skydda dina online-konton. Anpassa lösenordslängd, inkluderade teckentyper (versaler, gemener, siffror, symboler) och alternativ för att utesluta liknande tecken.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/password-generator
+
+
 **Verktygsnamn**: Kopiera JSON-sökväg, Formatera och Komprimera JSON-verktyg  
 **Verktygsbeskrivning**: Omvandlar JSON-text till en visuell trädstruktur, kopierar snabbt och visar JSON-sökvägar. Hanterar icke-standard JSON, formaterar eller komprimerar JSON-data till standard JSON.  
 **Verktygskategori**: Programmeringsverktyg  
