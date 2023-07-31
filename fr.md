@@ -42,6 +42,18 @@
 **Lien**: https://www.tools366.com/fr/tool/password-generator
 
 
+**Nom de l'outil**: Outil de suppression de lignes vides en ligne  
+**Description de l'outil**: Utilisez notre outil de suppression de lignes vides en ligne pour nettoyer et optimiser rapidement et automatiquement votre texte. Supprimez efficacement toutes les lignes vides.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/remove-empty-lines-online-tool
+
+
+**Nom de l'outil**: Convertisseur de texte multi-lignes en ligne en une seule ligne  
+**Description de l'outil**: Convertissez rapidement et automatiquement votre texte multi-lignes en une seule ligne. Améliorez la lisibilité et optimisez la mise en page du texte.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/multiline-to-single-line-online-tool
+
+
 **Nom de l'outil**: Copier le chemin JSON, outil de formatage et de compression JSON  
 **Description de l'outil**: Convertit le texte JSON en une structure d'arbre visuelle, copie rapidement et affiche les chemins JSON. Gère le JSON non standard, formate ou compresse les données JSON en JSON standard.  
 **Catégorie d'outil**: Outils de programmation  

@@ -42,6 +42,18 @@
 **Link**: https://www.tools366.com/pt/tool/password-generator
 
 
+**Nome da ferramenta**: Ferramenta de remoção de linhas vazias online  
+**Descrição da ferramenta**: Use nossa ferramenta de remoção de linhas vazias online para limpar e otimizar rapidamente o seu texto. Remova todas as linhas vazias de forma eficiente.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/remove-empty-lines-online-tool
+
+
+**Nome da ferramenta**: Conversor Online de Texto Multilinha para Linha Única  
+**Descrição da ferramenta**: Converta rapidamente e automaticamente seu texto multilinha em uma única linha. Melhore a legibilidade e otimize o layout do texto.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/multiline-to-single-line-online-tool
+
+
 **Nome da ferramenta**: Copiar Caminho JSON, Formatar e Comprimir Ferramentas JSON  
 **Descrição da ferramenta**: Transforma texto JSON em uma estrutura de árvore visual, copia rapidamente e exibe caminhos JSON. Lida com JSON não padrão, formata ou comprime dados JSON para JSON padrão.  
 **Categoria da ferramenta**: Ferramentas de Programação  

@@ -42,6 +42,18 @@
 **Link**: https://www.tools366.com/pl/tool/password-generator
 
 
+**Nazwa narzędzia**: Narzędzie do usuwania pustych linii online  
+**Opis narzędzia**: Użyj naszego narzędzia do usuwania pustych linii online, aby szybko i automatycznie oczyścić i zoptymalizować swój tekst. Skutecznie usuń wszystkie puste linie.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/remove-empty-lines-online-tool
+
+
+**Nazwa narzędzia**: Konwerter tekstu wielowierszowego do jednowierszowego online  
+**Opis narzędzia**: Szybko i automatycznie przekształć swój tekst wielowierszowy w jedną linię. Popraw czytelność i optymalizuj układ tekstu.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/multiline-to-single-line-online-tool
+
+
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
 **Opis narzędzia**: Konwertuje tekst JSON na wizualną strukturę drzewa, szybko kopiuje i wyświetla ścieżki JSON. Obsługuje niestandardowy JSON, formatuje lub kompresuje dane JSON do standardowego JSON.  
 **Kategoria narzędzi**: Narzędzia programistyczne  

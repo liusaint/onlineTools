@@ -30,6 +30,18 @@
 **链接**: https://www.tools366.com/zh-CN/tool/reverse-text
 
 
+**工具名称**: 在线文本空行删除工具  
+**工具描述**: 使用我们的在线空行删除工具，快速自动清理和优化你的文本。高效删除所有空行。  
+**工具类别**: 文本工具  
+**链接**: https://www.tools366.com/zh-CN/tool/remove-empty-lines-online-tool
+
+
+**工具名称**: 在线多行文本合并为一行工具  
+**工具描述**: 快速自动将你的多行文本合并为一行。提高阅读连贯性，优化文本排版。  
+**工具类别**: 文本工具  
+**链接**: https://www.tools366.com/zh-CN/tool/multiline-to-single-line-online-tool
+
+
 **工具名称**: 在线重复文本生成器  
 **工具描述**: 重复文本，重复句子，重复单词在线生成。  
 **工具类别**: 文本工具  

@@ -42,6 +42,18 @@
 **Link**: https://www.tools366.com/tool/password-generator
 
 
+**Tool Name**: Online Text Empty Line Remover Tool  
+**Tool Description**: Use our online empty line remover tool to quickly and automatically clean and optimize your text. Efficiently remove all empty lines.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/remove-empty-lines-online-tool
+
+
+**Tool Name**: Online Multi-line Text to Single Line Converter  
+**Tool Description**: Quickly and automatically convert your multi-line text into a single line. Improve readability and optimize text layout.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/multiline-to-single-line-online-tool
+
+
 **Tool Name**: CamelCase/Underscore/Hyphen Conversion Tool  
 **Tool Description**: Implements conversion between CamelCase, underscore, and hyphen-separated text naming conventions.  
 **Tool Category**: Programming Tools  

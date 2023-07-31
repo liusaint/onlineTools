@@ -42,6 +42,18 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/password-generator
 
 
+**Araç Adı**: Çevrimiçi Boş Satır Silme Aracı  
+**Araç Açıklaması**: Metninizin hızlı ve otomatik temizlenmesi ve optimize edilmesi için çevrimiçi boş satır silme aracımızı kullanın. Tüm boş satırları verimli bir şekilde kaldırın.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/remove-empty-lines-online-tool
+
+
+**Araç Adı**: Çok Satırlı Metni Tek Satıra Dönüştürme Çevrimiçi Araç  
+**Araç Açıklaması**: Çok satırlı metnini hızla ve otomatik olarak tek bir satıra dönüştür. Okunabilirliği artırın ve metin düzenini optimize edin.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/multiline-to-single-line-online-tool
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  

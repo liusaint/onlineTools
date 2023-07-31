@@ -42,6 +42,18 @@
 **Link**: https://www.tools366.com/de/tool/password-generator
 
 
+**Tool-Name**: Online-Tool zum Entfernen leerer Zeilen  
+**Tool-Beschreibung**: Verwenden Sie unser Online-Tool zum Entfernen leerer Zeilen, um Ihren Text schnell und automatisch zu reinigen und zu optimieren. Entfernen Sie effizient alle leeren Zeilen.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/remove-empty-lines-online-tool
+
+
+**Tool-Name**: Online-Mehrzeilen-Text-zu-Einzeilen-Konverter  
+**Tool-Beschreibung**: Konvertieren Sie Ihren Mehrzeilentext schnell und automatisch in eine Einzeile. Verbessern Sie die Lesbarkeit und optimieren Sie das Textlayout.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/multiline-to-single-line-online-tool
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

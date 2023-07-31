@@ -42,6 +42,18 @@
 **Link**: https://www.tools366.com/it/tool/password-generator
 
 
+**Nome dello strumento**: Strumento di rimozione righe vuote online  
+**Descrizione dello strumento**: Utilizza il nostro strumento di rimozione righe vuote online per pulire e ottimizzare rapidamente e automaticamente il tuo testo. Rimuovi in modo efficiente tutte le righe vuote.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/remove-empty-lines-online-tool
+
+
+**Nome dello strumento**: Convertitore online da testo multiriga a singola riga  
+**Descrizione dello strumento**: Converti rapidamente e automaticamente il tuo testo multiriga in una singola riga. Migliora la leggibilità e ottimizza il layout del testo.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/multiline-to-single-line-online-tool
+
+
 **Nome dello strumento**: Copia Percorso JSON, Formatta e Comprimi Strumento JSON  
 **Descrizione dello strumento**: Converte il testo JSON in una struttura ad albero visuale, copia rapidamente e visualizza i percorsi JSON. Gestisce JSON non standard, formatta o comprime i dati JSON in JSON standard.  
 **Categoria dello strumento**: Strumenti di programmazione  

@@ -42,6 +42,18 @@
 **Link**: https://www.tools366.com/nl/tool/password-generator
 
 
+**Toolnaam**: Online Lege Regel Verwijderaar  
+**Toolbeschrijving**: Gebruik onze online toolom lege regels te verwijderen om uw tekst snel en automatisch op te schonen en te optimaliseren.Verwijder efficiënt alle lege regels.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/remove-empty-lines-online-tool
+
+
+**Toolnaam**: Online multi-line tekst naar single-line converter  
+**Toolbeschrijving**: Zet snel en automatisch uw multi-line tekst om in een enkele regel. Verbeter de leesbaarheid en optimaliseer de tekstlay-out.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/multiline-to-single-line-online-tool
+
+
 **Toolnaam**: Kopieer JSON Pad, Formaat en Comprimeer JSON Tool  
 **Toolbeschrijving**: Converteert JSON tekst naar een visuele boomstructuur, kopieert snel en toont JSON paden. Behandelt niet-standaard JSON, formatteert of comprimeert JSON gegevens naar standaard JSON.  
 **Toolcategorie**: Programmeer Gereedschap  

@@ -78,3 +78,15 @@
 **連結**: https://www.tools366.com/zh-TW/tool/password-generator
 
 
+**工具名稱**: 線上文字空行移除工具  
+**工具描述**: 使用我們的線上空行移除工具，快速自動清理並優化你的文字。有效地移除所有空行。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/remove-empty-lines-online-tool
+
+
+**工具名稱**: 在線多行文字轉單行轉換器  
+**工具描述**: 快速並自動地將您的多行文字轉換為單行。提高可讀性並優化文字佈局。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/multiline-to-single-line-online-tool
+
+

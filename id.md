@@ -42,6 +42,18 @@
 **Tautan**: https://www.tools366.com/id/tool/password-generator
 
 
+**Nama Alat**: Alat Penghapus Baris Kosong Online  
+**Deskripsi Alat**: Gunakan alat penghapus baris kosong online kami untuk membersihkan dan mengoptimalkan teks Anda dengan cepat dan otomatis. Hapus semua baris kosong dengan efisien.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/remove-empty-lines-online-tool
+
+
+**Nama Alat**: Konverter Teks Daring Multi-baris ke Satu Baris  
+**Deskripsi Alat**: Secara cepat dan otomatis ubah teks multi-baris Anda menjadi satu baris. Tingkatkan keterbacaan dan optimalkan tata letak teks.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/multiline-to-single-line-online-tool
+
+
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  
