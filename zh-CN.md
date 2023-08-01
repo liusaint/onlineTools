@@ -90,3 +90,9 @@
 **链接**: https://www.tools366.com/zh-CN/tool/main-color-of-image
 
 
+**工具名称**: 在线图片垂直/水平翻转工具  
+**工具描述**: 垂直或者水平方向上翻转图片  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/online-picture-flip-tool
+
+

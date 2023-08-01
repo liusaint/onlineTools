@@ -90,3 +90,9 @@
 **リンク**: https://www.tools366.com/ja/tool/main-color-of-image
 
 
+**ツール名**: オンライン画像垂直/水平フリップツール  
+**ツールの説明**: 画像を垂直または水平に反転させる  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/online-picture-flip-tool
+
+

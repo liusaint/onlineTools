@@ -90,3 +90,9 @@
 **Link**: https://www.tools366.com/pt/tool/main-color-of-image
 
 
+**Nome da ferramenta**: Ferramenta de Flip Vertical/Horizontal de Imagens Online  
+**Descrição da ferramenta**: Vire imagens verticalmente ou horizontalmente  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/online-picture-flip-tool
+
+

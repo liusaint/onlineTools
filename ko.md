@@ -90,3 +90,9 @@
 **링크**: https://www.tools366.com/ko/tool/main-color-of-image
 
 
+**도구 이름**: 온라인 이미지 세로/가로 뒤집기 도구  
+**도구 설명**: 이미지를 세로나 가로로 뒤집기  
+**도구 카테고리**: 이미지 도구  
+**링크**: https://www.tools366.com/ko/tool/online-picture-flip-tool
+
+

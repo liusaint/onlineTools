@@ -90,3 +90,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/main-color-of-image
 
 
+**Araç Adı**: Online Resim Dikey/Yatay Çevirme Aracı  
+**Araç Açıklaması**: Resimleri dikey veya yatay çevirin  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/online-picture-flip-tool
+
+

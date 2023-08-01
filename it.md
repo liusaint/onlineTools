@@ -90,3 +90,9 @@
 **Link**: https://www.tools366.com/it/tool/main-color-of-image
 
 
+**Nome dello strumento**: Strumento di inversione verticale/orizzontale di immagini online  
+**Descrizione dello strumento**: Capovolgi immagini verticalmente o orizzontalmente  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/online-picture-flip-tool
+
+

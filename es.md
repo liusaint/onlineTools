@@ -90,3 +90,9 @@
 **Enlace**: https://www.tools366.com/es/tool/main-color-of-image
 
 
+**Nombre de la herramienta**: Herramienta de Volteo Vertical/Horizontal de Imágenes en Línea  
+**Descripción de la herramienta**: Voltea imágenes vertical u horizontalmente  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/online-picture-flip-tool
+
+

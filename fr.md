@@ -90,3 +90,9 @@
 **Lien**: https://www.tools366.com/fr/tool/main-color-of-image
 
 
+**Nom de l'outil**: Outil de basculement vertical/horizontal d'images en ligne  
+**Description de l'outil**: Basculer les images verticalement ou horizontalement  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/online-picture-flip-tool
+
+

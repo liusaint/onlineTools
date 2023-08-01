@@ -90,3 +90,9 @@
 **Link**: https://www.tools366.com/pl/tool/main-color-of-image
 
 
+**Nazwa narzędzia**: Narzędzie do pionowego/poziomego obracania obrazów online  
+**Opis narzędzia**: Obracaj obrazy pionowo lub poziomo  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/online-picture-flip-tool
+
+

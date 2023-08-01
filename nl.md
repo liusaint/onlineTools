@@ -90,3 +90,9 @@
 **Link**: https://www.tools366.com/nl/tool/main-color-of-image
 
 
+**Toolnaam**: Online beeld verticaal/horizontaal omdraaien tool  
+**Toolbeschrijving**: Draai afbeeldingen verticaal of horizontaal om  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/online-picture-flip-tool
+
+

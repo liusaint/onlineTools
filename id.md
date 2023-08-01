@@ -90,3 +90,9 @@
 **Tautan**: https://www.tools366.com/id/tool/main-color-of-image
 
 
+**Nama Alat**: Alat Pembalik Gambar Vertikal/Horizontal Online  
+**Deskripsi Alat**: Balik gambar secara vertikal atau horizontal  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/online-picture-flip-tool
+
+

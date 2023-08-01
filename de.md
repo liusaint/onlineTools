@@ -90,3 +90,9 @@
 **Link**: https://www.tools366.com/de/tool/main-color-of-image
 
 
+**Tool-Name**: Online-Bild-Vertikal-/Horizontal-Umkehrwerkzeug  
+**Tool-Beschreibung**: Bilder vertikal oder horizontal kippen  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/online-picture-flip-tool
+
+

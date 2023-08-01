@@ -90,3 +90,9 @@
 **Länk**: https://www.tools366.com/sv/tool/main-color-of-image
 
 
+**Verktygsnamn**: Online Bild Vertikal/Horisontell Flip Verktyg  
+**Verktygsbeskrivning**: Vänd bilder vertikalt eller horisontellt  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/online-picture-flip-tool
+
+
