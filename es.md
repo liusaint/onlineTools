@@ -96,3 +96,9 @@
 **Enlace**: https://www.tools366.com/es/tool/online-picture-flip-tool
 
 
+**Nombre de la herramienta**: Herramienta de rotación de imágenes en línea  
+**Descripción de la herramienta**: Gira una imagen a cualquier ángulo  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/rotate-image-online
+
+

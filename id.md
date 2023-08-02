@@ -96,3 +96,9 @@
 **Tautan**: https://www.tools366.com/id/tool/online-picture-flip-tool
 
 
+**Nama Alat**: Alat Rotasi Gambar Online  
+**Deskripsi Alat**: Putar gambar pada sudut apa saja  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/rotate-image-online
+
+

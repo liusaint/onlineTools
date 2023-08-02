@@ -96,3 +96,9 @@
 **Link**: https://www.tools366.com/tool/online-picture-flip-tool
 
 
+**Tool Name**: Online Image Rotation Tool  
+**Tool Description**: Rotate an image by any angle  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/rotate-image-online
+
+

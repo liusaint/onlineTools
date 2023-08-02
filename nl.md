@@ -96,3 +96,9 @@
 **Link**: https://www.tools366.com/nl/tool/online-picture-flip-tool
 
 
+**Toolnaam**: Online afbeelding rotatie tool  
+**Toolbeschrijving**: Roteer een afbeelding onder elke hoek  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/rotate-image-online
+
+

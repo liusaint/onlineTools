@@ -96,3 +96,9 @@
 **Link**: https://www.tools366.com/de/tool/online-picture-flip-tool
 
 
+**Tool-Name**: Online-Bildrotationswerkzeug  
+**Tool-Beschreibung**: Drehen Sie ein Bild um jeden Winkel  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/rotate-image-online
+
+

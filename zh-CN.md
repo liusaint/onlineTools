@@ -96,3 +96,9 @@
 **链接**: https://www.tools366.com/zh-CN/tool/online-picture-flip-tool
 
 
+**工具名称**: 在线图片旋转工具  
+**工具描述**: 将图片旋转任意角度  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/rotate-image-online
+
+

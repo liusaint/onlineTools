@@ -90,3 +90,9 @@
 **الرابط**: https://www.tools366.com/ar/tool/main-color-of-image
 
 
+**اسم الأداة**: أداة دوران الصور عبر الإنترنت  
+**وصف الأداة**: أدر الصورة بأي زاوية  
+**فئة الأداة**: أدوات الصورة  
+**الرابط**: https://www.tools366.com/ar/tool/rotate-image-online
+
+

@@ -30,6 +30,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/online-picture-flip-tool
 
 
+**工具名稱**: 線上圖像旋轉工具  
+**工具描述**: 將圖像旋轉任意角度  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/rotate-image-online
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  

@@ -96,3 +96,9 @@
 **Link**: https://www.tools366.com/pl/tool/online-picture-flip-tool
 
 
+**Nazwa narzędzia**: Narzędzie do obracania obrazów online  
+**Opis narzędzia**: Obróć obraz pod dowolnym kątem  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/rotate-image-online
+
+

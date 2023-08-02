@@ -96,3 +96,9 @@
 **リンク**: https://www.tools366.com/ja/tool/online-picture-flip-tool
 
 
+**ツール名**: オンライン画像回転ツール  
+**ツールの説明**: 画像を任意の角度で回転させる  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/rotate-image-online
+
+

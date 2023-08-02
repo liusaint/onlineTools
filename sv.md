@@ -96,3 +96,9 @@
 **Länk**: https://www.tools366.com/sv/tool/online-picture-flip-tool
 
 
+**Verktygsnamn**: Online bildroteringsverktyg  
+**Verktygsbeskrivning**: Rotera en bild i valfri vinkel  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/rotate-image-online
+
+

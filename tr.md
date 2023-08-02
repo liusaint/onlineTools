@@ -96,3 +96,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/online-picture-flip-tool
 
 
+**Araç Adı**: Çevrimiçi Resim Döndürme Aracı  
+**Araç Açıklaması**: Bir resmi herhangi bir açıyla döndür  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
+
+
