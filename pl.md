@@ -102,3 +102,9 @@
 **Link**: https://www.tools366.com/pl/tool/rotate-image-online
 
 
+**Nazwa narzędzia**: Online Narzędzie do Inwersji Kolorów Obrazów  
+**Opis narzędzia**: Użyj naszego online narzędzia do inwersji kolorów obrazów, aby łatwo odwrócić kolory dowolnego obrazu. Nie musisz pobierać oprogramowania, operacja jest prosta i szybka.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/online-picture-invert-color-tool
+
+

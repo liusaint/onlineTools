@@ -102,3 +102,9 @@
 **Enlace**: https://www.tools366.com/es/tool/rotate-image-online
 
 
+**Nombre de la herramienta**: Herramienta de inversión de colores de imágenes en línea  
+**Descripción de la herramienta**: Use nuestra herramienta de inversión de colores de imágenes en línea para invertir fácilmente los colores de cualquier imagen. No es necesario descargar software, la operación es simple y rápida.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/online-picture-invert-color-tool
+
+

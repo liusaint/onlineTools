@@ -102,3 +102,9 @@
 **Link**: https://www.tools366.com/de/tool/rotate-image-online
 
 
+**Tool-Name**: Online-Bildfarbumkehrwerkzeug  
+**Tool-Beschreibung**: Verwenden Sie unser Online-Bildfarbumkehrwerkzeug, um die Farben eines beliebigen Bildes einfach umzukehren. Keine Software zum Herunterladen erforderlich, die Bedienung ist einfach und schnell.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/online-picture-invert-color-tool
+
+

@@ -102,3 +102,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
 
 
+**Araç Adı**: Çevrimiçi Resim Renk Ters Çevirme Aracı  
+**Araç Açıklaması**: Herhangi bir resmin renklerini kolayca ters çevirmek için çevrimiçi resim renk ters çevirme aracımızı kullanın. Yazılım indirmenize gerek yoktur, işlem basit ve hızlıdır.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/online-picture-invert-color-tool
+
+

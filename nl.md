@@ -102,3 +102,9 @@
 **Link**: https://www.tools366.com/nl/tool/rotate-image-online
 
 
+**Toolnaam**: Online kleuren omkeren tool  
+**Toolbeschrijving**: Gebruik onze online kleur omkeer tool om gemakkelijk de kleuren van elke afbeelding om te keren. Geen software downloaden nodig, de operatie is eenvoudig en snel.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/online-picture-invert-color-tool
+
+

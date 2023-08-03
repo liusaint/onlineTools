@@ -102,3 +102,9 @@
 **Link**: https://www.tools366.com/pt/tool/rotate-image-online
 
 
+**Nome da ferramenta**: Ferramenta de inversão de cores de imagem online  
+**Descrição da ferramenta**: Use nossa ferramenta de inversão de cores de imagem online para inverter facilmente as cores de qualquer imagem. Não há necessidade de baixar software, a operação é simples e rápida.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/online-picture-invert-color-tool
+
+

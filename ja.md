@@ -102,3 +102,9 @@
 **リンク**: https://www.tools366.com/ja/tool/rotate-image-online
 
 
+**ツール名**: オンライン画像カラー反転ツール  
+**ツールの説明**: 私たちのオンライン画像カラー反転ツールを使用して、任意の画像の色を簡単に反転させてください。ソフトウェアをダウンロードする必要はなく、操作はシンプルで迅速です。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/online-picture-invert-color-tool
+
+
