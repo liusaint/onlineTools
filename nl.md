@@ -108,3 +108,9 @@
 **Link**: https://www.tools366.com/nl/tool/online-picture-invert-color-tool
 
 
+**Toolnaam**: Online Gereedschap voor de Omzetting van Kleurenafbeeldingen naar Grijstinten/Zwart & Wit  
+**Toolbeschrijving**: Dit is een online tool die moeiteloos uw kleurenafbeeldingen omzet naar grijstinten of zwart-wit, waardoor uw foto's een oude, nostalgische uitstraling krijgen.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

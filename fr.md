@@ -108,3 +108,9 @@
 **Lien**: https://www.tools366.com/fr/tool/online-picture-invert-color-tool
 
 
+**Nom de l'outil**: Outil de conversion en ligne d'images en couleur en images en niveaux de gris/noir et blanc  
+**Description de l'outil**: Ceci est un outil en ligne qui convertit sans effort vos images en couleur en images en niveaux de gris ou en noir et blanc, donnant à vos photos une sensation ancienne et nostalgique.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

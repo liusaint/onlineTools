@@ -108,3 +108,9 @@
 **Link**: https://www.tools366.com/de/tool/online-picture-invert-color-tool
 
 
+**Tool-Name**: Online-Tool zur Umwandlung von Farbbildern in Graustufen/Schwarz-Weiß  
+**Tool-Beschreibung**: Dies ist ein Online-Tool, das mühelos Ihre Farbbilder in Graustufen oder Schwarz-Weiß umwandelt, was Ihren Fotos einen alten, nostalgischen Touch verleiht.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

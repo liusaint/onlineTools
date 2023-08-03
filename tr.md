@@ -108,3 +108,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/online-picture-invert-color-tool
 
 
+**Araç Adı**: Çevrimiçi Renkli Resmi Gri Tonlama/Siyah Beyaz'a Dönüştürme Aracı  
+**Araç Açıklaması**: Bu, renkli resimlerinizi çabasızca gri tonlama veya siyah beyaza dönüştüren bir çevrimiçi araçtır, fotoğraflarınıza eski, nostaljik bir his verir.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

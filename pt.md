@@ -108,3 +108,9 @@
 **Link**: https://www.tools366.com/pt/tool/online-picture-invert-color-tool
 
 
+**Nome da ferramenta**: Ferramenta de Conversão de Imagem Colorida para Escala de Cinza/Preto e Branco Online  
+**Descrição da ferramenta**: Esta é uma ferramenta online que converte sem esforço suas imagens coloridas em escala de cinza ou preto e branco, dando às suas fotos uma sensação antiga e nostálgica.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

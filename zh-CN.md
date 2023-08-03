@@ -108,3 +108,9 @@
 **链接**: https://www.tools366.com/zh-CN/tool/online-picture-invert-color-tool
 
 
+**工具名称**: 在线彩色图片转灰度/黑白图片工具  
+**工具描述**: 这是一个在线工具，可将你的彩色图片轻松转换为灰度或者黑白图片，为你的照片带来古老的、怀旧的感觉。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

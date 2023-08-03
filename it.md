@@ -108,3 +108,9 @@
 **Link**: https://www.tools366.com/it/tool/online-picture-invert-color-tool
 
 
+**Nome dello strumento**: Strumento di Conversione da Immagini a Colori Online a Scala di Grigi/Bianco e Nero  
+**Descrizione dello strumento**: Questo è uno strumento online che converte senza sforzo le tue immagini a colori in scala di grigi o bianco e nero, conferendo alle tue foto un'atmosfera vecchia e nostalgica.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

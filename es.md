@@ -108,3 +108,9 @@
 **Enlace**: https://www.tools366.com/es/tool/online-picture-invert-color-tool
 
 
+**Nombre de la herramienta**: Herramienta de conversión en línea de imágenes a escala de grises/negro y blanco  
+**Descripción de la herramienta**: Esta es una herramienta en línea que convierte sin esfuerzo tus imágenes a color en imágenes en escala de grises o en blanco y negro, dando a tus fotos un sentimiento antiguo y nostálgico.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

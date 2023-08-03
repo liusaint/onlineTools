@@ -108,3 +108,9 @@
 **リンク**: https://www.tools366.com/ja/tool/online-picture-invert-color-tool
 
 
+**ツール名**: オンラインカラー画像をグレースケール/白黒に変換するツール  
+**ツールの説明**: これはあなたのカラー画像を簡単にグレースケールまたは白黒に変換するオンラインツールで、写真に古く、懐かしい感じを与えます。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

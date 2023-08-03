@@ -108,3 +108,9 @@
 **링크**: https://www.tools366.com/ko/tool/online-picture-invert-color-tool
 
 
+**도구 이름**: 온라인 컬러 이미지를 그레이스케일/흑백으로 변환 도구  
+**도구 설명**: 이것은 온라인 도구로 쉽게 컬러 이미지를 그레이스케일이나 흑백으로 변환해주어 사진에 오래되고, 향수를 불러일으키는 느낌을 줍니다.  
+**도구 카테고리**: 이미지 도구  
+**링크**: https://www.tools366.com/ko/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

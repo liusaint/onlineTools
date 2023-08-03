@@ -108,3 +108,9 @@
 **Link**: https://www.tools366.com/tool/online-picture-invert-color-tool
 
 
+**Tool Name**: Online Color Image to Grayscale/Black & White Conversion Tool  
+**Tool Description**: This is an online tool that effortlessly converts your color images into grayscale or black and white, giving your photos an old, nostalgic feel.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

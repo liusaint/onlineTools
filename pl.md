@@ -108,3 +108,9 @@
 **Link**: https://www.tools366.com/pl/tool/online-picture-invert-color-tool
 
 
+**Nazwa narzędzia**: Online Narzędzie do Konwersji Kolorowych Obrazów na Skale Szarości/Czarno-Biały  
+**Opis narzędzia**: To jest narzędzie online, które bez wysiłku konwertuje twoje kolorowe obrazy na skalę szarości lub czarno-białe, nadając twoim zdjęciom starodawny, nostalgiczny klimat.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

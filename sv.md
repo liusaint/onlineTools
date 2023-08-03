@@ -108,3 +108,9 @@
 **Länk**: https://www.tools366.com/sv/tool/online-picture-invert-color-tool
 
 
+**Verktygsnamn**: Onlineverktyg för konvertering av färgbilder till gråskala/svartvitt  
+**Verktygsbeskrivning**: Detta är ett onlineverktyg som smidigt omvandlar dina färgbilder till gråskala eller svartvitt, vilket ger dina foton en gammal, nostalgisk känsla.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+

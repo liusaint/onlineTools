@@ -42,6 +42,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/online-picture-invert-color-tool
 
 
+**工具名稱**: 線上彩色圖像轉灰度/黑白轉換工具  
+**工具描述**: 這是一個線上工具，可以輕鬆將你的彩色圖像轉換成灰度或黑白，給你的照片一種老舊，懷舊的感覺。  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  

@@ -108,3 +108,9 @@
 **Tautan**: https://www.tools366.com/id/tool/online-picture-invert-color-tool
 
 
+**Nama Alat**: Alat Konversi Gambar Warna ke Skala Abu-abu/Hitam & Putih Online  
+**Deskripsi Alat**: Ini adalah alat online yang dengan mudah mengubah gambar warna Anda menjadi skala abu-abu atau hitam putih, memberikan foto Anda nuansa lama, nostalgia.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
