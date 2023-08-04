@@ -114,3 +114,9 @@
 **Link**: https://www.tools366.com/it/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Nome dello strumento**: Strumento per l'embossing delle immagini online  
+**Descrizione dello strumento**: Uno strumento online che trasforma la tua immagine in un'immagine con effetto di goffratura, dando alle tue foto un tocco artistico.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-embossing-online-tool
+
+

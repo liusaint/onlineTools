@@ -114,3 +114,9 @@
 **Tautan**: https://www.tools366.com/id/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Nama Alat**: Alat Embossing Gambar Online  
+**Deskripsi Alat**: Alat online yang mengubah gambar Anda menjadi gambar dengan tampilan timbul, memberikan sentuhan artistik pada foto Anda.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-embossing-online-tool
+
+

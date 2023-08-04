@@ -114,3 +114,9 @@
 **Link**: https://www.tools366.com/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Tool Name**: Online Image Embossing Tool  
+**Tool Description**: An online tool that transforms your image into an embossed-looking picture, giving your photos an artistic touch.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-embossing-online-tool
+
+

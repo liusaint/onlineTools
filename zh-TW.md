@@ -48,6 +48,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**工具名稱**: 在线图像浮雕工具  
+**工具描述**: 一个在线工具，可以将您的图像转换为浮雕样的图片，赋予您的照片艺术感。  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/image-embossing-online-tool
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  

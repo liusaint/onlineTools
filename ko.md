@@ -114,3 +114,9 @@
 **링크**: https://www.tools366.com/ko/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**도구 이름**: 온라인 이미지 엠보싱 툴  
+**도구 설명**: 이미지를 엠보싱처럼 보이게 변환하는 온라인 툴로, 사진에 예술적인 터치를 추가합니다.  
+**도구 카테고리**: 이미지 도구  
+**링크**: https://www.tools366.com/ko/tool/image-embossing-online-tool
+
+

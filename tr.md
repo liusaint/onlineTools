@@ -114,3 +114,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Araç Adı**: Çevrimiçi Görüntü Kabartma Aracı  
+**Araç Açıklaması**: Görüntünüzü kabartma görünümlü bir resme dönüştüren bir çevrimiçi araç, fotoğraflarınıza sanatsal bir dokunuş verir.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-embossing-online-tool
+
+

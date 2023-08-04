@@ -114,3 +114,9 @@
 **Lien**: https://www.tools366.com/fr/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Nom de l'outil**: Outil de Gaufrage d'Image en ligne  
+**Description de l'outil**: Un outil en ligne qui transforme votre image en une image qui semble gaufrée, donnant une touche artistique à vos photos.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/image-embossing-online-tool
+
+

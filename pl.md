@@ -114,3 +114,9 @@
 **Link**: https://www.tools366.com/pl/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Nazwa narzędzia**: Narzędzie do tłoczenia obrazów online  
+**Opis narzędzia**: Narzędzie online, które przekształca Twój obraz w obraz wyglądający jak wytłoczony, nadając Twoim zdjęciom artystyczny akcent.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-embossing-online-tool
+
+

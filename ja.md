@@ -114,3 +114,9 @@
 **リンク**: https://www.tools366.com/ja/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**ツール名**: オンライン画像エンボスツール  
+**ツールの説明**: あなたの画像をエンボス風の画像に変換するオンラインツールで、あなたの写真に芸術的なタッチを加えます。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/image-embossing-online-tool
+
+

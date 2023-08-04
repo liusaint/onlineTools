@@ -114,3 +114,9 @@
 **Link**: https://www.tools366.com/nl/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Toolnaam**: Online Afbeelding Embossing Tool  
+**Toolbeschrijving**: Een online tool die uw afbeelding transformeert in een reliëfachtige afbeelding, waardoor uw foto's een artistiek tintje krijgen.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/image-embossing-online-tool
+
+

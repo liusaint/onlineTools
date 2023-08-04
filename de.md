@@ -114,3 +114,9 @@
 **Link**: https://www.tools366.com/de/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Tool-Name**: Online-Bildprägewerkzeug  
+**Tool-Beschreibung**: Ein Online-Tool, das Ihr Bild in ein geprägtes Bild verwandelt und Ihren Fotos eine künstlerische Note verleiht.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/image-embossing-online-tool
+
+

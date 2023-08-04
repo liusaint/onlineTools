@@ -108,3 +108,9 @@
 **الرابط**: https://www.tools366.com/ar/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**اسم الأداة**: أداة نقش الصور عبر الإنترنت  
+**وصف الأداة**: أداة عبر الإنترنت تحول صورتك إلى صورة تبدو محفورة، مما يضفي لمسة فنية على صورك.  
+**فئة الأداة**: أدوات الصورة  
+**الرابط**: https://www.tools366.com/ar/tool/image-embossing-online-tool
+
+

@@ -114,3 +114,9 @@
 **Enlace**: https://www.tools366.com/es/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Nombre de la herramienta**: Herramienta de repujado de imágenes en línea  
+**Descripción de la herramienta**: Una herramienta en línea que transforma tu imagen en una imagen con apariencia de repujado, dando a tus fotos un toque artístico.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-embossing-online-tool
+
+

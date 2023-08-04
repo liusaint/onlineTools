@@ -114,3 +114,9 @@
 **Länk**: https://www.tools366.com/sv/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Verktygsnamn**: Online Bild Embossing Verktyg  
+**Verktygsbeskrivning**: Ett onlineverktyg som förvandlar din bild till en präglad bild, vilket ger dina foton en konstnärlig touch.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/image-embossing-online-tool
+
+

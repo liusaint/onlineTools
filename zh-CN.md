@@ -114,3 +114,9 @@
 **链接**: https://www.tools366.com/zh-CN/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**工具名称**: 在线图片浮雕效果生成工具  
+**工具描述**: 在线工具，将你的图片转换为具有浮雕效果的图片，使你的照片更具艺术感。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/image-embossing-online-tool
+
+
