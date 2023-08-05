@@ -78,10 +78,28 @@
 **Länk**: https://www.tools366.com/sv/tool/search-in-json-online
 
 
+**Verktygsnamn**: Onlineverktyg för filtrering/sökning/urval av JSON KEY  
+**Verktygsbeskrivning**: Filtrera, sök och välj flexibelt JSON KEY genom text och reguljära uttryck för att få de data du behöver.  
+**Verktygskategori**: Programmeringsverktyg  
+**Länk**: https://www.tools366.com/sv/tool/search-json-keys-online
+
+
+**Verktygsnamn**: Onlineverktyg för konvertering av färgbilder till gråskala/svartvitt  
+**Verktygsbeskrivning**: Detta är ett onlineverktyg som smidigt omvandlar dina färgbilder till gråskala eller svartvitt, vilket ger dina foton en gammal, nostalgisk känsla.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Verktygsnamn**: Onlineverktyg för extraktion och visualisering av bildfärgförhållande  
 **Verktygsbeskrivning**: Ladda upp en bild, analysera de huvudsakliga färgerna i bilden, beräkna andelen bildfärger och visualisera färgfördelningen.  
 **Verktygskategori**: Bildverktyg  
 **Länk**: https://www.tools366.com/sv/tool/image-color-ratio
+
+
+**Verktygsnamn**: Online Bild Embossing Verktyg  
+**Verktygsbeskrivning**: Ett onlineverktyg som förvandlar din bild till en präglad bild, vilket ger dina foton en konstnärlig touch.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/image-embossing-online-tool
 
 
 **Verktygsnamn**: Extraktor för Bildtema Färg/Huvudfärg Ton  
@@ -96,27 +114,15 @@
 **Länk**: https://www.tools366.com/sv/tool/online-picture-flip-tool
 
 
-**Verktygsnamn**: Online bildroteringsverktyg  
-**Verktygsbeskrivning**: Rotera en bild i valfri vinkel  
-**Verktygskategori**: Bildverktyg  
-**Länk**: https://www.tools366.com/sv/tool/rotate-image-online
-
-
 **Verktygsnamn**: Online Verktyg för Invertering av Bildfärger  
 **Verktygsbeskrivning**: Använd vårt online verktyg för invertering av bildfärger för att enkelt invertera färgerna på vilken bild som helst. Ingen programvara behövs för nedladdning, operationen är enkel och snabb.  
 **Verktygskategori**: Bildverktyg  
 **Länk**: https://www.tools366.com/sv/tool/online-picture-invert-color-tool
 
 
-**Verktygsnamn**: Onlineverktyg för konvertering av färgbilder till gråskala/svartvitt  
-**Verktygsbeskrivning**: Detta är ett onlineverktyg som smidigt omvandlar dina färgbilder till gråskala eller svartvitt, vilket ger dina foton en gammal, nostalgisk känsla.  
+**Verktygsnamn**: Online bildroteringsverktyg  
+**Verktygsbeskrivning**: Rotera en bild i valfri vinkel  
 **Verktygskategori**: Bildverktyg  
-**Länk**: https://www.tools366.com/sv/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Verktygsnamn**: Online Bild Embossing Verktyg  
-**Verktygsbeskrivning**: Ett onlineverktyg som förvandlar din bild till en präglad bild, vilket ger dina foton en konstnärlig touch.  
-**Verktygskategori**: Bildverktyg  
-**Länk**: https://www.tools366.com/sv/tool/image-embossing-online-tool
+**Länk**: https://www.tools366.com/sv/tool/rotate-image-online
 
 

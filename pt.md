@@ -78,10 +78,28 @@
 **Link**: https://www.tools366.com/pt/tool/search-in-json-online
 
 
+**Nome da ferramenta**: Ferramenta online de filtragem/pesquisa/seleção para JSON KEY  
+**Descrição da ferramenta**: Filtra, pesquisa e seleciona de maneira flexível o JSON KEY através de texto e expressões regulares para obter os dados necessários.  
+**Categoria da ferramenta**: Ferramentas de Programação  
+**Link**: https://www.tools366.com/pt/tool/search-json-keys-online
+
+
+**Nome da ferramenta**: Ferramenta de Conversão de Imagem Colorida para Escala de Cinza/Preto e Branco Online  
+**Descrição da ferramenta**: Esta é uma ferramenta online que converte sem esforço suas imagens coloridas em escala de cinza ou preto e branco, dando às suas fotos uma sensação antiga e nostálgica.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Nome da ferramenta**: Ferramenta de extração e visualização da proporção de cores da imagem online  
 **Descrição da ferramenta**: Faça upload de uma imagem, analise as cores principais na imagem, calcule a proporção das cores da imagem e exiba visualmente a distribuição das cores.  
 **Categoria da ferramenta**: Ferramentas de Imagem  
 **Link**: https://www.tools366.com/pt/tool/image-color-ratio
+
+
+**Nome da ferramenta**: Ferramenta de Relevo de Imagens Online  
+**Descrição da ferramenta**: Uma ferramenta online que transforma sua imagem em uma imagem com aparência de relevo, dando às suas fotos um toque artístico.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/image-embossing-online-tool
 
 
 **Nome da ferramenta**: Extrator de Cor do Tema/Tom Principal da Imagem  
@@ -96,27 +114,15 @@
 **Link**: https://www.tools366.com/pt/tool/online-picture-flip-tool
 
 
-**Nome da ferramenta**: Ferramenta de rotação de imagem online  
-**Descrição da ferramenta**: Rotacione uma imagem em qualquer ângulo  
-**Categoria da ferramenta**: Ferramentas de Imagem  
-**Link**: https://www.tools366.com/pt/tool/rotate-image-online
-
-
 **Nome da ferramenta**: Ferramenta de inversão de cores de imagem online  
 **Descrição da ferramenta**: Use nossa ferramenta de inversão de cores de imagem online para inverter facilmente as cores de qualquer imagem. Não há necessidade de baixar software, a operação é simples e rápida.  
 **Categoria da ferramenta**: Ferramentas de Imagem  
 **Link**: https://www.tools366.com/pt/tool/online-picture-invert-color-tool
 
 
-**Nome da ferramenta**: Ferramenta de Conversão de Imagem Colorida para Escala de Cinza/Preto e Branco Online  
-**Descrição da ferramenta**: Esta é uma ferramenta online que converte sem esforço suas imagens coloridas em escala de cinza ou preto e branco, dando às suas fotos uma sensação antiga e nostálgica.  
+**Nome da ferramenta**: Ferramenta de rotação de imagem online  
+**Descrição da ferramenta**: Rotacione uma imagem em qualquer ângulo  
 **Categoria da ferramenta**: Ferramentas de Imagem  
-**Link**: https://www.tools366.com/pt/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Nome da ferramenta**: Ferramenta de Relevo de Imagens Online  
-**Descrição da ferramenta**: Uma ferramenta online que transforma sua imagem em uma imagem com aparência de relevo, dando às suas fotos um toque artístico.  
-**Categoria da ferramenta**: Ferramentas de Imagem  
-**Link**: https://www.tools366.com/pt/tool/image-embossing-online-tool
+**Link**: https://www.tools366.com/pt/tool/rotate-image-online
 
 

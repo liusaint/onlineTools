@@ -78,6 +78,12 @@
 **Tautan**: https://www.tools366.com/id/tool/search-in-json-online
 
 
+**Nama Alat**: Alat online untuk memfilter/mencari/memilih JSON KEY  
+**Deskripsi Alat**: Filter, cari, dan pilih secara fleksibel JSON KEY melalui teks dan ekspresi reguler untuk mendapatkan data yang diperlukan.  
+**Kategori Alat**: Alat Pemrograman  
+**Tautan**: https://www.tools366.com/id/tool/search-json-keys-online
+
+
 **Nama Alat**: Alat Ekstraksi dan Visualisasi Rasio Warna Gambar Online  
 **Deskripsi Alat**: Unggah gambar, analisis warna utama dalam gambar, hitung proporsi warna gambar, dan tampilkan secara visual distribusi warna.  
 **Kategori Alat**: Alat Gambar  

@@ -78,6 +78,12 @@
 **Link**: https://www.tools366.com/pl/tool/search-in-json-online
 
 
+**Nazwa narzędzia**: Narzędzie online do filtrowania/wyszukiwania/wybierania kluczy JSON  
+**Opis narzędzia**: Filtruj, wyszukuj i wybieraj elastycznie klucze JSON za pomocą tekstu i wyrażeń regularnych, aby uzyskać potrzebne dane.  
+**Kategoria narzędzi**: Narzędzia programistyczne  
+**Link**: https://www.tools366.com/pl/tool/search-json-keys-online
+
+
 **Nazwa narzędzia**: Narzędzie do ekstrakcji i wizualizacji proporcji kolorów obrazu online  
 **Opis narzędzia**: Prześlij obraz, przeanalizuj główne kolory na obrazie, oblicz proporcje kolorów obrazu i wizualnie przedstaw rozkład kolorów.  
 **Kategoria narzędzi**: Narzędzia do obrazów  

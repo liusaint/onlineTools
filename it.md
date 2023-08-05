@@ -78,10 +78,28 @@
 **Link**: https://www.tools366.com/it/tool/search-in-json-online
 
 
+**Nome dello strumento**: Strumento di filtraggio/ricerca/selezione online per JSON KEY  
+**Descrizione dello strumento**: Filtra, cerca e seleziona in modo flessibile JSON KEY tramite testo ed espressioni regolari per ottenere i dati necessari.  
+**Categoria dello strumento**: Strumenti di programmazione  
+**Link**: https://www.tools366.com/it/tool/search-json-keys-online
+
+
+**Nome dello strumento**: Strumento di Conversione da Immagini a Colori Online a Scala di Grigi/Bianco e Nero  
+**Descrizione dello strumento**: Questo è uno strumento online che converte senza sforzo le tue immagini a colori in scala di grigi o bianco e nero, conferendo alle tue foto un'atmosfera vecchia e nostalgica.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Nome dello strumento**: Strumento di estrazione e visualizzazione del rapporto di colore dell'immagine online  
 **Descrizione dello strumento**: Carica un'immagine, analizza i colori principali nell'immagine, calcola la proporzione dei colori dell'immagine e visualizza visivamente la distribuzione dei colori.  
 **Categoria dello strumento**: Strumenti per immagini  
 **Link**: https://www.tools366.com/it/tool/image-color-ratio
+
+
+**Nome dello strumento**: Strumento per l'embossing delle immagini online  
+**Descrizione dello strumento**: Uno strumento online che trasforma la tua immagine in un'immagine con effetto di goffratura, dando alle tue foto un tocco artistico.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-embossing-online-tool
 
 
 **Nome dello strumento**: Estrattore di Colore Principale/Tonalità Principale dell'Immagine  
@@ -96,27 +114,15 @@
 **Link**: https://www.tools366.com/it/tool/online-picture-flip-tool
 
 
-**Nome dello strumento**: Strumento di rotazione immagini online  
-**Descrizione dello strumento**: Ruota un'immagine di qualsiasi angolo  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/rotate-image-online
-
-
 **Nome dello strumento**: Strumento di Inversione del Colore dell'Immagine Online  
 **Descrizione dello strumento**: Usa il nostro strumento online di inversione del colore dell'immagine per invertire facilmente i colori di qualsiasi immagine. Non è necessario scaricare software, l'operazione è semplice e veloce.  
 **Categoria dello strumento**: Strumenti per immagini  
 **Link**: https://www.tools366.com/it/tool/online-picture-invert-color-tool
 
 
-**Nome dello strumento**: Strumento di Conversione da Immagini a Colori Online a Scala di Grigi/Bianco e Nero  
-**Descrizione dello strumento**: Questo è uno strumento online che converte senza sforzo le tue immagini a colori in scala di grigi o bianco e nero, conferendo alle tue foto un'atmosfera vecchia e nostalgica.  
+**Nome dello strumento**: Strumento di rotazione immagini online  
+**Descrizione dello strumento**: Ruota un'immagine di qualsiasi angolo  
 **Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Nome dello strumento**: Strumento per l'embossing delle immagini online  
-**Descrizione dello strumento**: Uno strumento online che trasforma la tua immagine in un'immagine con effetto di goffratura, dando alle tue foto un tocco artistico.  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/image-embossing-online-tool
+**Link**: https://www.tools366.com/it/tool/rotate-image-online
 
 

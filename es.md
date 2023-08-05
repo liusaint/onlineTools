@@ -78,10 +78,28 @@
 **Enlace**: https://www.tools366.com/es/tool/search-in-json-online
 
 
+**Nombre de la herramienta**: Herramienta de filtrado/búsqueda/cribado en línea para JSON KEY  
+**Descripción de la herramienta**: Filtra, busca y criba de manera flexible JSON KEY a través de texto y expresiones regulares para obtener los datos necesarios.  
+**Categoría de la herramienta**: Herramientas de programación  
+**Enlace**: https://www.tools366.com/es/tool/search-json-keys-online
+
+
+**Nombre de la herramienta**: Herramienta de conversión en línea de imágenes a escala de grises/negro y blanco  
+**Descripción de la herramienta**: Esta es una herramienta en línea que convierte sin esfuerzo tus imágenes a color en imágenes en escala de grises o en blanco y negro, dando a tus fotos un sentimiento antiguo y nostálgico.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Nombre de la herramienta**: Herramienta de extracción y visualización de la proporción de colores de la imagen en línea  
 **Descripción de la herramienta**: Sube una imagen, analiza los colores principales en la imagen, calcula la proporción de colores de la imagen y muestra visualmente la distribución de colores.  
 **Categoría de la herramienta**: Herramientas de imagen  
 **Enlace**: https://www.tools366.com/es/tool/image-color-ratio
+
+
+**Nombre de la herramienta**: Herramienta de repujado de imágenes en línea  
+**Descripción de la herramienta**: Una herramienta en línea que transforma tu imagen en una imagen con apariencia de repujado, dando a tus fotos un toque artístico.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-embossing-online-tool
 
 
 **Nombre de la herramienta**: Extractor de Color Temático/ Tono de Color Principal de la Imagen  
@@ -96,27 +114,15 @@
 **Enlace**: https://www.tools366.com/es/tool/online-picture-flip-tool
 
 
-**Nombre de la herramienta**: Herramienta de rotación de imágenes en línea  
-**Descripción de la herramienta**: Gira una imagen a cualquier ángulo  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/rotate-image-online
-
-
 **Nombre de la herramienta**: Herramienta de inversión de colores de imágenes en línea  
 **Descripción de la herramienta**: Use nuestra herramienta de inversión de colores de imágenes en línea para invertir fácilmente los colores de cualquier imagen. No es necesario descargar software, la operación es simple y rápida.  
 **Categoría de la herramienta**: Herramientas de imagen  
 **Enlace**: https://www.tools366.com/es/tool/online-picture-invert-color-tool
 
 
-**Nombre de la herramienta**: Herramienta de conversión en línea de imágenes a escala de grises/negro y blanco  
-**Descripción de la herramienta**: Esta es una herramienta en línea que convierte sin esfuerzo tus imágenes a color en imágenes en escala de grises o en blanco y negro, dando a tus fotos un sentimiento antiguo y nostálgico.  
+**Nombre de la herramienta**: Herramienta de rotación de imágenes en línea  
+**Descripción de la herramienta**: Gira una imagen a cualquier ángulo  
 **Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Nombre de la herramienta**: Herramienta de repujado de imágenes en línea  
-**Descripción de la herramienta**: Una herramienta en línea que transforma tu imagen en una imagen con apariencia de repujado, dando a tus fotos un toque artístico.  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/image-embossing-online-tool
+**Enlace**: https://www.tools366.com/es/tool/rotate-image-online
 
 

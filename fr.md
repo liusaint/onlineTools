@@ -78,10 +78,28 @@
 **Lien**: https://www.tools366.com/fr/tool/search-in-json-online
 
 
+**Nom de l'outil**: Outil de filtrage/recherche/crénelage en ligne pour JSON KEY  
+**Description de l'outil**: Filtrez, recherchez et criblez de manière flexible JSON KEY à l'aide de texte et d'expressions régulières pour obtenir les données nécessaires.  
+**Catégorie d'outil**: Outils de programmation  
+**Lien**: https://www.tools366.com/fr/tool/search-json-keys-online
+
+
+**Nom de l'outil**: Outil de conversion en ligne d'images en couleur en images en niveaux de gris/noir et blanc  
+**Description de l'outil**: Ceci est un outil en ligne qui convertit sans effort vos images en couleur en images en niveaux de gris ou en noir et blanc, donnant à vos photos une sensation ancienne et nostalgique.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Nom de l'outil**: Outil d'extraction et de visualisation du ratio de couleurs d'image en ligne  
 **Description de l'outil**: Téléchargez une image, analysez les couleurs principales de l'image, calculez la proportion des couleurs de l'image et affichez visuellement la distribution des couleurs.  
 **Catégorie d'outil**: Outils d'image  
 **Lien**: https://www.tools366.com/fr/tool/image-color-ratio
+
+
+**Nom de l'outil**: Outil de Gaufrage d'Image en ligne  
+**Description de l'outil**: Un outil en ligne qui transforme votre image en une image qui semble gaufrée, donnant une touche artistique à vos photos.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/image-embossing-online-tool
 
 
 **Nom de l'outil**: Extracteur de couleur thématique/image principale  
@@ -96,27 +114,15 @@
 **Lien**: https://www.tools366.com/fr/tool/online-picture-flip-tool
 
 
-**Nom de l'outil**: Outil de rotation d'image en ligne  
-**Description de l'outil**: Faites pivoter une image sous n'importe quel angle  
-**Catégorie d'outil**: Outils d'image  
-**Lien**: https://www.tools366.com/fr/tool/rotate-image-online
-
-
 **Nom de l'outil**: Outil d'inversion de couleur d'image en ligne  
 **Description de l'outil**: Utilisez notre outil d'inversion de couleur d'image en ligne pour inverser facilement les couleurs de n'importe quelle image. Pas besoin de télécharger de logiciel, l'opération est simple et rapide.  
 **Catégorie d'outil**: Outils d'image  
 **Lien**: https://www.tools366.com/fr/tool/online-picture-invert-color-tool
 
 
-**Nom de l'outil**: Outil de conversion en ligne d'images en couleur en images en niveaux de gris/noir et blanc  
-**Description de l'outil**: Ceci est un outil en ligne qui convertit sans effort vos images en couleur en images en niveaux de gris ou en noir et blanc, donnant à vos photos une sensation ancienne et nostalgique.  
+**Nom de l'outil**: Outil de rotation d'image en ligne  
+**Description de l'outil**: Faites pivoter une image sous n'importe quel angle  
 **Catégorie d'outil**: Outils d'image  
-**Lien**: https://www.tools366.com/fr/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Nom de l'outil**: Outil de Gaufrage d'Image en ligne  
-**Description de l'outil**: Un outil en ligne qui transforme votre image en une image qui semble gaufrée, donnant une touche artistique à vos photos.  
-**Catégorie d'outil**: Outils d'image  
-**Lien**: https://www.tools366.com/fr/tool/image-embossing-online-tool
+**Lien**: https://www.tools366.com/fr/tool/rotate-image-online
 
 

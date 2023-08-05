@@ -78,6 +78,12 @@
 **Link**: https://www.tools366.com/nl/tool/search-in-json-online
 
 
+**Toolnaam**: Online filter-/zoek-/selectietool voor JSON KEY  
+**Toolbeschrijving**: Filter, zoek en selecteer flexibel JSON KEY via tekst en reguliere expressies om de benodigde gegevens te verkrijgen.  
+**Toolcategorie**: Programmeer Gereedschap  
+**Link**: https://www.tools366.com/nl/tool/search-json-keys-online
+
+
 **Toolnaam**: Online afbeelding kleurverhouding extractie en visualisatie tool  
 **Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, bereken de verhouding van de kleuren van de afbeelding en visualiseer de kleurverdeling.  
 **Toolcategorie**: Afbeeldingstools  
