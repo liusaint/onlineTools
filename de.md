@@ -102,6 +102,12 @@
 **Link**: https://www.tools366.com/de/tool/image-embossing-online-tool
 
 
+**Tool-Name**: Online-Bild-Pixel-Art-Effekt-Generator  
+**Tool-Beschreibung**: Ein Online-Tool, das Ihre Bilder in Pixel-Art-Effekt-Bilder umwandelt, das Bild verpixelt.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/image-to-pixel-art-generator-online
+
+
 **Tool-Name**: Bild-Themenfarbe/Hauptfarbton-Extraktor  
 **Tool-Beschreibung**: Analysiert Bilder. Dieses Tool extrahiert den Hauptfarbton und eine andere spezifizierte Anzahl von Hauptfarben aus einem Bild  
 **Tool-Kategorie**: Bildwerkzeuge  

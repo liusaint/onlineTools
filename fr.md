@@ -102,6 +102,12 @@
 **Lien**: https://www.tools366.com/fr/tool/image-embossing-online-tool
 
 
+**Nom de l'outil**: Générateur d'effet d'art pixel en ligne  
+**Description de l'outil**: Un outil en ligne qui convertit vos images en images à effet d'art pixel, en pixelisant l'image.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/image-to-pixel-art-generator-online
+
+
 **Nom de l'outil**: Extracteur de couleur thématique/image principale  
 **Description de l'outil**: Analysez les images. Cet outil extrait la teinte principale et un certain nombre de couleurs principales spécifiées d'une image  
 **Catégorie d'outil**: Outils d'image  

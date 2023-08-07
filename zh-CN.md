@@ -102,6 +102,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/image-embossing-online-tool
 
 
+**工具名称**: 在线图片像素艺术效果生成工具  
+**工具描述**: 在线工具，将你的图片转换为具有像素艺术效果的图片，图片像素化。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/image-to-pixel-art-generator-online
+
+
 **工具名称**: 图片主题色/主色调提取器  
 **工具描述**: 分析图片。该工具会提取图片的主色调和其他指定数量的主要颜色  
 **工具类别**: 图片工具  

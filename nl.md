@@ -84,10 +84,28 @@
 **Link**: https://www.tools366.com/nl/tool/search-json-keys-online
 
 
+**Toolnaam**: Online Gereedschap voor de Omzetting van Kleurenafbeeldingen naar Grijstinten/Zwart & Wit  
+**Toolbeschrijving**: Dit is een online tool die moeiteloos uw kleurenafbeeldingen omzet naar grijstinten of zwart-wit, waardoor uw foto's een oude, nostalgische uitstraling krijgen.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Toolnaam**: Online afbeelding kleurverhouding extractie en visualisatie tool  
 **Toolbeschrijving**: Upload een afbeelding, analyseer de belangrijkste kleuren in de afbeelding, bereken de verhouding van de kleuren van de afbeelding en visualiseer de kleurverdeling.  
 **Toolcategorie**: Afbeeldingstools  
 **Link**: https://www.tools366.com/nl/tool/image-color-ratio
+
+
+**Toolnaam**: Online Afbeelding Embossing Tool  
+**Toolbeschrijving**: Een online tool die uw afbeelding transformeert in een reliëfachtige afbeelding, waardoor uw foto's een artistiek tintje krijgen.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/image-embossing-online-tool
+
+
+**Toolnaam**: Online Pixel Art Effect Generator voor Afbeeldingen  
+**Toolbeschrijving**: Een online tool die uw afbeeldingen omzet in afbeeldingen met een pixel art-effect, door het beeld te pixeleren.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/image-to-pixel-art-generator-online
 
 
 **Toolnaam**: Afbeeldingsthema Kleur/Hoofdkleurtoon Extractor  
@@ -102,27 +120,15 @@
 **Link**: https://www.tools366.com/nl/tool/online-picture-flip-tool
 
 
-**Toolnaam**: Online afbeelding rotatie tool  
-**Toolbeschrijving**: Roteer een afbeelding onder elke hoek  
-**Toolcategorie**: Afbeeldingstools  
-**Link**: https://www.tools366.com/nl/tool/rotate-image-online
-
-
 **Toolnaam**: Online kleuren omkeren tool  
 **Toolbeschrijving**: Gebruik onze online kleur omkeer tool om gemakkelijk de kleuren van elke afbeelding om te keren. Geen software downloaden nodig, de operatie is eenvoudig en snel.  
 **Toolcategorie**: Afbeeldingstools  
 **Link**: https://www.tools366.com/nl/tool/online-picture-invert-color-tool
 
 
-**Toolnaam**: Online Gereedschap voor de Omzetting van Kleurenafbeeldingen naar Grijstinten/Zwart & Wit  
-**Toolbeschrijving**: Dit is een online tool die moeiteloos uw kleurenafbeeldingen omzet naar grijstinten of zwart-wit, waardoor uw foto's een oude, nostalgische uitstraling krijgen.  
+**Toolnaam**: Online afbeelding rotatie tool  
+**Toolbeschrijving**: Roteer een afbeelding onder elke hoek  
 **Toolcategorie**: Afbeeldingstools  
-**Link**: https://www.tools366.com/nl/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Toolnaam**: Online Afbeelding Embossing Tool  
-**Toolbeschrijving**: Een online tool die uw afbeelding transformeert in een reliëfachtige afbeelding, waardoor uw foto's een artistiek tintje krijgen.  
-**Toolcategorie**: Afbeeldingstools  
-**Link**: https://www.tools366.com/nl/tool/image-embossing-online-tool
+**Link**: https://www.tools366.com/nl/tool/rotate-image-online
 
 

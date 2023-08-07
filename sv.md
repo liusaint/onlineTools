@@ -102,6 +102,12 @@
 **Länk**: https://www.tools366.com/sv/tool/image-embossing-online-tool
 
 
+**Verktygsnamn**: Online Pixlar Konsteffekt Skapare för Bilder  
+**Verktygsbeskrivning**: Ett onlineverktyg som omvandlar dina bilder till bilder med pixelkonsteffekt, pixeliserar bilden.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/image-to-pixel-art-generator-online
+
+
 **Verktygsnamn**: Extraktor för Bildtema Färg/Huvudfärg Ton  
 **Verktygsbeskrivning**: Analyserar bilder. Detta verktyg extraherar huvudfärgtonen och ett annat angivet antal huvudfärger från en bild  
 **Verktygskategori**: Bildverktyg  

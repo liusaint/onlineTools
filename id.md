@@ -84,10 +84,28 @@
 **Tautan**: https://www.tools366.com/id/tool/search-json-keys-online
 
 
+**Nama Alat**: Alat Konversi Gambar Warna ke Skala Abu-abu/Hitam & Putih Online  
+**Deskripsi Alat**: Ini adalah alat online yang dengan mudah mengubah gambar warna Anda menjadi skala abu-abu atau hitam putih, memberikan foto Anda nuansa lama, nostalgia.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Nama Alat**: Alat Ekstraksi dan Visualisasi Rasio Warna Gambar Online  
 **Deskripsi Alat**: Unggah gambar, analisis warna utama dalam gambar, hitung proporsi warna gambar, dan tampilkan secara visual distribusi warna.  
 **Kategori Alat**: Alat Gambar  
 **Tautan**: https://www.tools366.com/id/tool/image-color-ratio
+
+
+**Nama Alat**: Alat Embossing Gambar Online  
+**Deskripsi Alat**: Alat online yang mengubah gambar Anda menjadi gambar dengan tampilan timbul, memberikan sentuhan artistik pada foto Anda.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-embossing-online-tool
+
+
+**Nama Alat**: Generator Efek Seni Pixel Online untuk Gambar  
+**Deskripsi Alat**: Sebuah alat online yang mengkonversi gambar Anda menjadi gambar dengan efek seni pixel, mengubah gambar menjadi pixel.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-to-pixel-art-generator-online
 
 
 **Nama Alat**: Ekstraktor Warna Tema/Warna Utama dari Gambar  
@@ -102,27 +120,15 @@
 **Tautan**: https://www.tools366.com/id/tool/online-picture-flip-tool
 
 
-**Nama Alat**: Alat Rotasi Gambar Online  
-**Deskripsi Alat**: Putar gambar pada sudut apa saja  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/rotate-image-online
-
-
 **Nama Alat**: Alat Pembalikan Warna Gambar Online  
 **Deskripsi Alat**: Gunakan alat pembalikan warna gambar online kami untuk dengan mudah membalikkan warna dari gambar apa pun. Tidak perlu mengunduh perangkat lunak, operasinya sederhana dan cepat.  
 **Kategori Alat**: Alat Gambar  
 **Tautan**: https://www.tools366.com/id/tool/online-picture-invert-color-tool
 
 
-**Nama Alat**: Alat Konversi Gambar Warna ke Skala Abu-abu/Hitam & Putih Online  
-**Deskripsi Alat**: Ini adalah alat online yang dengan mudah mengubah gambar warna Anda menjadi skala abu-abu atau hitam putih, memberikan foto Anda nuansa lama, nostalgia.  
+**Nama Alat**: Alat Rotasi Gambar Online  
+**Deskripsi Alat**: Putar gambar pada sudut apa saja  
 **Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Nama Alat**: Alat Embossing Gambar Online  
-**Deskripsi Alat**: Alat online yang mengubah gambar Anda menjadi gambar dengan tampilan timbul, memberikan sentuhan artistik pada foto Anda.  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/image-embossing-online-tool
+**Tautan**: https://www.tools366.com/id/tool/rotate-image-online
 
 

@@ -84,10 +84,28 @@
 **Link**: https://www.tools366.com/pl/tool/search-json-keys-online
 
 
+**Nazwa narzędzia**: Online Narzędzie do Konwersji Kolorowych Obrazów na Skale Szarości/Czarno-Biały  
+**Opis narzędzia**: To jest narzędzie online, które bez wysiłku konwertuje twoje kolorowe obrazy na skalę szarości lub czarno-białe, nadając twoim zdjęciom starodawny, nostalgiczny klimat.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Nazwa narzędzia**: Narzędzie do ekstrakcji i wizualizacji proporcji kolorów obrazu online  
 **Opis narzędzia**: Prześlij obraz, przeanalizuj główne kolory na obrazie, oblicz proporcje kolorów obrazu i wizualnie przedstaw rozkład kolorów.  
 **Kategoria narzędzi**: Narzędzia do obrazów  
 **Link**: https://www.tools366.com/pl/tool/image-color-ratio
+
+
+**Nazwa narzędzia**: Narzędzie do tłoczenia obrazów online  
+**Opis narzędzia**: Narzędzie online, które przekształca Twój obraz w obraz wyglądający jak wytłoczony, nadając Twoim zdjęciom artystyczny akcent.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-embossing-online-tool
+
+
+**Nazwa narzędzia**: Online Generator Efektów Sztuki Pikselowej dla Obrazów  
+**Opis narzędzia**: Narzędzie online, które konwertuje Twoje obrazy na obrazy z efektem sztuki pikselowej, pikselizując obraz.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-to-pixel-art-generator-online
 
 
 **Nazwa narzędzia**: Ekstraktor Koloru Motywu/Głównego Tonu Koloru Obrazu  
@@ -102,27 +120,15 @@
 **Link**: https://www.tools366.com/pl/tool/online-picture-flip-tool
 
 
-**Nazwa narzędzia**: Narzędzie do obracania obrazów online  
-**Opis narzędzia**: Obróć obraz pod dowolnym kątem  
-**Kategoria narzędzi**: Narzędzia do obrazów  
-**Link**: https://www.tools366.com/pl/tool/rotate-image-online
-
-
 **Nazwa narzędzia**: Online Narzędzie do Inwersji Kolorów Obrazów  
 **Opis narzędzia**: Użyj naszego online narzędzia do inwersji kolorów obrazów, aby łatwo odwrócić kolory dowolnego obrazu. Nie musisz pobierać oprogramowania, operacja jest prosta i szybka.  
 **Kategoria narzędzi**: Narzędzia do obrazów  
 **Link**: https://www.tools366.com/pl/tool/online-picture-invert-color-tool
 
 
-**Nazwa narzędzia**: Online Narzędzie do Konwersji Kolorowych Obrazów na Skale Szarości/Czarno-Biały  
-**Opis narzędzia**: To jest narzędzie online, które bez wysiłku konwertuje twoje kolorowe obrazy na skalę szarości lub czarno-białe, nadając twoim zdjęciom starodawny, nostalgiczny klimat.  
+**Nazwa narzędzia**: Narzędzie do obracania obrazów online  
+**Opis narzędzia**: Obróć obraz pod dowolnym kątem  
 **Kategoria narzędzi**: Narzędzia do obrazów  
-**Link**: https://www.tools366.com/pl/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Nazwa narzędzia**: Narzędzie do tłoczenia obrazów online  
-**Opis narzędzia**: Narzędzie online, które przekształca Twój obraz w obraz wyglądający jak wytłoczony, nadając Twoim zdjęciom artystyczny akcent.  
-**Kategoria narzędzi**: Narzędzia do obrazów  
-**Link**: https://www.tools366.com/pl/tool/image-embossing-online-tool
+**Link**: https://www.tools366.com/pl/tool/rotate-image-online
 
 

@@ -102,6 +102,12 @@
 **Link**: https://www.tools366.com/it/tool/image-embossing-online-tool
 
 
+**Nome dello strumento**: Generatore di Effetti di Arte Pixel Online per Immagini  
+**Descrizione dello strumento**: Uno strumento online che converte le tue immagini in immagini con effetto arte pixel, pixelizzando l'immagine.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-to-pixel-art-generator-online
+
+
 **Nome dello strumento**: Estrattore di Colore Principale/Tonalità Principale dell'Immagine  
 **Descrizione dello strumento**: Analizza le immagini. Questo strumento estrae la tonalità di colore principale e un altro numero specificato di colori principali da un'immagine  
 **Categoria dello strumento**: Strumenti per immagini  

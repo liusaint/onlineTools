@@ -84,10 +84,28 @@
 **Link**: https://www.tools366.com/tool/search-json-keys-online
 
 
+**Tool Name**: Online Color Image to Grayscale/Black & White Conversion Tool  
+**Tool Description**: This is an online tool that effortlessly converts your color images into grayscale or black and white, giving your photos an old, nostalgic feel.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Tool Name**: Online Image Color Ratio Extraction and Visualization Tool  
 **Tool Description**: Upload an image, analyze the main colors in the image, calculate the proportion of image colors, and visually display the distribution of colors.  
 **Tool Category**: Image Tools  
 **Link**: https://www.tools366.com/tool/image-color-ratio
+
+
+**Tool Name**: Online Image Embossing Tool  
+**Tool Description**: An online tool that transforms your image into an embossed-looking picture, giving your photos an artistic touch.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-embossing-online-tool
+
+
+**Tool Name**: Online Image Pixel Art Effect Generator  
+**Tool Description**: An online tool that converts your images into pixel art effect images, pixelizing the picture.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-to-pixel-art-generator-online
 
 
 **Tool Name**: Image Theme Color/Main Color Tone Extractor  
@@ -102,27 +120,15 @@
 **Link**: https://www.tools366.com/tool/online-picture-flip-tool
 
 
-**Tool Name**: Online Image Rotation Tool  
-**Tool Description**: Rotate an image by any angle  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/rotate-image-online
-
-
 **Tool Name**: Online Image Color Inversion Tool  
 **Tool Description**: Use our online image color inversion tool to easily invert the colors of any image. No need to download software, the operation is simple and quick.  
 **Tool Category**: Image Tools  
 **Link**: https://www.tools366.com/tool/online-picture-invert-color-tool
 
 
-**Tool Name**: Online Color Image to Grayscale/Black & White Conversion Tool  
-**Tool Description**: This is an online tool that effortlessly converts your color images into grayscale or black and white, giving your photos an old, nostalgic feel.  
+**Tool Name**: Online Image Rotation Tool  
+**Tool Description**: Rotate an image by any angle  
 **Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Tool Name**: Online Image Embossing Tool  
-**Tool Description**: An online tool that transforms your image into an embossed-looking picture, giving your photos an artistic touch.  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/image-embossing-online-tool
+**Link**: https://www.tools366.com/tool/rotate-image-online
 
 

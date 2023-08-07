@@ -84,10 +84,28 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/search-json-keys-online
 
 
+**Araç Adı**: Çevrimiçi Renkli Resmi Gri Tonlama/Siyah Beyaz'a Dönüştürme Aracı  
+**Araç Açıklaması**: Bu, renkli resimlerinizi çabasızca gri tonlama veya siyah beyaza dönüştüren bir çevrimiçi araçtır, fotoğraflarınıza eski, nostaljik bir his verir.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/convert-color-image-to-grayscale-and-black-and-white-image
+
+
 **Araç Adı**: Çevrimiçi Resim Renk Oranı Çıkarma ve Görselleştirme Aracı  
 **Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri analiz edin, resim renklerinin oranını hesaplayın ve renklerin dağılımını görsel olarak gösterin.  
 **Araç Kategorisi**: Resim Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/image-color-ratio
+
+
+**Araç Adı**: Çevrimiçi Görüntü Kabartma Aracı  
+**Araç Açıklaması**: Görüntünüzü kabartma görünümlü bir resme dönüştüren bir çevrimiçi araç, fotoğraflarınıza sanatsal bir dokunuş verir.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-embossing-online-tool
+
+
+**Araç Adı**: Görüntüler İçin Online Piksel Sanat Etkisi Oluşturucu  
+**Araç Açıklaması**: Görüntülerinizi piksel sanat etkisiyle görüntülere dönüştüren bir online araç, görüntüyü pikselleştirir.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-to-pixel-art-generator-online
 
 
 **Araç Adı**: Görüntü Tema Rengi/Ana Renk Tonu Çıkarıcı  
@@ -102,27 +120,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/online-picture-flip-tool
 
 
-**Araç Adı**: Çevrimiçi Resim Döndürme Aracı  
-**Araç Açıklaması**: Bir resmi herhangi bir açıyla döndür  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
-
-
 **Araç Adı**: Çevrimiçi Resim Renk Ters Çevirme Aracı  
 **Araç Açıklaması**: Herhangi bir resmin renklerini kolayca ters çevirmek için çevrimiçi resim renk ters çevirme aracımızı kullanın. Yazılım indirmenize gerek yoktur, işlem basit ve hızlıdır.  
 **Araç Kategorisi**: Resim Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/online-picture-invert-color-tool
 
 
-**Araç Adı**: Çevrimiçi Renkli Resmi Gri Tonlama/Siyah Beyaz'a Dönüştürme Aracı  
-**Araç Açıklaması**: Bu, renkli resimlerinizi çabasızca gri tonlama veya siyah beyaza dönüştüren bir çevrimiçi araçtır, fotoğraflarınıza eski, nostaljik bir his verir.  
+**Araç Adı**: Çevrimiçi Resim Döndürme Aracı  
+**Araç Açıklaması**: Bir resmi herhangi bir açıyla döndür  
 **Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/convert-color-image-to-grayscale-and-black-and-white-image
-
-
-**Araç Adı**: Çevrimiçi Görüntü Kabartma Aracı  
-**Araç Açıklaması**: Görüntünüzü kabartma görünümlü bir resme dönüştüren bir çevrimiçi araç, fotoğraflarınıza sanatsal bir dokunuş verir.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/image-embossing-online-tool
+**Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
 
 

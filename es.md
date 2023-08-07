@@ -102,6 +102,12 @@
 **Enlace**: https://www.tools366.com/es/tool/image-embossing-online-tool
 
 
+**Nombre de la herramienta**: Generador de Efecto de Arte Pixel en Línea para Imágenes  
+**Descripción de la herramienta**: Una herramienta en línea que convierte tus imágenes en imágenes con efecto de arte pixelado, pixelando la imagen.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-to-pixel-art-generator-online
+
+
 **Nombre de la herramienta**: Extractor de Color Temático/ Tono de Color Principal de la Imagen  
 **Descripción de la herramienta**: Analiza imágenes. Esta herramienta extrae el tono de color principal y otro número especificado de colores principales de una imagen  
 **Categoría de la herramienta**: Herramientas de imagen  

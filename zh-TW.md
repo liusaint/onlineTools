@@ -54,6 +54,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/image-embossing-online-tool
 
 
+**工具名稱**: 線上圖像像素藝術效果生成器  
+**工具描述**: 一個將您的圖像轉換為像素藝術效果圖像的在線工具，像素化圖片。  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/image-to-pixel-art-generator-online
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  

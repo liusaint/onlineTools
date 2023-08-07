@@ -102,6 +102,12 @@
 **Link**: https://www.tools366.com/pt/tool/image-embossing-online-tool
 
 
+**Nome da ferramenta**: Gerador de Efeito de Arte em Pixel Online para Imagens  
+**Descrição da ferramenta**: Uma ferramenta online que converte suas imagens em imagens com efeito de arte em pixel, pixelizando a imagem.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/image-to-pixel-art-generator-online
+
+
 **Nome da ferramenta**: Extrator de Cor do Tema/Tom Principal da Imagem  
 **Descrição da ferramenta**: Analisa imagens. Esta ferramenta extrai o tom de cor principal e outro número especificado de cores principais de uma imagem  
 **Categoria da ferramenta**: Ferramentas de Imagem  
