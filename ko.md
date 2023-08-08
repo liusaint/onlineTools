@@ -132,3 +132,9 @@
 **링크**: https://www.tools366.com/ko/tool/rotate-image-online
 
 
+**도구 이름**: QR 코드 숨기기 온라인 도구/이미지 합치기 온라인 도구  
+**도구 설명**: 두 이미지를 하나로 합치고 흑백 배경에서 두 개의 다른 이미지를 표시합니다  
+**도구 카테고리**: 이미지 도구  
+**링크**: https://www.tools366.com/ko/tool/image-hiding-QR-code-online-tool
+
+

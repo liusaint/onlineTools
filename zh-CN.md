@@ -132,3 +132,9 @@
 **链接**: https://www.tools366.com/zh-CN/tool/rotate-image-online
 
 
+**工具名称**: 二维码隐藏工具/图片隐藏合并工具  
+**工具描述**: 将两张图片合并为一张，在黑色白色背景下看到的是不同的两张图片  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/image-hiding-QR-code-online-tool
+
+

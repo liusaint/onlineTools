@@ -132,3 +132,9 @@
 **Link**: https://www.tools366.com/it/tool/rotate-image-online
 
 
+**Nome dello strumento**: Strumento di Nascondimento del Codice QR Online/Strumento di Unione Immagini Online  
+**Descrizione dello strumento**: Unisci due immagini in una, mostrando due immagini diverse su sfondi bianchi e neri  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-hiding-QR-code-online-tool
+
+

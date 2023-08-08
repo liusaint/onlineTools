@@ -132,3 +132,9 @@
 **Link**: https://www.tools366.com/de/tool/rotate-image-online
 
 
+**Tool-Name**: QR-Code-Versteck-Online-Tool/Bildzusammenführung Online-Tool  
+**Tool-Beschreibung**: Verschmelzen Sie zwei Bilder zu einem, indem Sie zwei verschiedene Bilder auf schwarz-weißen Hintergründen darstellen  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/image-hiding-QR-code-online-tool
+
+

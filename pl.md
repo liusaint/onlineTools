@@ -132,3 +132,9 @@
 **Link**: https://www.tools366.com/pl/tool/rotate-image-online
 
 
+**Nazwa narzędzia**: Narzędzie do ukrywania kodów QR online/Narzędzie do łączenia obrazów online  
+**Opis narzędzia**: Połącz dwa obrazy w jeden, pokazując dwa różne obrazy na białym i czarnym tle  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-hiding-QR-code-online-tool
+
+

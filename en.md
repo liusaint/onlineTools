@@ -132,3 +132,9 @@
 **Link**: https://www.tools366.com/tool/rotate-image-online
 
 
+**Tool Name**: QR Code Hiding Online Tool/Image Hiding Merge Online Tool  
+**Tool Description**: Merge two images into one, displaying two different images on black and white backgrounds  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-hiding-QR-code-online-tool
+
+

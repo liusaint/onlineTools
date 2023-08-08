@@ -132,3 +132,9 @@
 **Link**: https://www.tools366.com/nl/tool/rotate-image-online
 
 
+**Toolnaam**: QR-Code Verbergen Online Tool/Afbeelding Samenvoegen Online Tool  
+**Toolbeschrijving**: Voeg twee afbeeldingen samen tot één, en toon twee verschillende afbeeldingen op zwarte en witte achtergronden  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/image-hiding-QR-code-online-tool
+
+

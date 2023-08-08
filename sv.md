@@ -132,3 +132,9 @@
 **Länk**: https://www.tools366.com/sv/tool/rotate-image-online
 
 
+**Verktygsnamn**: Online QR-kod Döljande Verktyg/Online Bild Sammanslagning Verktyg  
+**Verktygsbeskrivning**: Kombinera två bilder till en, och visa två olika bilder på vit och svart bakgrund  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/image-hiding-QR-code-online-tool
+
+

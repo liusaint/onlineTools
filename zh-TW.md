@@ -60,6 +60,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/image-to-pixel-art-generator-online
 
 
+**工具名稱**: QR碼隱藏在線工具/圖像隱藏合併在線工具  
+**工具描述**: 將兩個圖像合併為一個，在黑色和白色背景上顯示兩個不同的圖像  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/image-hiding-QR-code-online-tool
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  

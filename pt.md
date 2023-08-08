@@ -132,3 +132,9 @@
 **Link**: https://www.tools366.com/pt/tool/rotate-image-online
 
 
+**Nome da ferramenta**: Ferramenta Online de Ocultação de Código QR/Ferramenta Online de Fusão de Imagens  
+**Descrição da ferramenta**: Funde duas imagens em uma, exibindo duas imagens diferentes em fundos brancos e pretos  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/image-hiding-QR-code-online-tool
+
+

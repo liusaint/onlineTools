@@ -132,3 +132,9 @@
 **Tautan**: https://www.tools366.com/id/tool/rotate-image-online
 
 
+**Nama Alat**: Alat Online Menyembunyikan Kode QR/Alat Penggabungan Gambar Online  
+**Deskripsi Alat**: Gabungkan dua gambar menjadi satu, menampilkan dua gambar yang berbeda pada latar belakang putih dan hitam  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-hiding-QR-code-online-tool
+
+

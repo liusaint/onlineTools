@@ -132,3 +132,9 @@
 **Lien**: https://www.tools366.com/fr/tool/rotate-image-online
 
 
+**Nom de l'outil**: Outil de masquage de QR Code en ligne/Outil de fusion d'images en ligne  
+**Description de l'outil**: Fusionnez deux images en une seule, affichant deux images différentes sur des arrière-plans noir et blanc  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/image-hiding-QR-code-online-tool
+
+

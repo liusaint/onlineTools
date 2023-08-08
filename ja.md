@@ -132,3 +132,9 @@
 **リンク**: https://www.tools366.com/ja/tool/rotate-image-online
 
 
+**ツール名**: QRコード非表示オンラインツール/画像非表示マージオンラインツール  
+**ツールの説明**: 2つの画像を1つにマージし、白と黒の背景で異なる2つの画像を表示します  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/image-hiding-QR-code-online-tool
+
+

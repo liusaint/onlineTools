@@ -132,3 +132,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
 
 
+**Araç Adı**: Çevrimiçi QR Kod Gizleme Aracı/Çevrimiçi Resim Birleştirme Aracı  
+**Araç Açıklaması**: İki resmi birleştirin, beyaz ve siyah arka planlarda iki farklı resim gösterin  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-hiding-QR-code-online-tool
+
+

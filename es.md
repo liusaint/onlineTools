@@ -132,3 +132,9 @@
 **Enlace**: https://www.tools366.com/es/tool/rotate-image-online
 
 
+**Nombre de la herramienta**: Herramienta en línea para ocultar códigos QR/Herramienta en línea para fusionar imágenes  
+**Descripción de la herramienta**: Fusiona dos imágenes en una, mostrando dos imágenes diferentes en fondos blancos y negros  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-hiding-QR-code-online-tool
+
+
