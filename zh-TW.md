@@ -138,3 +138,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/reverse-text
 
 
+**工具名稱**: 線上英文大小寫轉換工具  
+**工具描述**: 輕鬆將文字轉換為大寫、小寫、每個單詞的首字母大寫，或每句的第一個字母大寫。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/convert-case-online-tool
+
+

@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/nl/tool/multiline-to-single-line-online-tool
 
 
+**Toolnaam**: Online Engels Geval Conversie Gereedschap  
+**Toolbeschrijving**: Zet tekst gemakkelijk om naar hoofdletters, kleine letters, maak elk woord met een hoofdletter of maak de eerste letter van elke zin met een hoofdletter.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/convert-case-online-tool
+
+
 **Toolnaam**: Kopieer JSON Pad, Formaat en Comprimeer JSON Tool  
 **Toolbeschrijving**: Converteert JSON tekst naar een visuele boomstructuur, kopieert snel en toont JSON paden. Behandelt niet-standaard JSON, formatteert of comprimeert JSON gegevens naar standaard JSON.  
 **Toolcategorie**: Programmeer Gereedschap  

@@ -54,6 +54,12 @@
 **Enlace**: https://www.tools366.com/es/tool/multiline-to-single-line-online-tool
 
 
+**Nombre de la herramienta**: Herramienta de conversión de mayúsculas y minúsculas en inglés en línea  
+**Descripción de la herramienta**: Convierte fácilmente el texto a mayúsculas, minúsculas, capitaliza cada palabra o capitaliza la primera letra de cada oración.  
+**Categoría de la herramienta**: Herramientas de Texto  
+**Enlace**: https://www.tools366.com/es/tool/convert-case-online-tool
+
+
 **Nombre de la herramienta**: Copiar la ruta JSON, Herramienta de formato y compresión de JSON  
 **Descripción de la herramienta**: Convierte el texto JSON en una estructura de árbol visual, copia rápidamente y muestra las rutas JSON. Maneja JSON no estándar, formatea o comprime datos JSON en JSON estándar.  
 **Categoría de la herramienta**: Herramientas de programación  

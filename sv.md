@@ -54,6 +54,12 @@
 **Länk**: https://www.tools366.com/sv/tool/multiline-to-single-line-online-tool
 
 
+**Verktygsnamn**: Online Verktyg för Omvandling av Engelska Skriftfall  
+**Verktygsbeskrivning**: Konvertera text lätt till versaler, gemener, stor bokstav i början av varje ord eller stor bokstav i början av varje mening.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/convert-case-online-tool
+
+
 **Verktygsnamn**: Kopiera JSON-sökväg, Formatera och Komprimera JSON-verktyg  
 **Verktygsbeskrivning**: Omvandlar JSON-text till en visuell trädstruktur, kopierar snabbt och visar JSON-sökvägar. Hanterar icke-standard JSON, formaterar eller komprimerar JSON-data till standard JSON.  
 **Verktygskategori**: Programmeringsverktyg  

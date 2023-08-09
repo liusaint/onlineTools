@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/pt/tool/multiline-to-single-line-online-tool
 
 
+**Nome da ferramenta**: Ferramenta de Conversão de Caixa de Inglês Online  
+**Descrição da ferramenta**: Converta facilmente o texto para maiúsculas, minúsculas, capitalize cada palavra ou capitalize a primeira letra de cada frase.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/convert-case-online-tool
+
+
 **Nome da ferramenta**: Copiar Caminho JSON, Formatar e Comprimir Ferramentas JSON  
 **Descrição da ferramenta**: Transforma texto JSON em uma estrutura de árvore visual, copia rapidamente e exibe caminhos JSON. Lida com JSON não padrão, formata ou comprime dados JSON para JSON padrão.  
 **Categoria da ferramenta**: Ferramentas de Programação  

@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/pl/tool/multiline-to-single-line-online-tool
 
 
+**Nazwa narzędzia**: Narzędzie do Konwersji Wielkości Liter w Języku Angielskim Online  
+**Opis narzędzia**: Łatwo konwertuj tekst na wielkie litery, małe litery, z dużej litery każde słowo, lub z dużej litery pierwszą literę każdego zdania.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/convert-case-online-tool
+
+
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
 **Opis narzędzia**: Konwertuje tekst JSON na wizualną strukturę drzewa, szybko kopiuje i wyświetla ścieżki JSON. Obsługuje niestandardowy JSON, formatuje lub kompresuje dane JSON do standardowego JSON.  
 **Kategoria narzędzi**: Narzędzia programistyczne  

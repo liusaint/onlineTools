@@ -54,6 +54,12 @@
 **Lien**: https://www.tools366.com/fr/tool/multiline-to-single-line-online-tool
 
 
+**Nom de l'outil**: Outil de conversion de casse en anglais en ligne  
+**Description de l'outil**: Convertissez facilement du texte en majuscules, minuscules, capitalisez chaque mot, ou capitalisez la première lettre de chaque phrase.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/convert-case-online-tool
+
+
 **Nom de l'outil**: Copier le chemin JSON, outil de formatage et de compression JSON  
 **Description de l'outil**: Convertit le texte JSON en une structure d'arbre visuelle, copie rapidement et affiche les chemins JSON. Gère le JSON non standard, formate ou compresse les données JSON en JSON standard.  
 **Catégorie d'outil**: Outils de programmation  

@@ -54,6 +54,12 @@
 **Tautan**: https://www.tools366.com/id/tool/multiline-to-single-line-online-tool
 
 
+**Nama Alat**: Alat Konversi Huruf Besar dan Kecil Bahasa Inggris Online  
+**Deskripsi Alat**: Mudah mengonversi teks menjadi huruf besar, huruf kecil, kapitalisasi setiap kata, atau kapitalisasi huruf pertama dari setiap kalimat.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/convert-case-online-tool
+
+
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  

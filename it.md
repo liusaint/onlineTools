@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/it/tool/multiline-to-single-line-online-tool
 
 
+**Nome dello strumento**: Strumento di conversione del caso in inglese online  
+**Descrizione dello strumento**: Converti facilmente il testo in maiuscolo, minuscolo, capitalizza ogni parola o capitalizza la prima lettera di ogni frase.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/convert-case-online-tool
+
+
 **Nome dello strumento**: Copia Percorso JSON, Formatta e Comprimi Strumento JSON  
 **Descrizione dello strumento**: Converte il testo JSON in una struttura ad albero visuale, copia rapidamente e visualizza i percorsi JSON. Gestisce JSON non standard, formatta o comprime i dati JSON in JSON standard.  
 **Categoria dello strumento**: Strumenti di programmazione  

@@ -54,6 +54,12 @@
 **Link**: https://www.tools366.com/de/tool/multiline-to-single-line-online-tool
 
 
+**Tool-Name**: Online-Tool zur Umwandlung von Groß- und Kleinschreibung in Englisch  
+**Tool-Beschreibung**: Text einfach in Großbuchstaben, Kleinbuchstaben umwandeln, jedes Wort großschreiben oder den ersten Buchstaben jedes Satzes großschreiben.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/convert-case-online-tool
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

@@ -54,6 +54,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/multiline-to-single-line-online-tool
 
 
+**Araç Adı**: Çevrim içi İngilizce Büyük-Küçük Harf Dönüşüm Aracı  
+**Araç Açıklaması**: Metni kolayca büyük harfe, küçük harfe dönüştürün, her kelimenin ilk harfini veya her cümlenin ilk harfini büyütün.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/convert-case-online-tool
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  
