@@ -54,6 +54,18 @@
 **Link**: https://www.tools366.com/tool/multiline-to-single-line-online-tool
 
 
+**Tool Name**: Online English Case Conversion Tool  
+**Tool Description**: Easily convert text to uppercase, lowercase, capitalize each word, or capitalize the first letter of each sentence.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/convert-case-online-tool
+
+
+**Tool Name**: ɐqɔpǝɟ--English Text Inversion Flipper/Online Upside-Down Tool  
+**Tool Description**: Use this tool to vertically or horizontally flip your text.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/upside-down-text-online-tool
+
+
 **Tool Name**: CamelCase/Underscore/Hyphen Conversion Tool  
 **Tool Description**: Implements conversion between CamelCase, underscore, and hyphen-separated text naming conventions.  
 **Tool Category**: Programming Tools  

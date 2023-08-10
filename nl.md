@@ -60,6 +60,12 @@
 **Link**: https://www.tools366.com/nl/tool/convert-case-online-tool
 
 
+**Toolnaam**: ɐqɔpǝɟ--Engelse Tekst Inversie Flipper/Online Ondersteboven Tool  
+**Toolbeschrijving**: Gebruik dit hulpmiddel om uw tekst verticaal of horizontaal te kantelen.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/upside-down-text-online-tool
+
+
 **Toolnaam**: Kopieer JSON Pad, Formaat en Comprimeer JSON Tool  
 **Toolbeschrijving**: Converteert JSON tekst naar een visuele boomstructuur, kopieert snel en toont JSON paden. Behandelt niet-standaard JSON, formatteert of comprimeert JSON gegevens naar standaard JSON.  
 **Toolcategorie**: Programmeer Gereedschap  

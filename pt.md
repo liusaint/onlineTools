@@ -60,6 +60,12 @@
 **Link**: https://www.tools366.com/pt/tool/convert-case-online-tool
 
 
+**Nome da ferramenta**: ɐqɔpǝɟ--Inversor de Texto em Inglês/Ferramenta Online de Cabeça para Baixo  
+**Descrição da ferramenta**: Use esta ferramenta para virar o seu texto verticalmente ou horizontalmente.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/upside-down-text-online-tool
+
+
 **Nome da ferramenta**: Copiar Caminho JSON, Formatar e Comprimir Ferramentas JSON  
 **Descrição da ferramenta**: Transforma texto JSON em uma estrutura de árvore visual, copia rapidamente e exibe caminhos JSON. Lida com JSON não padrão, formata ou comprime dados JSON para JSON padrão.  
 **Categoria da ferramenta**: Ferramentas de Programação  

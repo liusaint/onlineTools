@@ -60,6 +60,12 @@
 **Link**: https://www.tools366.com/de/tool/convert-case-online-tool
 
 
+**Tool-Name**: ɐqɔpǝɟ--Englischer Text-Inversions-Flipper/Online-Upside-Down-Tool  
+**Tool-Beschreibung**: Verwenden Sie dieses Tool, um Ihren Text vertikal oder horizontal zu kippen.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/upside-down-text-online-tool
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

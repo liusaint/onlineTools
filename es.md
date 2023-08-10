@@ -60,6 +60,12 @@
 **Enlace**: https://www.tools366.com/es/tool/convert-case-online-tool
 
 
+**Nombre de la herramienta**: ɐqɔpǝɟ--Inversor de texto en inglés/herramienta en línea de al revés  
+**Descripción de la herramienta**: Utilice esta herramienta para voltear su texto vertical u horizontalmente.  
+**Categoría de la herramienta**: Herramientas de Texto  
+**Enlace**: https://www.tools366.com/es/tool/upside-down-text-online-tool
+
+
 **Nombre de la herramienta**: Copiar la ruta JSON, Herramienta de formato y compresión de JSON  
 **Descripción de la herramienta**: Convierte el texto JSON en una estructura de árbol visual, copia rápidamente y muestra las rutas JSON. Maneja JSON no estándar, formatea o comprime datos JSON en JSON estándar.  
 **Categoría de la herramienta**: Herramientas de programación  

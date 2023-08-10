@@ -60,6 +60,12 @@
 **Tautan**: https://www.tools366.com/id/tool/convert-case-online-tool
 
 
+**Nama Alat**: ɐqɔpǝɟ--Pembalik Teks Bahasa Inggris/Alat Terbalik Online  
+**Deskripsi Alat**: Gunakan alat ini untuk membalik teks Anda secara vertikal atau horizontal.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/upside-down-text-online-tool
+
+
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  

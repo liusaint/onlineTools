@@ -60,6 +60,12 @@
 **Link**: https://www.tools366.com/it/tool/convert-case-online-tool
 
 
+**Nome dello strumento**: ɐqɔpǝɟ--Ribalta di testo in inglese/strumento online sottosopra  
+**Descrizione dello strumento**: Usa questo strumento per capovolgere verticalmente o orizzontalmente il tuo testo.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/upside-down-text-online-tool
+
+
 **Nome dello strumento**: Copia Percorso JSON, Formatta e Comprimi Strumento JSON  
 **Descrizione dello strumento**: Converte il testo JSON in una struttura ad albero visuale, copia rapidamente e visualizza i percorsi JSON. Gestisce JSON non standard, formatta o comprime i dati JSON in JSON standard.  
 **Categoria dello strumento**: Strumenti di programmazione  

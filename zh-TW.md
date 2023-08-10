@@ -144,3 +144,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/convert-case-online-tool
 
 
+**工具名稱**: ɐqɔpǝɟ--英文文字倒置翻轉工具/線上上下倒置工具  
+**工具描述**: 使用此工具可垂直或水平翻轉您的文字。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/upside-down-text-online-tool
+
+

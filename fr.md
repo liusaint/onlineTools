@@ -60,6 +60,12 @@
 **Lien**: https://www.tools366.com/fr/tool/convert-case-online-tool
 
 
+**Nom de l'outil**: ɐqɔpǝɟ--Renverseur de texte en anglais/outil en ligne à l'envers  
+**Description de l'outil**: Utilisez cet outil pour retourner votre texte verticalement ou horizontalement.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/upside-down-text-online-tool
+
+
 **Nom de l'outil**: Copier le chemin JSON, outil de formatage et de compression JSON  
 **Description de l'outil**: Convertit le texte JSON en une structure d'arbre visuelle, copie rapidement et affiche les chemins JSON. Gère le JSON non standard, formate ou compresse les données JSON en JSON standard.  
 **Catégorie d'outil**: Outils de programmation  

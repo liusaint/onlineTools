@@ -60,6 +60,12 @@
 **Länk**: https://www.tools366.com/sv/tool/convert-case-online-tool
 
 
+**Verktygsnamn**: ɐqɔpǝɟ--Engelsk Text Inversions Flipper/Online Upp och Ned-Verktyg  
+**Verktygsbeskrivning**: Använd detta verktyg för att vertikalt eller horisontellt vända din text.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/upside-down-text-online-tool
+
+
 **Verktygsnamn**: Kopiera JSON-sökväg, Formatera och Komprimera JSON-verktyg  
 **Verktygsbeskrivning**: Omvandlar JSON-text till en visuell trädstruktur, kopierar snabbt och visar JSON-sökvägar. Hanterar icke-standard JSON, formaterar eller komprimerar JSON-data till standard JSON.  
 **Verktygskategori**: Programmeringsverktyg  

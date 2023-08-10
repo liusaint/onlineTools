@@ -60,6 +60,12 @@
 **Link**: https://www.tools366.com/pl/tool/convert-case-online-tool
 
 
+**Nazwa narzędzia**: ɐqɔpǝɟ--Odwracacz Tekstu Po Angielsku/Narzędzie Do Odwracania Do Góry Nogami Online  
+**Opis narzędzia**: Użyj tego narzędzia, aby odwrócić swój tekst pionowo lub poziomo.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/upside-down-text-online-tool
+
+
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
 **Opis narzędzia**: Konwertuje tekst JSON na wizualną strukturę drzewa, szybko kopiuje i wyświetla ścieżki JSON. Obsługuje niestandardowy JSON, formatuje lub kompresuje dane JSON do standardowego JSON.  
 **Kategoria narzędzi**: Narzędzia programistyczne  

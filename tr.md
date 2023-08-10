@@ -60,6 +60,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/convert-case-online-tool
 
 
+**Araç Adı**: ɐqɔpǝɟ--İngilizce Metin Ters Çevirici/Çevrim İçi Ters Döndürme Aracı  
+**Araç Açıklaması**: Metninizi dikey veya yatay olarak ters çevirmek için bu aracı kullanın.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/upside-down-text-online-tool
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  

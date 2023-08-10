@@ -60,6 +60,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/convert-case-online-tool
 
 
+**工具名称**: ɐqɔpǝɟ--英文文本倒立翻转器/上下颠倒在线工具  
+**工具描述**: 使用此工具可垂直或水平翻转您的文本。  
+**工具类别**: 文本工具  
+**链接**: https://www.tools366.com/zh-CN/tool/upside-down-text-online-tool
+
+
 **工具名称**: 大小驼峰式/下划线/短横线分隔转换工具  
 **工具描述**: 实现大小驼峰式、下划线、短横线分隔符的文本命名规则互相转换。  
 **工具类别**: 编程工具  
