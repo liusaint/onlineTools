@@ -66,6 +66,12 @@
 **Enlace**: https://www.tools366.com/es/tool/upside-down-text-online-tool
 
 
+**Nombre de la herramienta**: Convertidor en línea de números a texto multilingüe  
+**Descripción de la herramienta**: El convertidor de números a texto es una herramienta en línea que permite convertir rápidamente números en descripciones de texto en varios idiomas. Ofrece varias opciones de idioma y proporciona diferentes selecciones de formato de caso. Ya sea para el aprendizaje, el trabajo o el desarrollo de proyectos, es una herramienta útil.  
+**Categoría de la herramienta**: Herramientas de Texto  
+**Enlace**: https://www.tools366.com/es/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Nombre de la herramienta**: Copiar la ruta JSON, Herramienta de formato y compresión de JSON  
 **Descripción de la herramienta**: Convierte el texto JSON en una estructura de árbol visual, copia rápidamente y muestra las rutas JSON. Maneja JSON no estándar, formatea o comprime datos JSON en JSON estándar.  
 **Categoría de la herramienta**: Herramientas de programación  

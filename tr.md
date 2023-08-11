@@ -66,6 +66,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/upside-down-text-online-tool
 
 
+**Araç Adı**: Çok Dilli Sayıdan Metne Online Dönüştürücü  
+**Araç Açıklaması**: Sayıdan metne dönüştürücü, çeşitli dillerde sayıları hızla metin açıklamalarına dönüştürmenize olanak tanır. Farklı dil seçenekleri sunar ve farklı durum formatı seçimleri sağlar. Öğrenme, iş veya proje geliştirme için olsun, kullanışlı bir araçtır.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  

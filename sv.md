@@ -66,6 +66,12 @@
 **Länk**: https://www.tools366.com/sv/tool/upside-down-text-online-tool
 
 
+**Verktygsnamn**: Flerspråkig Nummer till Text Online Omvandlare  
+**Verktygsbeskrivning**: Nummer till text-omvandlaren är ett onlineverktyg som låter dig snabbt konvertera nummer till textbeskrivningar på flera språk. Det erbjuder olika språkalternativ och ger olika fallformatval. Oavsett om det är för inlärning, arbete eller projektutveckling är det ett praktiskt verktyg.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Verktygsnamn**: Kopiera JSON-sökväg, Formatera och Komprimera JSON-verktyg  
 **Verktygsbeskrivning**: Omvandlar JSON-text till en visuell trädstruktur, kopierar snabbt och visar JSON-sökvägar. Hanterar icke-standard JSON, formaterar eller komprimerar JSON-data till standard JSON.  
 **Verktygskategori**: Programmeringsverktyg  

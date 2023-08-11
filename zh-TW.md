@@ -150,3 +150,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/upside-down-text-online-tool
 
 
+**工具名稱**: 多語言數字到文字在線轉換器  
+**工具描述**: 數字到文字轉換器是一個在線工具，可讓您迅速將數字轉換為多種語言的文字描述。它提供了各種語言選項，並提供了不同的大小寫格式選擇。無論是學習，工作還是項目開發，都是一個方便的工具。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/numbers-to-words-multiple-languages-online-tool
+
+

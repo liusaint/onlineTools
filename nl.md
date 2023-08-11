@@ -66,6 +66,12 @@
 **Link**: https://www.tools366.com/nl/tool/upside-down-text-online-tool
 
 
+**Toolnaam**: Online Meertalige Nummer naar Tekst Converter  
+**Toolbeschrijving**: De nummer naar tekst converter is een online tool waarmee je snel nummers kunt omzetten in tekstbeschrijvingen in meerdere talen. Het biedt verschillende taalopties en biedt verschillende keuzes voor hoofdlettergebruik. Of het nu voor leren, werken of projectontwikkeling is, het is een handig hulpmiddel.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Toolnaam**: Kopieer JSON Pad, Formaat en Comprimeer JSON Tool  
 **Toolbeschrijving**: Converteert JSON tekst naar een visuele boomstructuur, kopieert snel en toont JSON paden. Behandelt niet-standaard JSON, formatteert of comprimeert JSON gegevens naar standaard JSON.  
 **Toolcategorie**: Programmeer Gereedschap  

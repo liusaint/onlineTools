@@ -66,6 +66,12 @@
 **Link**: https://www.tools366.com/de/tool/upside-down-text-online-tool
 
 
+**Tool-Name**: Mehrsprachiger Online-Konverter für Zahlen in Text  
+**Tool-Beschreibung**: Der Konverter von Zahlen in Text ist ein Online-Tool, mit dem Sie schnell Zahlen in Textbeschreibungen in mehreren Sprachen umwandeln können. Es bietet verschiedene Sprachoptionen und verschiedene Auswahlmöglichkeiten für das Fallformat. Ob für das Lernen, die Arbeit oder die Projektentwicklung, es ist ein praktisches Tool.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

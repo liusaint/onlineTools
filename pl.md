@@ -66,6 +66,12 @@
 **Link**: https://www.tools366.com/pl/tool/upside-down-text-online-tool
 
 
+**Nazwa narzędzia**: Wielojęzyczny Konwerter Liczb na Tekst Online  
+**Opis narzędzia**: Konwerter liczb na tekst to narzędzie online, które pozwala szybko przeliczyć liczby na opisy tekstowe w wielu językach. Oferuje różne opcje językowe i dostarcza różne wybory formatowania przypadków. Niezależnie czy jest to do nauki, pracy czy rozwoju projektu, jest to przydatne narzędzie.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
 **Opis narzędzia**: Konwertuje tekst JSON na wizualną strukturę drzewa, szybko kopiuje i wyświetla ścieżki JSON. Obsługuje niestandardowy JSON, formatuje lub kompresuje dane JSON do standardowego JSON.  
 **Kategoria narzędzi**: Narzędzia programistyczne  

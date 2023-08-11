@@ -66,6 +66,12 @@
 **Lien**: https://www.tools366.com/fr/tool/upside-down-text-online-tool
 
 
+**Nom de l'outil**: Convertisseur en ligne de nombres en texte multilingue  
+**Description de l'outil**: Le convertisseur de nombres en texte est un outil en ligne qui vous permet de convertir rapidement des nombres en descriptions textuelles dans plusieurs langues. Il offre diverses options de langues et fournit différentes sélections de formats de cas. Que ce soit pour l'apprentissage, le travail ou le développement de projet, c'est un outil pratique.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Nom de l'outil**: Copier le chemin JSON, outil de formatage et de compression JSON  
 **Description de l'outil**: Convertit le texte JSON en une structure d'arbre visuelle, copie rapidement et affiche les chemins JSON. Gère le JSON non standard, formate ou compresse les données JSON en JSON standard.  
 **Catégorie d'outil**: Outils de programmation  

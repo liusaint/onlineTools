@@ -66,6 +66,12 @@
 **Tautan**: https://www.tools366.com/id/tool/upside-down-text-online-tool
 
 
+**Nama Alat**: Konverter Angka ke Teks Online Multibahasa  
+**Deskripsi Alat**: Konverter angka ke teks adalah alat online yang memungkinkan Anda untuk dengan cepat mengkonversi angka menjadi deskripsi teks dalam beberapa bahasa. Menawarkan berbagai pilihan bahasa dan menyediakan berbagai pilihan format huruf besar/kecil. Baik untuk belajar, bekerja, atau pengembangan proyek, ini adalah alat yang berguna.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/numbers-to-words-multiple-languages-online-tool
+
+
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  
