@@ -162,3 +162,9 @@
 **Link**: https://www.tools366.com/it/tool/image-hiding-QR-code-online-tool
 
 
+**Nome dello strumento**: Strumento online per immagini in Base64 | Codifica Base64 | Convertitore Base64  
+**Descrizione dello strumento**: Converti rapidamente i file immagine nel formato Base64. Supporta vari formati di immagine per un uso online conveniente.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-to-base64
+
+

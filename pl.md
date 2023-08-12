@@ -162,3 +162,9 @@
 **Link**: https://www.tools366.com/pl/tool/rotate-image-online
 
 
+**Nazwa narzędzia**: Narzędzie Online do Konwersji Obrazów na Base64 | Kodowanie Base64 | Konwerter Base64  
+**Opis narzędzia**: Szybko konwertuj pliki obrazów na format Base64. Obsługuje różne formaty obrazów dla wygodnego korzystania online.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-to-base64
+
+

@@ -162,3 +162,9 @@
 **Link**: https://www.tools366.com/tool/image-hiding-QR-code-online-tool
 
 
+**Tool Name**: Online Image to Base64 Tool| Base64 Encode | Base64 Converter  
+**Tool Description**: Quickly convert image files into Base64 format. Supports various image formats for convenient online use.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-to-base64
+
+

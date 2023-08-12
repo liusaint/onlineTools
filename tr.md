@@ -162,3 +162,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/image-hiding-QR-code-online-tool
 
 
+**Araç Adı**: Çevrimiçi Resimden Base64 Aracı | Base64 Kodlama | Base64 Dönüştürücü  
+**Araç Açıklaması**: Resim dosyalarını hızla Base64 formatına dönüştürün. Çevrimiçi kullanım için çeşitli resim formatlarını destekler.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-to-base64
+
+

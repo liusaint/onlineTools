@@ -162,3 +162,9 @@
 **Tautan**: https://www.tools366.com/id/tool/image-hiding-QR-code-online-tool
 
 
+**Nama Alat**: Alat Online Gambar ke Base64 | Enkode Base64 | Konverter Base64  
+**Deskripsi Alat**: Cepat mengkonversi file gambar ke format Base64. Mendukung berbagai format gambar untuk penggunaan online yang nyaman.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-to-base64
+
+

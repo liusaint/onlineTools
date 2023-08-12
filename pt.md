@@ -66,6 +66,12 @@
 **Link**: https://www.tools366.com/pt/tool/rotate-image-online
 
 
+**Nome da ferramenta**: Ferramenta Online de Imagem para Base64 | Codificação Base64 | Conversor Base64  
+**Descrição da ferramenta**: Converta rapidamente arquivos de imagem para o formato Base64. Suporta vários formatos de imagem para uso conveniente online.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/image-to-base64
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  

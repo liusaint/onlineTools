@@ -162,3 +162,9 @@
 **リンク**: https://www.tools366.com/ja/tool/image-hiding-QR-code-online-tool
 
 
+**ツール名**: オンライン画像からBase64ツールへ| Base64エンコード | Base64コンバーター  
+**ツールの説明**: 画像ファイルを迅速にBase64形式に変換します。便利なオンライン使用のためのさまざまな画像形式をサポートしています。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/image-to-base64
+
+

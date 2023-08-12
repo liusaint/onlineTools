@@ -66,6 +66,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/image-hiding-QR-code-online-tool
 
 
+**工具名稱**: 線上圖片至Base64工具| Base64編碼 | Base64轉換器  
+**工具描述**: 迅速將圖片文件轉換為Base64格式。支援各種圖片格式，方便在線使用。  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/image-to-base64
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  

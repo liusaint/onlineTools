@@ -66,6 +66,12 @@
 **Link**: https://www.tools366.com/nl/tool/rotate-image-online
 
 
+**Toolnaam**: Online Afbeelding naar Base64 Tool | Base64 Encoderen | Base64 Converter  
+**Toolbeschrijving**: Zet snel afbeeldingsbestanden om naar Base64-formaat. Ondersteunt verschillende afbeeldingsformaten voor handig online gebruik.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/image-to-base64
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  

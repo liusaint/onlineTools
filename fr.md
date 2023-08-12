@@ -66,6 +66,12 @@
 **Lien**: https://www.tools366.com/fr/tool/rotate-image-online
 
 
+**Nom de l'outil**: Outil en ligne Image en Base64 | Encodage Base64 | Convertisseur Base64  
+**Description de l'outil**: Convertissez rapidement des fichiers image au format Base64. Prend en charge divers formats d'image pour une utilisation en ligne pratique.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/image-to-base64
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  

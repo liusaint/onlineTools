@@ -66,6 +66,12 @@
 **Länk**: https://www.tools366.com/sv/tool/rotate-image-online
 
 
+**Verktygsnamn**: Onlineverktyg för bild till Base64 | Base64-kodning | Base64-konverterare  
+**Verktygsbeskrivning**: Omvandla snabbt bildfiler till Base64-format. Stöder olika bildformat för bekvämt onlinebruk.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/image-to-base64
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  
