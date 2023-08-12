@@ -67,9 +67,15 @@
 
 
 **Nombre de la herramienta**: Convertidor en línea de números a texto multilingüe  
-**Descripción de la herramienta**: El convertidor de números a texto es una herramienta en línea que permite convertir rápidamente números en descripciones de texto en varios idiomas. Ofrece varias opciones de idioma y proporciona diferentes selecciones de formato de caso. Ya sea para el aprendizaje, el trabajo o el desarrollo de proyectos, es una herramienta útil.  
+**Descripción de la herramienta**: El convertidor de números a texto es una herramienta en línea que te permite convertir rápidamente números en descripciones de texto en varios idiomas. Actualmente admite hasta 27 idiomas.  
 **Categoría de la herramienta**: Herramientas de Texto  
 **Enlace**: https://www.tools366.com/es/tool/numbers-to-words-multiple-languages-online-tool
+
+
+**Nombre de la herramienta**: Herramienta de conversión por lotes en línea de texto en inglés a números  
+**Descripción de la herramienta**: Convierta rápidamente números en forma de palabras en inglés a formato numérico. Capaz de analizar párrafos de texto, realizar conversiones por lotes y admitir números positivos, números negativos y algunos términos numéricos comunes.  
+**Categoría de la herramienta**: Herramientas de Texto  
+**Enlace**: https://www.tools366.com/es/tool/batch-english-words-to-numbers
 
 
 **Nombre de la herramienta**: Copiar la ruta JSON, Herramienta de formato y compresión de JSON  

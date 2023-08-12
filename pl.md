@@ -24,16 +24,16 @@
 **Link**: https://www.tools366.com/pl/tool/us-en-number-formatter
 
 
-**Nazwa narzędzia**: Narzędzie do odwracania tekstu  
-**Opis narzędzia**: Łatwo odwróć tekst według kolejności liter.  
+**Nazwa narzędzia**: Narzędzie do Konwersji Wielkości Liter w Języku Angielskim Online  
+**Opis narzędzia**: Łatwo konwertuj tekst na wielkie litery, małe litery, z dużej litery każde słowo, lub z dużej litery pierwszą literę każdego zdania.  
 **Kategoria narzędzi**: Narzędzia tekstowe  
-**Link**: https://www.tools366.com/pl/tool/reverse-text
+**Link**: https://www.tools366.com/pl/tool/convert-case-online-tool
 
 
-**Nazwa narzędzia**: Generator Tekstu Powtarzanego Online  
-**Opis narzędzia**: Generuje powtarzający się tekst, zdania, słowa online.  
+**Nazwa narzędzia**: Konwerter tekstu wielowierszowego do jednowierszowego online  
+**Opis narzędzia**: Szybko i automatycznie przekształć swój tekst wielowierszowy w jedną linię. Popraw czytelność i optymalizuj układ tekstu.  
 **Kategoria narzędzi**: Narzędzia tekstowe  
-**Link**: https://www.tools366.com/pl/tool/repeat-text-string-generator
+**Link**: https://www.tools366.com/pl/tool/multiline-to-single-line-online-tool
 
 
 **Nazwa narzędzia**: Bezpieczny i Efektywny Generator Haseł Online  
@@ -48,16 +48,16 @@
 **Link**: https://www.tools366.com/pl/tool/remove-empty-lines-online-tool
 
 
-**Nazwa narzędzia**: Konwerter tekstu wielowierszowego do jednowierszowego online  
-**Opis narzędzia**: Szybko i automatycznie przekształć swój tekst wielowierszowy w jedną linię. Popraw czytelność i optymalizuj układ tekstu.  
+**Nazwa narzędzia**: Generator Tekstu Powtarzanego Online  
+**Opis narzędzia**: Generuje powtarzający się tekst, zdania, słowa online.  
 **Kategoria narzędzi**: Narzędzia tekstowe  
-**Link**: https://www.tools366.com/pl/tool/multiline-to-single-line-online-tool
+**Link**: https://www.tools366.com/pl/tool/repeat-text-string-generator
 
 
-**Nazwa narzędzia**: Narzędzie do Konwersji Wielkości Liter w Języku Angielskim Online  
-**Opis narzędzia**: Łatwo konwertuj tekst na wielkie litery, małe litery, z dużej litery każde słowo, lub z dużej litery pierwszą literę każdego zdania.  
+**Nazwa narzędzia**: Narzędzie do odwracania tekstu  
+**Opis narzędzia**: Łatwo odwróć tekst według kolejności liter.  
 **Kategoria narzędzi**: Narzędzia tekstowe  
-**Link**: https://www.tools366.com/pl/tool/convert-case-online-tool
+**Link**: https://www.tools366.com/pl/tool/reverse-text
 
 
 **Nazwa narzędzia**: ɐqɔpǝɟ--Odwracacz Tekstu Po Angielsku/Narzędzie Do Odwracania Do Góry Nogami Online  
@@ -67,9 +67,15 @@
 
 
 **Nazwa narzędzia**: Wielojęzyczny Konwerter Liczb na Tekst Online  
-**Opis narzędzia**: Konwerter liczb na tekst to narzędzie online, które pozwala szybko przeliczyć liczby na opisy tekstowe w wielu językach. Oferuje różne opcje językowe i dostarcza różne wybory formatowania przypadków. Niezależnie czy jest to do nauki, pracy czy rozwoju projektu, jest to przydatne narzędzie.  
+**Opis narzędzia**: Konwerter liczb na tekst to narzędzie online, które pozwala szybko przeliczać liczby na opisy tekstowe w wielu językach. Obecnie obsługuje do 27 języków.  
 **Kategoria narzędzi**: Narzędzia tekstowe  
 **Link**: https://www.tools366.com/pl/tool/numbers-to-words-multiple-languages-online-tool
+
+
+**Nazwa narzędzia**: Narzędzie do masowej konwersji tekstu angielskiego na cyfry online  
+**Opis narzędzia**: Szybko konwertuj liczby w formie słów angielskich na format numeryczny. Zdolny do analizowania akapitów tekstu, przeprowadzania masowych konwersji i obsługiwania dodatnich liczb, liczb ujemnych i niektórych powszechnych terminów numerycznych.  
+**Kategoria narzędzi**: Narzędzia tekstowe  
+**Link**: https://www.tools366.com/pl/tool/batch-english-words-to-numbers
 
 
 **Nazwa narzędzia**: Kopiuj Ścieżkę JSON, Formatuj i Kompresuj Narzędzia JSON  
@@ -120,6 +126,12 @@
 **Link**: https://www.tools366.com/pl/tool/image-embossing-online-tool
 
 
+**Nazwa narzędzia**: Narzędzie do ukrywania kodów QR online/Narzędzie do łączenia obrazów online  
+**Opis narzędzia**: Połącz dwa obrazy w jeden, pokazując dwa różne obrazy na białym i czarnym tle  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-hiding-QR-code-online-tool
+
+
 **Nazwa narzędzia**: Online Generator Efektów Sztuki Pikselowej dla Obrazów  
 **Opis narzędzia**: Narzędzie online, które konwertuje Twoje obrazy na obrazy z efektem sztuki pikselowej, pikselizując obraz.  
 **Kategoria narzędzi**: Narzędzia do obrazów  
@@ -148,11 +160,5 @@
 **Opis narzędzia**: Obróć obraz pod dowolnym kątem  
 **Kategoria narzędzi**: Narzędzia do obrazów  
 **Link**: https://www.tools366.com/pl/tool/rotate-image-online
-
-
-**Nazwa narzędzia**: Narzędzie do ukrywania kodów QR online/Narzędzie do łączenia obrazów online  
-**Opis narzędzia**: Połącz dwa obrazy w jeden, pokazując dwa różne obrazy na białym i czarnym tle  
-**Kategoria narzędzi**: Narzędzia do obrazów  
-**Link**: https://www.tools366.com/pl/tool/image-hiding-QR-code-online-tool
 
 

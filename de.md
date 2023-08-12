@@ -67,9 +67,15 @@
 
 
 **Tool-Name**: Mehrsprachiger Online-Konverter für Zahlen in Text  
-**Tool-Beschreibung**: Der Konverter von Zahlen in Text ist ein Online-Tool, mit dem Sie schnell Zahlen in Textbeschreibungen in mehreren Sprachen umwandeln können. Es bietet verschiedene Sprachoptionen und verschiedene Auswahlmöglichkeiten für das Fallformat. Ob für das Lernen, die Arbeit oder die Projektentwicklung, es ist ein praktisches Tool.  
+**Tool-Beschreibung**: Der Konverter von Zahl zu Text ist ein Online-Tool, das es Ihnen ermöglicht, Zahlen schnell in Textbeschreibungen in mehreren Sprachen zu konvertieren. Unterstützt derzeit bis zu 27 Sprachen.  
 **Tool-Kategorie**: Textwerkzeuge  
 **Link**: https://www.tools366.com/de/tool/numbers-to-words-multiple-languages-online-tool
+
+
+**Tool-Name**: Online Batch-Umwandlung von englischem Text in Zahlen Werkzeug  
+**Tool-Beschreibung**: Wandeln Sie schnell englische Wörter in numerisches Format um. Fähig, Textabsätze zu analysieren, Batch-Umwandlungen durchzuführen und positive Zahlen, negative Zahlen und einige gebräuchliche numerische Begriffe zu unterstützen.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/batch-english-words-to-numbers
 
 
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  

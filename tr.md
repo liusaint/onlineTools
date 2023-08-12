@@ -67,9 +67,15 @@
 
 
 **Araç Adı**: Çok Dilli Sayıdan Metne Online Dönüştürücü  
-**Araç Açıklaması**: Sayıdan metne dönüştürücü, çeşitli dillerde sayıları hızla metin açıklamalarına dönüştürmenize olanak tanır. Farklı dil seçenekleri sunar ve farklı durum formatı seçimleri sağlar. Öğrenme, iş veya proje geliştirme için olsun, kullanışlı bir araçtır.  
+**Araç Açıklaması**: Sayıdan metne dönüştürücü, sayıları birden çok dilde metin açıklamalarına hızlı bir şekilde dönüştürmenize olanak tanır. Şu anda toplam 27 dilde desteklenmektedir.  
 **Araç Kategorisi**: Metin Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/numbers-to-words-multiple-languages-online-tool
+
+
+**Araç Adı**: İngilizce Metinden Sayılara Çevrimiçi Toplu Dönüşüm Aracı  
+**Araç Açıklaması**: İngilizce kelime biçimindeki sayıları hızla sayısal biçime dönüştürün. Metin paragraflarını ayrıştırmaya, toplu dönüşümler gerçekleştirmeye ve pozitif sayılar, negatif sayılar ve bazı yaygın sayısal terimleri desteklemeye yetenekli.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/batch-english-words-to-numbers
 
 
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  

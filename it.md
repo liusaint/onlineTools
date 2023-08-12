@@ -66,10 +66,16 @@
 **Link**: https://www.tools366.com/it/tool/upside-down-text-online-tool
 
 
-**Nome dello strumento**: Convertitore Online di Numeri in Testo Multilingue  
-**Descrizione dello strumento**: Il convertitore da numero a testo è uno strumento online che ti permette di convertire rapidamente i numeri in descrizioni testuali in più lingue. Offre varie opzioni di lingua e fornisce diverse selezioni di formato del caso. Che si tratti di apprendimento, lavoro o sviluppo di progetti, è uno strumento utile.  
+**Nome dello strumento**: Convertitore Online Multilingue da Numero a Testo  
+**Descrizione dello strumento**: Il convertitore da numero a testo è uno strumento online che ti permette di convertire rapidamente i numeri in descrizioni testuali in più lingue. Attualmente supporta fino a 27 lingue.  
 **Categoria dello strumento**: Strumenti di Testo  
 **Link**: https://www.tools366.com/it/tool/numbers-to-words-multiple-languages-online-tool
+
+
+**Nome dello strumento**: Strumento di conversione online in batch di testo inglese in numeri  
+**Descrizione dello strumento**: Converti rapidamente i numeri in forma di parole inglesi in formato numerico. In grado di analizzare paragrafi di testo, eseguire conversioni in batch e supportare numeri positivi, numeri negativi e alcuni termini numerici comuni.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/batch-english-words-to-numbers
 
 
 **Nome dello strumento**: Copia Percorso JSON, Formatta e Comprimi Strumento JSON  
