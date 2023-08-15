@@ -72,6 +72,12 @@
 **Länk**: https://www.tools366.com/sv/tool/image-to-base64
 
 
+**Verktygsnamn**: Verktyg för Online Bulk-komprimering av PNG-bilder  
+**Verktygsbeskrivning**: Komprimera PNG-bilder lokalt, minska filstorleken utan att signifikant sänka bildkvaliteten.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/compress-png-images-online
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  

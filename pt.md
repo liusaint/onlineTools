@@ -72,6 +72,12 @@
 **Link**: https://www.tools366.com/pt/tool/image-to-base64
 
 
+**Nome da ferramenta**: Ferramenta de Compressão de Imagens PNG Online e em Lote  
+**Descrição da ferramenta**: Comprima imagens PNG localmente, reduza o tamanho do arquivo sem diminuir significativamente a qualidade da imagem.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/compress-png-images-online
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  

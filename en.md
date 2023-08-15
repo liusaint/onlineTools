@@ -168,3 +168,9 @@
 **Link**: https://www.tools366.com/tool/image-to-base64
 
 
+**Tool Name**: Online Bulk PNG Image Compression Tool  
+**Tool Description**: Compress PNG images locally, reduce file size without significantly lowering image quality.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-png-images-online
+
+

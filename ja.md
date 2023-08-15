@@ -168,3 +168,9 @@
 **リンク**: https://www.tools366.com/ja/tool/image-to-base64
 
 
+**ツール名**: オンライン一括PNG画像圧縮ツール  
+**ツールの説明**: ローカルでPNG画像を圧縮し、ファイルサイズを削減しながら画像品質を大幅に下げません。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/compress-png-images-online
+
+

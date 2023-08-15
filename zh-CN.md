@@ -72,6 +72,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/rotate-image-online
 
 
+**工具名称**: 在线批量PNG图片压缩工具  
+**工具描述**: 本地压缩PNG图片，减小文件大小，而不会明显降低图像质量。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/compress-png-images-online
+
+
 **工具名称**: 数字千分位格式转换工具  
 **工具描述**: 轻松将数字转换成逗号分隔的格式，或者将逗号分隔的数字还原。  
 **工具类别**: 数学工具  

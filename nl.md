@@ -72,6 +72,12 @@
 **Link**: https://www.tools366.com/nl/tool/image-to-base64
 
 
+**Toolnaam**: Online Bulk PNG Afbeelding Compressie Tool  
+**Toolbeschrijving**: Comprimeer PNG-afbeeldingen lokaal, verklein de bestandsgrootte zonder de beeldkwaliteit aanzienlijk te verlagen.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/compress-png-images-online
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  

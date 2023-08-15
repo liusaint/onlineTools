@@ -168,3 +168,9 @@
 **Tautan**: https://www.tools366.com/id/tool/image-to-base64
 
 
+**Nama Alat**: Alat Kompresi Gambar PNG Online Massal  
+**Deskripsi Alat**: Kompres gambar PNG secara lokal, kurangi ukuran file tanpa menurunkan kualitas gambar secara signifikan.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-png-images-online
+
+

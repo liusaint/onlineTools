@@ -72,6 +72,12 @@
 **Lien**: https://www.tools366.com/fr/tool/image-to-base64
 
 
+**Nom de l'outil**: Outil de compression d'images PNG en vrac en ligne  
+**Description de l'outil**: Compressez les images PNG localement, réduisez la taille du fichier sans réduire significativement la qualité de l'image.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/compress-png-images-online
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  

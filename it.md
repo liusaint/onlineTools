@@ -168,3 +168,9 @@
 **Link**: https://www.tools366.com/it/tool/image-to-base64
 
 
+**Nome dello strumento**: Strumento di compressione di immagini PNG online e in blocco  
+**Descrizione dello strumento**: Comprimi le immagini PNG localmente, riduci la dimensione del file senza diminuire significativamente la qualità dell'immagine.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-png-images-online
+
+

@@ -168,3 +168,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/image-to-base64
 
 
+**Araç Adı**: Çevrim İçi Toplu PNG Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: PNG resimleri yerel olarak sıkıştırın, dosya boyutunu görsel kaliteyi önemli ölçüde düşürmeden azaltın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-png-images-online
+
+

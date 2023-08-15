@@ -168,3 +168,9 @@
 **Link**: https://www.tools366.com/pl/tool/image-to-base64
 
 
+**Nazwa narzędzia**: Narzędzie do Masowej Kompresji Obrazów PNG Online  
+**Opis narzędzia**: Skompresuj obrazy PNG lokalnie, zmniejsz rozmiar pliku bez znaczącego obniżenia jakości obrazu.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/compress-png-images-online
+
+
