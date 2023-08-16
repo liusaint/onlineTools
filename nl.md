@@ -78,6 +78,12 @@
 **Link**: https://www.tools366.com/nl/tool/compress-png-images-online
 
 
+**Toolnaam**: Online PNG-afbeeldingscompressietool  
+**Toolbeschrijving**: Comprimeer PNG-afbeeldingen lokaal, enkele compressie, vergelijk compressiekwaliteit, bekijk compressievoorbeeld  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/compress-png-image-online
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  

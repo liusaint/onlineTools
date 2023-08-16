@@ -78,6 +78,12 @@
 **Länk**: https://www.tools366.com/sv/tool/compress-png-images-online
 
 
+**Verktygsnamn**: Online PNG-bildkomprimeringsverktyg  
+**Verktygsbeskrivning**: Komprimera PNG-bilder lokalt, enkel komprimering, jämför komprimeringskvalitet, förhandsgranska komprimering  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/compress-png-image-online
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  

@@ -174,3 +174,9 @@
 **Link**: https://www.tools366.com/de/tool/compress-png-images-online
 
 
+**Tool-Name**: Online-PNG-Bildkomprimierungstool  
+**Tool-Beschreibung**: Komprimieren Sie PNG-Bilder lokal, Einzelkompression, vergleichen Sie die Kompressionsqualität, Vorschau der Kompression  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/compress-png-image-online
+
+

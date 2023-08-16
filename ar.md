@@ -168,3 +168,9 @@
 **الرابط**: https://www.tools366.com/ar/tool/compress-png-images-online
 
 
+**اسم الأداة**: أداة ضغط صور PNG عبر الإنترنت  
+**وصف الأداة**: قم بضغط صور PNG محليًا، ضغط فردي، قارن جودة الضغط، معاينة الضغط  
+**فئة الأداة**: أدوات الصورة  
+**الرابط**: https://www.tools366.com/ar/tool/compress-png-image-online
+
+

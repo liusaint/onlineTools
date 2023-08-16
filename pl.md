@@ -174,3 +174,9 @@
 **Link**: https://www.tools366.com/pl/tool/compress-png-images-online
 
 
+**Nazwa narzędzia**: Narzędzie do Kompresji Obrazów PNG Online  
+**Opis narzędzia**: Kompresuj obrazy PNG lokalnie, pojedyncza kompresja, porównaj jakość kompresji, podejrzyj kompresję  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/compress-png-image-online
+
+

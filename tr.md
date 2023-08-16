@@ -174,3 +174,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/compress-png-images-online
 
 
+**Araç Adı**: Çevrim İçi PNG Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: PNG resimleri yerel olarak sıkıştırın, tekli sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı önizleyin  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-png-image-online
+
+

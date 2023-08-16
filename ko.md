@@ -78,6 +78,12 @@
 **링크**: https://www.tools366.com/ko/tool/compress-png-images-online
 
 
+**도구 이름**: 온라인 PNG 이미지 압축 도구  
+**도구 설명**: 로컬에서 PNG 이미지 압축, 단일 압축, 압축 품질 비교, 압축 미리보기  
+**도구 카테고리**: 이미지 도구  
+**링크**: https://www.tools366.com/ko/tool/compress-png-image-online
+
+
 **도구 이름**: 숫자 천분율 형식 변환 도구  
 **도구 설명**: 쉽게 숫자를 쉼표로 구분된 형식으로 변환하거나 쉼표로 구분된 숫자를 복원합니다.  
 **도구 카테고리**: 수학 도구  

@@ -174,3 +174,9 @@
 **Tautan**: https://www.tools366.com/id/tool/compress-png-images-online
 
 
+**Nama Alat**: Alat Kompresi Gambar PNG Online  
+**Deskripsi Alat**: Kompres gambar PNG secara lokal, kompresi tunggal, bandingkan kualitas kompresi, pratinjau kompresi  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-png-image-online
+
+

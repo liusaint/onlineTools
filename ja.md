@@ -174,3 +174,9 @@
 **リンク**: https://www.tools366.com/ja/tool/compress-png-images-online
 
 
+**ツール名**: オンラインPNG画像圧縮ツール  
+**ツールの説明**: ローカルでPNG画像を圧縮し、単一圧縮、圧縮品質を比較、圧縮プレビュー  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/compress-png-image-online
+
+

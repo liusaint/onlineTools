@@ -78,6 +78,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/compress-png-images-online
 
 
+**工具名稱**: 線上PNG圖像壓縮工具  
+**工具描述**: 在本地壓縮PNG圖像，單一壓縮，壓縮質量對比，壓縮預覽  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/compress-png-image-online
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  
