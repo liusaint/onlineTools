@@ -84,6 +84,18 @@
 **链接**: https://www.tools366.com/zh-CN/tool/compress-png-image-online
 
 
+**工具名称**: 在线批量图片压缩工具  
+**工具描述**: 本地压缩PNG图片/JPG图片/JPEG图片/其他格式图片，原格式输出。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/compress-images-online
+
+
+**工具名称**: 在线图片压缩工具  
+**工具描述**: 本地压缩PNG图片/JPG图片/JPEG图片/其他格式图片，单个压缩，压缩质量对比，压缩预览，原格式输出。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/compress-image-online
+
+
 **工具名称**: 数字千分位格式转换工具  
 **工具描述**: 轻松将数字转换成逗号分隔的格式，或者将逗号分隔的数字还原。  
 **工具类别**: 数学工具  

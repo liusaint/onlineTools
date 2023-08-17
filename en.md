@@ -180,3 +180,15 @@
 **Link**: https://www.tools366.com/tool/compress-png-image-online
 
 
+**Tool Name**: Online Bulk Image Compression Tool  
+**Tool Description**: Compress local PNG images/JPG images/JPEG images/other format images, output in original format.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-images-online
+
+
+**Tool Name**: Online Image Compression Tool  
+**Tool Description**: Locally compress PNG images/JPG images/JPEG images/other format images, single compression, compare compression quality, preview compression, output in original format.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-image-online
+
+

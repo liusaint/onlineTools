@@ -180,3 +180,15 @@
 **リンク**: https://www.tools366.com/ja/tool/compress-png-image-online
 
 
+**ツール名**: オンラインバルク画像圧縮ツール  
+**ツールの説明**: ローカルのPNG画像/JPG画像/JPEG画像/その他の形式の画像を圧縮し、元の形式で出力。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/compress-images-online
+
+
+**ツール名**: オンライン画像圧縮ツール  
+**ツールの説明**: ローカルでPNG画像/JPG画像/JPEG画像/その他の形式の画像を圧縮し、単一圧縮、圧縮品質の比較、圧縮のプレビュー、元の形式で出力します。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/compress-image-online
+
+

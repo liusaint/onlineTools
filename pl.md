@@ -180,3 +180,15 @@
 **Link**: https://www.tools366.com/pl/tool/compress-png-image-online
 
 
+**Nazwa narzędzia**: Narzędzie do Masowej Kompresji Obrazów Online  
+**Opis narzędzia**: Skompresuj lokalne obrazy PNG/JPG/JPEG/obrazy w innych formatach, wyjście w oryginalnym formacie.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/compress-images-online
+
+
+**Nazwa narzędzia**: Narzędzie do Kompresji Obrazów Online  
+**Opis narzędzia**: Kompresuj lokalnie obrazy PNG/JPG/JPEG/inne formaty, pojedyncza kompresja, porównaj jakość kompresji, zobacz efekt kompresji, wydaj w oryginalnym formacie.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/compress-image-online
+
+

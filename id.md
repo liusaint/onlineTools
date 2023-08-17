@@ -180,3 +180,15 @@
 **Tautan**: https://www.tools366.com/id/tool/compress-png-image-online
 
 
+**Nama Alat**: Alat Kompresi Gambar Massal Online  
+**Deskripsi Alat**: Kompres gambar PNG lokal/gambar JPG/gambar JPEG/gambar dalam format lain, keluaran dalam format asli.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-images-online
+
+
+**Nama Alat**: Alat Kompresi Gambar Online  
+**Deskripsi Alat**: Kompresi gambar PNG/JPG/JPEG/berbagai format lainnya secara lokal, kompresi tunggal, bandingkan kualitas kompresi, lihat hasil kompresi, keluarkan dalam format asli.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-image-online
+
+

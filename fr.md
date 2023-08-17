@@ -84,6 +84,18 @@
 **Lien**: https://www.tools366.com/fr/tool/compress-png-image-online
 
 
+**Nom de l'outil**: Outil de Compression d'Images en Vrac en Ligne  
+**Description de l'outil**: Compresser des images PNG locales/images JPG/images JPEG/autres images de format, sortie au format original.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/compress-images-online
+
+
+**Nom de l'outil**: Outil de Compression d'Image en Ligne  
+**Description de l'outil**: Compressez localement des images PNG/JPG/JPEG/autres formats, compression simple, comparez la qualité de compression, prévisualisez la compression, sortez au format d'origine.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/compress-image-online
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  

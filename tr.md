@@ -180,3 +180,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/compress-png-image-online
 
 
+**Araç Adı**: Çevrimiçi Toplu Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: Yerel PNG resimlerini/JPG resimlerini/JPEG resimlerini/diğer format resimlerini sıkıştırın, orijinal formatında çıktı alın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-images-online
+
+
+**Araç Adı**: Çevrimiçi Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG/diğer format resimlerini yerel olarak sıkıştırın, tek sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı görüntüleyin, orijinal formatında çıktı alın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-image-online
+
+

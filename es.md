@@ -180,3 +180,15 @@
 **Enlace**: https://www.tools366.com/es/tool/compress-png-image-online
 
 
+**Nombre de la herramienta**: Herramienta de Compresión de Imágenes en Línea  
+**Descripción de la herramienta**: Comprime imágenes locales PNG/JPG/JPEG/otros formatos, salida en formato original.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/compress-images-online
+
+
+**Nombre de la herramienta**: Herramienta de Compresión de Imágenes en Línea  
+**Descripción de la herramienta**: Comprime imágenes PNG/JPG/JPEG/otros formatos localmente, compresión individual, compara la calidad de compresión, previsualiza la compresión, y guarda en el formato original.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/compress-image-online
+
+

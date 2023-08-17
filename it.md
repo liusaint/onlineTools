@@ -180,3 +180,15 @@
 **Link**: https://www.tools366.com/it/tool/compress-png-image-online
 
 
+**Nome dello strumento**: Strumento di Compressione di Immagini in Blocco Online  
+**Descrizione dello strumento**: Comprimi immagini PNG locali/immagini JPG/immagini JPEG/immagini in altri formati, output nel formato originale.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-images-online
+
+
+**Nome dello strumento**: Strumento di Compressione Immagini Online  
+**Descrizione dello strumento**: Comprimi localmente immagini PNG/JPG/JPEG/altre immagini in formato, compressione singola, confronta la qualità della compressione, anteprima compressione, output nel formato originale.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-image-online
+
+

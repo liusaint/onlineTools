@@ -84,6 +84,18 @@
 **Link**: https://www.tools366.com/nl/tool/compress-png-image-online
 
 
+**Toolnaam**: Online Bulk Afbeeldingscompressie Tool  
+**Toolbeschrijving**: Comprimeer lokale PNG-afbeeldingen/JPG-afbeeldingen/JPEG-afbeeldingen/afbeeldingen in andere formaten, uitvoer in origineel formaat.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/compress-images-online
+
+
+**Toolnaam**: Online Afbeelding Compressie Tool  
+**Toolbeschrijving**: Comprimeer lokaal PNG-afbeeldingen/JPG-afbeeldingen/JPEG-afbeeldingen/andere formaatafbeeldingen, enkele compressie, vergelijk compressiekwaliteit, bekijk compressie, uitvoer in origineel formaat.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/compress-image-online
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  

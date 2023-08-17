@@ -84,6 +84,18 @@
 **Link**: https://www.tools366.com/pt/tool/compress-png-image-online
 
 
+**Nome da ferramenta**: Ferramenta de Compressão de Imagens em Massa Online  
+**Descrição da ferramenta**: Comprimir imagens PNG locais/imagens JPG/imagens JPEG/imagens em outros formatos, saída no formato original.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/compress-images-online
+
+
+**Nome da ferramenta**: Ferramenta de Compressão de Imagem Online  
+**Descrição da ferramenta**: Comprima localmente imagens PNG/JPG/JPEG/outras imagens em formato, compressão única, compare a qualidade da compressão, visualize a compressão, saída no formato original.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/compress-image-online
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  
