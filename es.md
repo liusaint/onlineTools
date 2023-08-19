@@ -108,6 +108,30 @@
 **Enlace**: https://www.tools366.com/es/tool/search-json-keys-online
 
 
+**Nombre de la herramienta**: Herramienta de Compresión de Imágenes en Línea  
+**Descripción de la herramienta**: Comprime imágenes PNG/JPG/JPEG/otros formatos localmente, compresión individual, compara la calidad de compresión, previsualiza la compresión, y guarda en el formato original.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/compress-image-online
+
+
+**Nombre de la herramienta**: Herramienta de Compresión de Imágenes en Línea  
+**Descripción de la herramienta**: Comprime imágenes locales PNG/JPG/JPEG/otros formatos, salida en formato original.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/compress-images-online
+
+
+**Nombre de la herramienta**: Herramienta de compresión de imágenes PNG en línea  
+**Descripción de la herramienta**: Comprime imágenes PNG localmente, compresión única, compara calidad de compresión, previsualiza compresión  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/compress-png-image-online
+
+
+**Nombre de la herramienta**: Herramienta de compresión de imágenes PNG en línea y en bloque  
+**Descripción de la herramienta**: Comprime imágenes PNG localmente, reduce el tamaño del archivo sin disminuir significativamente la calidad de la imagen.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/compress-png-images-online
+
+
 **Nombre de la herramienta**: Herramienta de conversión en línea de imágenes a escala de grises/negro y blanco  
 **Descripción de la herramienta**: Esta es una herramienta en línea que convierte sin esfuerzo tus imágenes a color en imágenes en escala de grises o en blanco y negro, dando a tus fotos un sentimiento antiguo y nostálgico.  
 **Categoría de la herramienta**: Herramientas de imagen  
@@ -124,6 +148,18 @@
 **Descripción de la herramienta**: Una herramienta en línea que transforma tu imagen en una imagen con apariencia de repujado, dando a tus fotos un toque artístico.  
 **Categoría de la herramienta**: Herramientas de imagen  
 **Enlace**: https://www.tools366.com/es/tool/image-embossing-online-tool
+
+
+**Nombre de la herramienta**: Herramienta en línea para ocultar códigos QR/Herramienta en línea para fusionar imágenes  
+**Descripción de la herramienta**: Fusiona dos imágenes en una, mostrando dos imágenes diferentes en fondos blancos y negros  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-hiding-QR-code-online-tool
+
+
+**Nombre de la herramienta**: Herramienta en línea de imagen a Base64 | Codificación Base64 | Convertidor Base64  
+**Descripción de la herramienta**: Convierte rápidamente archivos de imagen al formato Base64. Soporta varios formatos de imagen para su uso en línea.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-to-base64
 
 
 **Nombre de la herramienta**: Generador de Efecto de Arte Pixel en Línea para Imágenes  
@@ -150,45 +186,15 @@
 **Enlace**: https://www.tools366.com/es/tool/online-picture-invert-color-tool
 
 
+**Nombre de la herramienta**: Herramienta de redimensionamiento de imágenes en línea  
+**Descripción de la herramienta**: Redimensiona imágenes en formatos como PNG / JPG / JPEG localmente, elige libremente la relación de escala y las dimensiones, con la opción de retener o no la relación de aspecto.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/resize-image
+
+
 **Nombre de la herramienta**: Herramienta de rotación de imágenes en línea  
 **Descripción de la herramienta**: Gira una imagen a cualquier ángulo  
 **Categoría de la herramienta**: Herramientas de imagen  
 **Enlace**: https://www.tools366.com/es/tool/rotate-image-online
-
-
-**Nombre de la herramienta**: Herramienta en línea para ocultar códigos QR/Herramienta en línea para fusionar imágenes  
-**Descripción de la herramienta**: Fusiona dos imágenes en una, mostrando dos imágenes diferentes en fondos blancos y negros  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/image-hiding-QR-code-online-tool
-
-
-**Nombre de la herramienta**: Herramienta en línea de imagen a Base64 | Codificación Base64 | Convertidor Base64  
-**Descripción de la herramienta**: Convierte rápidamente archivos de imagen al formato Base64. Soporta varios formatos de imagen para su uso en línea.  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/image-to-base64
-
-
-**Nombre de la herramienta**: Herramienta de compresión de imágenes PNG en línea y en bloque  
-**Descripción de la herramienta**: Comprime imágenes PNG localmente, reduce el tamaño del archivo sin disminuir significativamente la calidad de la imagen.  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/compress-png-images-online
-
-
-**Nombre de la herramienta**: Herramienta de compresión de imágenes PNG en línea  
-**Descripción de la herramienta**: Comprime imágenes PNG localmente, compresión única, compara calidad de compresión, previsualiza compresión  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/compress-png-image-online
-
-
-**Nombre de la herramienta**: Herramienta de Compresión de Imágenes en Línea  
-**Descripción de la herramienta**: Comprime imágenes locales PNG/JPG/JPEG/otros formatos, salida en formato original.  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/compress-images-online
-
-
-**Nombre de la herramienta**: Herramienta de Compresión de Imágenes en Línea  
-**Descripción de la herramienta**: Comprime imágenes PNG/JPG/JPEG/otros formatos localmente, compresión individual, compara la calidad de compresión, previsualiza la compresión, y guarda en el formato original.  
-**Categoría de la herramienta**: Herramientas de imagen  
-**Enlace**: https://www.tools366.com/es/tool/compress-image-online
 
 

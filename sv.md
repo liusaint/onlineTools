@@ -96,6 +96,12 @@
 **Länk**: https://www.tools366.com/sv/tool/compress-image-online
 
 
+**Verktygsnamn**: Verktyg för att Ändra Storlek på Bilder Online  
+**Verktygsbeskrivning**: Ändra storlek på bilder i format som PNG/JPG/JPEG lokalt, välj fritt skalförhållande och dimensioner, med alternativet att behålla eller inte behålla bildförhållandet.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/resize-image
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  
@@ -138,6 +144,12 @@
 **Länk**: https://www.tools366.com/sv/tool/search-json-keys-online
 
 
+**Verktygsnamn**: Online-verktyg för batchkonvertering av engelsk text till siffror  
+**Verktygsbeskrivning**: Konvertera snabbt engelska ordformnummer till numeriskt format. Kan analysera textstycken, utföra batchkonverteringar och stödja positiva tal, negativa tal och några vanliga numeriska termer.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/batch-english-words-to-numbers
+
+
 **Verktygsnamn**: Online Verktyg för Omvandling av Engelska Skriftfall  
 **Verktygsbeskrivning**: Konvertera text lätt till versaler, gemener, stor bokstav i början av varje ord eller stor bokstav i början av varje mening.  
 **Verktygskategori**: Textverktyg  
@@ -148,6 +160,12 @@
 **Verktygsbeskrivning**: Konvertera snabbt och automatiskt din text med flera linjer till en enda rad. Förbättra läsbarheten och optimera textlayouten.  
 **Verktygskategori**: Textverktyg  
 **Länk**: https://www.tools366.com/sv/tool/multiline-to-single-line-online-tool
+
+
+**Verktygsnamn**: Flerspråkig Nummer till Text Online-omvandlare  
+**Verktygsbeskrivning**: Nummer till text-omvandlaren är ett online-verktyg som gör att du snabbt kan konvertera siffror till textbeskrivningar på flera språk. För närvarande stöds upp till 27 språk.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/numbers-to-words-multiple-languages-online-tool
 
 
 **Verktygsnamn**: Säker och Effektiv Online Lösenordsgenerator  
@@ -178,17 +196,5 @@
 **Verktygsbeskrivning**: Använd detta verktyg för att vertikalt eller horisontellt vända din text.  
 **Verktygskategori**: Textverktyg  
 **Länk**: https://www.tools366.com/sv/tool/upside-down-text-online-tool
-
-
-**Verktygsnamn**: Flerspråkig Nummer till Text Online-omvandlare  
-**Verktygsbeskrivning**: Nummer till text-omvandlaren är ett online-verktyg som gör att du snabbt kan konvertera siffror till textbeskrivningar på flera språk. För närvarande stöds upp till 27 språk.  
-**Verktygskategori**: Textverktyg  
-**Länk**: https://www.tools366.com/sv/tool/numbers-to-words-multiple-languages-online-tool
-
-
-**Verktygsnamn**: Online-verktyg för batchkonvertering av engelsk text till siffror  
-**Verktygsbeskrivning**: Konvertera snabbt engelska ordformnummer till numeriskt format. Kan analysera textstycken, utföra batchkonverteringar och stödja positiva tal, negativa tal och några vanliga numeriska termer.  
-**Verktygskategori**: Textverktyg  
-**Länk**: https://www.tools366.com/sv/tool/batch-english-words-to-numbers
 
 

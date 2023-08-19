@@ -108,6 +108,30 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/search-json-keys-online
 
 
+**Araç Adı**: Çevrimiçi Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG/diğer format resimlerini yerel olarak sıkıştırın, tek sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı görüntüleyin, orijinal formatında çıktı alın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-image-online
+
+
+**Araç Adı**: Çevrimiçi Toplu Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: Yerel PNG resimlerini/JPG resimlerini/JPEG resimlerini/diğer format resimlerini sıkıştırın, orijinal formatında çıktı alın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-images-online
+
+
+**Araç Adı**: Çevrim İçi PNG Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: PNG resimleri yerel olarak sıkıştırın, tekli sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı önizleyin  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-png-image-online
+
+
+**Araç Adı**: Çevrim İçi Toplu PNG Resim Sıkıştırma Aracı  
+**Araç Açıklaması**: PNG resimleri yerel olarak sıkıştırın, dosya boyutunu görsel kaliteyi önemli ölçüde düşürmeden azaltın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/compress-png-images-online
+
+
 **Araç Adı**: Çevrimiçi Renkli Resmi Gri Tonlama/Siyah Beyaz'a Dönüştürme Aracı  
 **Araç Açıklaması**: Bu, renkli resimlerinizi çabasızca gri tonlama veya siyah beyaza dönüştüren bir çevrimiçi araçtır, fotoğraflarınıza eski, nostaljik bir his verir.  
 **Araç Kategorisi**: Resim Araçları  
@@ -124,6 +148,18 @@
 **Araç Açıklaması**: Görüntünüzü kabartma görünümlü bir resme dönüştüren bir çevrimiçi araç, fotoğraflarınıza sanatsal bir dokunuş verir.  
 **Araç Kategorisi**: Resim Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/image-embossing-online-tool
+
+
+**Araç Adı**: Çevrimiçi QR Kod Gizleme Aracı/Çevrimiçi Resim Birleştirme Aracı  
+**Araç Açıklaması**: İki resmi birleştirin, beyaz ve siyah arka planlarda iki farklı resim gösterin  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-hiding-QR-code-online-tool
+
+
+**Araç Adı**: Çevrimiçi Resimden Base64 Aracı | Base64 Kodlama | Base64 Dönüştürücü  
+**Araç Açıklaması**: Resim dosyalarını hızla Base64 formatına dönüştürün. Çevrimiçi kullanım için çeşitli resim formatlarını destekler.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-to-base64
 
 
 **Araç Adı**: Görüntüler İçin Online Piksel Sanat Etkisi Oluşturucu  
@@ -150,45 +186,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/online-picture-invert-color-tool
 
 
+**Araç Adı**: Çevrimiçi Resim Boyutlandırma Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG gibi formatlardaki resimleri yerel olarak boyutlandırın, ölçek oranını ve boyutlarını serbestçe seçin, en boy oranını koruma veya korumama seçeneği ile.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/resize-image
+
+
 **Araç Adı**: Çevrimiçi Resim Döndürme Aracı  
 **Araç Açıklaması**: Bir resmi herhangi bir açıyla döndür  
 **Araç Kategorisi**: Resim Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
-
-
-**Araç Adı**: Çevrimiçi QR Kod Gizleme Aracı/Çevrimiçi Resim Birleştirme Aracı  
-**Araç Açıklaması**: İki resmi birleştirin, beyaz ve siyah arka planlarda iki farklı resim gösterin  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/image-hiding-QR-code-online-tool
-
-
-**Araç Adı**: Çevrimiçi Resimden Base64 Aracı | Base64 Kodlama | Base64 Dönüştürücü  
-**Araç Açıklaması**: Resim dosyalarını hızla Base64 formatına dönüştürün. Çevrimiçi kullanım için çeşitli resim formatlarını destekler.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/image-to-base64
-
-
-**Araç Adı**: Çevrim İçi Toplu PNG Resim Sıkıştırma Aracı  
-**Araç Açıklaması**: PNG resimleri yerel olarak sıkıştırın, dosya boyutunu görsel kaliteyi önemli ölçüde düşürmeden azaltın.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/compress-png-images-online
-
-
-**Araç Adı**: Çevrim İçi PNG Resim Sıkıştırma Aracı  
-**Araç Açıklaması**: PNG resimleri yerel olarak sıkıştırın, tekli sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı önizleyin  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/compress-png-image-online
-
-
-**Araç Adı**: Çevrimiçi Toplu Resim Sıkıştırma Aracı  
-**Araç Açıklaması**: Yerel PNG resimlerini/JPG resimlerini/JPEG resimlerini/diğer format resimlerini sıkıştırın, orijinal formatında çıktı alın.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/compress-images-online
-
-
-**Araç Adı**: Çevrimiçi Resim Sıkıştırma Aracı  
-**Araç Açıklaması**: PNG/JPG/JPEG/diğer format resimlerini yerel olarak sıkıştırın, tek sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı görüntüleyin, orijinal formatında çıktı alın.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/compress-image-online
 
 

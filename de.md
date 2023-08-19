@@ -108,6 +108,30 @@
 **Link**: https://www.tools366.com/de/tool/search-json-keys-online
 
 
+**Tool-Name**: Online-Bildkompressionswerkzeug  
+**Tool-Beschreibung**: Lokale Komprimierung von PNG/JPG/JPEG-Bildern/anderen Formaten, Einzelkomprimierung, Vergleich der Kompressionsqualität, Vorschau der Kompression, Ausgabe im Originalformat.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/compress-image-online
+
+
+**Tool-Name**: Online-Werkzeug zur Massenkomprimierung von Bildern  
+**Tool-Beschreibung**: Komprimieren Sie lokale PNG-Bilder/JPG-Bilder/JPEG-Bilder/andere Bildformate, Ausgabe im Originalformat.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/compress-images-online
+
+
+**Tool-Name**: Online-PNG-Bildkomprimierungstool  
+**Tool-Beschreibung**: Komprimieren Sie PNG-Bilder lokal, Einzelkompression, vergleichen Sie die Kompressionsqualität, Vorschau der Kompression  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/compress-png-image-online
+
+
+**Tool-Name**: Online-Bulk-PNG-Bildkompressionstool  
+**Tool-Beschreibung**: Komprimieren Sie PNG-Bilder lokal, reduzieren Sie die Dateigröße, ohne die Bildqualität signifikant zu verringern.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/compress-png-images-online
+
+
 **Tool-Name**: Online-Tool zur Umwandlung von Farbbildern in Graustufen/Schwarz-Weiß  
 **Tool-Beschreibung**: Dies ist ein Online-Tool, das mühelos Ihre Farbbilder in Graustufen oder Schwarz-Weiß umwandelt, was Ihren Fotos einen alten, nostalgischen Touch verleiht.  
 **Tool-Kategorie**: Bildwerkzeuge  
@@ -124,6 +148,18 @@
 **Tool-Beschreibung**: Ein Online-Tool, das Ihr Bild in ein geprägtes Bild verwandelt und Ihren Fotos eine künstlerische Note verleiht.  
 **Tool-Kategorie**: Bildwerkzeuge  
 **Link**: https://www.tools366.com/de/tool/image-embossing-online-tool
+
+
+**Tool-Name**: QR-Code-Versteck-Online-Tool/Bildzusammenführung Online-Tool  
+**Tool-Beschreibung**: Verschmelzen Sie zwei Bilder zu einem, indem Sie zwei verschiedene Bilder auf schwarz-weißen Hintergründen darstellen  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/image-hiding-QR-code-online-tool
+
+
+**Tool-Name**: Online-Bild zu Base64 Werkzeug | Base64 Kodierung | Base64 Konverter  
+**Tool-Beschreibung**: Bilder schnell in das Base64-Format umwandeln. Unterstützt verschiedene Bildformate für den bequemen Online-Gebrauch.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/image-to-base64
 
 
 **Tool-Name**: Online-Bild-Pixel-Art-Effekt-Generator  
@@ -150,45 +186,15 @@
 **Link**: https://www.tools366.com/de/tool/online-picture-invert-color-tool
 
 
+**Tool-Name**: Online-Bildgrößenanpassungstool  
+**Tool-Beschreibung**: Bilder in Formaten wie PNG / JPG / JPEG lokal skalieren, Skalenverhältnis und Abmessungen frei wählen, mit der Option, das Seitenverhältnis beizubehalten oder nicht.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/resize-image
+
+
 **Tool-Name**: Online-Bildrotationswerkzeug  
 **Tool-Beschreibung**: Drehen Sie ein Bild um jeden Winkel  
 **Tool-Kategorie**: Bildwerkzeuge  
 **Link**: https://www.tools366.com/de/tool/rotate-image-online
-
-
-**Tool-Name**: QR-Code-Versteck-Online-Tool/Bildzusammenführung Online-Tool  
-**Tool-Beschreibung**: Verschmelzen Sie zwei Bilder zu einem, indem Sie zwei verschiedene Bilder auf schwarz-weißen Hintergründen darstellen  
-**Tool-Kategorie**: Bildwerkzeuge  
-**Link**: https://www.tools366.com/de/tool/image-hiding-QR-code-online-tool
-
-
-**Tool-Name**: Online-Bild zu Base64 Werkzeug | Base64 Kodierung | Base64 Konverter  
-**Tool-Beschreibung**: Bilder schnell in das Base64-Format umwandeln. Unterstützt verschiedene Bildformate für den bequemen Online-Gebrauch.  
-**Tool-Kategorie**: Bildwerkzeuge  
-**Link**: https://www.tools366.com/de/tool/image-to-base64
-
-
-**Tool-Name**: Online-Bulk-PNG-Bildkompressionstool  
-**Tool-Beschreibung**: Komprimieren Sie PNG-Bilder lokal, reduzieren Sie die Dateigröße, ohne die Bildqualität signifikant zu verringern.  
-**Tool-Kategorie**: Bildwerkzeuge  
-**Link**: https://www.tools366.com/de/tool/compress-png-images-online
-
-
-**Tool-Name**: Online-PNG-Bildkomprimierungstool  
-**Tool-Beschreibung**: Komprimieren Sie PNG-Bilder lokal, Einzelkompression, vergleichen Sie die Kompressionsqualität, Vorschau der Kompression  
-**Tool-Kategorie**: Bildwerkzeuge  
-**Link**: https://www.tools366.com/de/tool/compress-png-image-online
-
-
-**Tool-Name**: Online-Werkzeug zur Massenkomprimierung von Bildern  
-**Tool-Beschreibung**: Komprimieren Sie lokale PNG-Bilder/JPG-Bilder/JPEG-Bilder/andere Bildformate, Ausgabe im Originalformat.  
-**Tool-Kategorie**: Bildwerkzeuge  
-**Link**: https://www.tools366.com/de/tool/compress-images-online
-
-
-**Tool-Name**: Online-Bildkompressionswerkzeug  
-**Tool-Beschreibung**: Lokale Komprimierung von PNG/JPG/JPEG-Bildern/anderen Formaten, Einzelkomprimierung, Vergleich der Kompressionsqualität, Vorschau der Kompression, Ausgabe im Originalformat.  
-**Tool-Kategorie**: Bildwerkzeuge  
-**Link**: https://www.tools366.com/de/tool/compress-image-online
 
 

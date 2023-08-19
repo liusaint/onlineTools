@@ -96,6 +96,12 @@
 **Lien**: https://www.tools366.com/fr/tool/compress-image-online
 
 
+**Nom de l'outil**: Outil de redimensionnement d'image en ligne  
+**Description de l'outil**: Redimensionnez les images aux formats PNG / JPG / JPEG localement, choisissez librement le rapport d'échelle et les dimensions, avec l'option de conserver ou non le rapport d'aspect.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/resize-image
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  
@@ -138,6 +144,12 @@
 **Lien**: https://www.tools366.com/fr/tool/search-json-keys-online
 
 
+**Nom de l'outil**: Outil de conversion par lots en ligne de texte anglais en nombres  
+**Description de l'outil**: Convertissez rapidement des nombres sous forme de mots anglais en format numérique. Capable d'analyser des paragraphes de texte, d'effectuer des conversions par lots et de prendre en charge des nombres positifs, des nombres négatifs et certains termes numériques courants.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/batch-english-words-to-numbers
+
+
 **Nom de l'outil**: Outil de conversion de casse en anglais en ligne  
 **Description de l'outil**: Convertissez facilement du texte en majuscules, minuscules, capitalisez chaque mot, ou capitalisez la première lettre de chaque phrase.  
 **Catégorie d'outil**: Outils de Texte  
@@ -148,6 +160,12 @@
 **Description de l'outil**: Convertissez rapidement et automatiquement votre texte multi-lignes en une seule ligne. Améliorez la lisibilité et optimisez la mise en page du texte.  
 **Catégorie d'outil**: Outils de Texte  
 **Lien**: https://www.tools366.com/fr/tool/multiline-to-single-line-online-tool
+
+
+**Nom de l'outil**: Convertisseur en ligne de chiffres en texte multilingue  
+**Description de l'outil**: Le convertisseur de nombre en texte est un outil en ligne qui vous permet de convertir rapidement des nombres en descriptions de texte dans plusieurs langues. Prend en charge actuellement jusqu'à 27 langues.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/numbers-to-words-multiple-languages-online-tool
 
 
 **Nom de l'outil**: Générateur de mots de passe en ligne sécurisé et efficace  
@@ -178,17 +196,5 @@
 **Description de l'outil**: Utilisez cet outil pour retourner votre texte verticalement ou horizontalement.  
 **Catégorie d'outil**: Outils de Texte  
 **Lien**: https://www.tools366.com/fr/tool/upside-down-text-online-tool
-
-
-**Nom de l'outil**: Convertisseur en ligne de chiffres en texte multilingue  
-**Description de l'outil**: Le convertisseur de nombre en texte est un outil en ligne qui vous permet de convertir rapidement des nombres en descriptions de texte dans plusieurs langues. Prend en charge actuellement jusqu'à 27 langues.  
-**Catégorie d'outil**: Outils de Texte  
-**Lien**: https://www.tools366.com/fr/tool/numbers-to-words-multiple-languages-online-tool
-
-
-**Nom de l'outil**: Outil de conversion par lots en ligne de texte anglais en nombres  
-**Description de l'outil**: Convertissez rapidement des nombres sous forme de mots anglais en format numérique. Capable d'analyser des paragraphes de texte, d'effectuer des conversions par lots et de prendre en charge des nombres positifs, des nombres négatifs et certains termes numériques courants.  
-**Catégorie d'outil**: Outils de Texte  
-**Lien**: https://www.tools366.com/fr/tool/batch-english-words-to-numbers
 
 

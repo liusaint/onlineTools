@@ -108,6 +108,30 @@
 **Tautan**: https://www.tools366.com/id/tool/search-json-keys-online
 
 
+**Nama Alat**: Alat Kompresi Gambar Online  
+**Deskripsi Alat**: Kompresi gambar PNG/JPG/JPEG/berbagai format lainnya secara lokal, kompresi tunggal, bandingkan kualitas kompresi, lihat hasil kompresi, keluarkan dalam format asli.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-image-online
+
+
+**Nama Alat**: Alat Kompresi Gambar Massal Online  
+**Deskripsi Alat**: Kompres gambar PNG lokal/gambar JPG/gambar JPEG/gambar dalam format lain, keluaran dalam format asli.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-images-online
+
+
+**Nama Alat**: Alat Kompresi Gambar PNG Online  
+**Deskripsi Alat**: Kompres gambar PNG secara lokal, kompresi tunggal, bandingkan kualitas kompresi, pratinjau kompresi  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-png-image-online
+
+
+**Nama Alat**: Alat Kompresi Gambar PNG Online Massal  
+**Deskripsi Alat**: Kompres gambar PNG secara lokal, kurangi ukuran file tanpa menurunkan kualitas gambar secara signifikan.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/compress-png-images-online
+
+
 **Nama Alat**: Alat Konversi Gambar Warna ke Skala Abu-abu/Hitam & Putih Online  
 **Deskripsi Alat**: Ini adalah alat online yang dengan mudah mengubah gambar warna Anda menjadi skala abu-abu atau hitam putih, memberikan foto Anda nuansa lama, nostalgia.  
 **Kategori Alat**: Alat Gambar  
@@ -124,6 +148,18 @@
 **Deskripsi Alat**: Alat online yang mengubah gambar Anda menjadi gambar dengan tampilan timbul, memberikan sentuhan artistik pada foto Anda.  
 **Kategori Alat**: Alat Gambar  
 **Tautan**: https://www.tools366.com/id/tool/image-embossing-online-tool
+
+
+**Nama Alat**: Alat Online Menyembunyikan Kode QR/Alat Penggabungan Gambar Online  
+**Deskripsi Alat**: Gabungkan dua gambar menjadi satu, menampilkan dua gambar yang berbeda pada latar belakang putih dan hitam  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-hiding-QR-code-online-tool
+
+
+**Nama Alat**: Alat Online Gambar ke Base64 | Enkode Base64 | Konverter Base64  
+**Deskripsi Alat**: Cepat mengkonversi file gambar ke format Base64. Mendukung berbagai format gambar untuk penggunaan online yang nyaman.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-to-base64
 
 
 **Nama Alat**: Generator Efek Seni Pixel Online untuk Gambar  
@@ -150,45 +186,15 @@
 **Tautan**: https://www.tools366.com/id/tool/online-picture-invert-color-tool
 
 
+**Nama Alat**: Alat Mengubah Ukuran Gambar Online  
+**Deskripsi Alat**: Ubah ukuran gambar dalam format seperti PNG/JPG/JPEG secara lokal, pilih bebas rasio skala dan dimensi, dengan opsi untuk mempertahankan atau tidak mempertahankan rasio aspek.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/resize-image
+
+
 **Nama Alat**: Alat Rotasi Gambar Online  
 **Deskripsi Alat**: Putar gambar pada sudut apa saja  
 **Kategori Alat**: Alat Gambar  
 **Tautan**: https://www.tools366.com/id/tool/rotate-image-online
-
-
-**Nama Alat**: Alat Online Menyembunyikan Kode QR/Alat Penggabungan Gambar Online  
-**Deskripsi Alat**: Gabungkan dua gambar menjadi satu, menampilkan dua gambar yang berbeda pada latar belakang putih dan hitam  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/image-hiding-QR-code-online-tool
-
-
-**Nama Alat**: Alat Online Gambar ke Base64 | Enkode Base64 | Konverter Base64  
-**Deskripsi Alat**: Cepat mengkonversi file gambar ke format Base64. Mendukung berbagai format gambar untuk penggunaan online yang nyaman.  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/image-to-base64
-
-
-**Nama Alat**: Alat Kompresi Gambar PNG Online Massal  
-**Deskripsi Alat**: Kompres gambar PNG secara lokal, kurangi ukuran file tanpa menurunkan kualitas gambar secara signifikan.  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/compress-png-images-online
-
-
-**Nama Alat**: Alat Kompresi Gambar PNG Online  
-**Deskripsi Alat**: Kompres gambar PNG secara lokal, kompresi tunggal, bandingkan kualitas kompresi, pratinjau kompresi  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/compress-png-image-online
-
-
-**Nama Alat**: Alat Kompresi Gambar Massal Online  
-**Deskripsi Alat**: Kompres gambar PNG lokal/gambar JPG/gambar JPEG/gambar dalam format lain, keluaran dalam format asli.  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/compress-images-online
-
-
-**Nama Alat**: Alat Kompresi Gambar Online  
-**Deskripsi Alat**: Kompresi gambar PNG/JPG/JPEG/berbagai format lainnya secara lokal, kompresi tunggal, bandingkan kualitas kompresi, lihat hasil kompresi, keluarkan dalam format asli.  
-**Kategori Alat**: Alat Gambar  
-**Tautan**: https://www.tools366.com/id/tool/compress-image-online
 
 

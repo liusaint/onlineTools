@@ -96,6 +96,12 @@
 **Link**: https://www.tools366.com/pt/tool/compress-image-online
 
 
+**Nome da ferramenta**: Ferramenta de Redimensionamento de Imagens Online  
+**Descrição da ferramenta**: Redimensione imagens em formatos como PNG/JPG/JPEG localmente, escolha livremente a proporção de escala e dimensões, com a opção de manter ou não a proporção de aspecto.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/resize-image
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  
@@ -138,6 +144,12 @@
 **Link**: https://www.tools366.com/pt/tool/search-json-keys-online
 
 
+**Nome da ferramenta**: Ferramenta de Conversão em Lote Online de Texto em Inglês para Números  
+**Descrição da ferramenta**: Converta rapidamente números em forma de palavras em inglês para formato numérico. Capaz de analisar parágrafos de texto, realizar conversões em lote e suportar números positivos, números negativos e alguns termos numéricos comuns.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/batch-english-words-to-numbers
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Caixa de Inglês Online  
 **Descrição da ferramenta**: Converta facilmente o texto para maiúsculas, minúsculas, capitalize cada palavra ou capitalize a primeira letra de cada frase.  
 **Categoria da ferramenta**: Ferramentas de Texto  
@@ -148,6 +160,12 @@
 **Descrição da ferramenta**: Converta rapidamente e automaticamente seu texto multilinha em uma única linha. Melhore a legibilidade e otimize o layout do texto.  
 **Categoria da ferramenta**: Ferramentas de Texto  
 **Link**: https://www.tools366.com/pt/tool/multiline-to-single-line-online-tool
+
+
+**Nome da ferramenta**: Conversor Online Multilíngue de Número para Texto  
+**Descrição da ferramenta**: O conversor de número para texto é uma ferramenta online que permite converter rapidamente números em descrições de texto em vários idiomas. Atualmente suporta até 27 idiomas.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/numbers-to-words-multiple-languages-online-tool
 
 
 **Nome da ferramenta**: Gerador de Senhas Online Seguro e Eficiente  
@@ -178,17 +196,5 @@
 **Descrição da ferramenta**: Use esta ferramenta para virar o seu texto verticalmente ou horizontalmente.  
 **Categoria da ferramenta**: Ferramentas de Texto  
 **Link**: https://www.tools366.com/pt/tool/upside-down-text-online-tool
-
-
-**Nome da ferramenta**: Conversor Online Multilíngue de Número para Texto  
-**Descrição da ferramenta**: O conversor de número para texto é uma ferramenta online que permite converter rapidamente números em descrições de texto em vários idiomas. Atualmente suporta até 27 idiomas.  
-**Categoria da ferramenta**: Ferramentas de Texto  
-**Link**: https://www.tools366.com/pt/tool/numbers-to-words-multiple-languages-online-tool
-
-
-**Nome da ferramenta**: Ferramenta de Conversão em Lote Online de Texto em Inglês para Números  
-**Descrição da ferramenta**: Converta rapidamente números em forma de palavras em inglês para formato numérico. Capaz de analisar parágrafos de texto, realizar conversões em lote e suportar números positivos, números negativos e alguns termos numéricos comuns.  
-**Categoria da ferramenta**: Ferramentas de Texto  
-**Link**: https://www.tools366.com/pt/tool/batch-english-words-to-numbers
 
 

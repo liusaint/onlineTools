@@ -108,6 +108,30 @@
 **Link**: https://www.tools366.com/tool/search-json-keys-online
 
 
+**Tool Name**: Online Image Compression Tool  
+**Tool Description**: Locally compress PNG images/JPG images/JPEG images/other format images, single compression, compare compression quality, preview compression, output in original format.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-image-online
+
+
+**Tool Name**: Online Bulk Image Compression Tool  
+**Tool Description**: Compress local PNG images/JPG images/JPEG images/other format images, output in original format.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-images-online
+
+
+**Tool Name**: Online PNG Image Compression Tool  
+**Tool Description**: Compress PNG images locally, single compression, compare compression quality, preview compression  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-png-image-online
+
+
+**Tool Name**: Online Bulk PNG Image Compression Tool  
+**Tool Description**: Compress PNG images locally, reduce file size without significantly lowering image quality.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/compress-png-images-online
+
+
 **Tool Name**: Online Color Image to Grayscale/Black & White Conversion Tool  
 **Tool Description**: This is an online tool that effortlessly converts your color images into grayscale or black and white, giving your photos an old, nostalgic feel.  
 **Tool Category**: Image Tools  
@@ -124,6 +148,18 @@
 **Tool Description**: An online tool that transforms your image into an embossed-looking picture, giving your photos an artistic touch.  
 **Tool Category**: Image Tools  
 **Link**: https://www.tools366.com/tool/image-embossing-online-tool
+
+
+**Tool Name**: QR Code Hiding Online Tool/Image Hiding Merge Online Tool  
+**Tool Description**: Merge two images into one, displaying two different images on black and white backgrounds  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-hiding-QR-code-online-tool
+
+
+**Tool Name**: Online Image to Base64 Tool| Base64 Encode | Base64 Converter  
+**Tool Description**: Quickly convert image files into Base64 format. Supports various image formats for convenient online use.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-to-base64
 
 
 **Tool Name**: Online Image Pixel Art Effect Generator  
@@ -150,45 +186,15 @@
 **Link**: https://www.tools366.com/tool/online-picture-invert-color-tool
 
 
+**Tool Name**: Online Image Resizing Tool  
+**Tool Description**: Resize images in formats like PNG/JPG/JPEG locally, freely choose the scale ratio and dimensions, with the option to retain or not retain the aspect ratio.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/resize-image
+
+
 **Tool Name**: Online Image Rotation Tool  
 **Tool Description**: Rotate an image by any angle  
 **Tool Category**: Image Tools  
 **Link**: https://www.tools366.com/tool/rotate-image-online
-
-
-**Tool Name**: QR Code Hiding Online Tool/Image Hiding Merge Online Tool  
-**Tool Description**: Merge two images into one, displaying two different images on black and white backgrounds  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/image-hiding-QR-code-online-tool
-
-
-**Tool Name**: Online Image to Base64 Tool| Base64 Encode | Base64 Converter  
-**Tool Description**: Quickly convert image files into Base64 format. Supports various image formats for convenient online use.  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/image-to-base64
-
-
-**Tool Name**: Online Bulk PNG Image Compression Tool  
-**Tool Description**: Compress PNG images locally, reduce file size without significantly lowering image quality.  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/compress-png-images-online
-
-
-**Tool Name**: Online PNG Image Compression Tool  
-**Tool Description**: Compress PNG images locally, single compression, compare compression quality, preview compression  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/compress-png-image-online
-
-
-**Tool Name**: Online Bulk Image Compression Tool  
-**Tool Description**: Compress local PNG images/JPG images/JPEG images/other format images, output in original format.  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/compress-images-online
-
-
-**Tool Name**: Online Image Compression Tool  
-**Tool Description**: Locally compress PNG images/JPG images/JPEG images/other format images, single compression, compare compression quality, preview compression, output in original format.  
-**Tool Category**: Image Tools  
-**Link**: https://www.tools366.com/tool/compress-image-online
 
 

@@ -96,6 +96,12 @@
 **Link**: https://www.tools366.com/nl/tool/compress-image-online
 
 
+**Toolnaam**: Online Afbeeldingsformaat Wijzigingstool  
+**Toolbeschrijving**: Wijzig afbeeldingen lokaal in formaten zoals PNG/JPG/JPEG, kies vrij de schaalverhouding en afmetingen, met de optie om de beeldverhouding wel of niet te behouden.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/resize-image
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  
@@ -138,6 +144,12 @@
 **Link**: https://www.tools366.com/nl/tool/search-json-keys-online
 
 
+**Toolnaam**: Online Batch-conversietool van Engelse tekst naar getallen  
+**Toolbeschrijving**: Zet snel Engelse woordvormnummers om in numeriek formaat. In staat om tekstparagrafen te analyseren, batchconversies uit te voeren en positieve getallen, negatieve getallen en enkele veelvoorkomende numerieke termen te ondersteunen.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/batch-english-words-to-numbers
+
+
 **Toolnaam**: Online Engels Geval Conversie Gereedschap  
 **Toolbeschrijving**: Zet tekst gemakkelijk om naar hoofdletters, kleine letters, maak elk woord met een hoofdletter of maak de eerste letter van elke zin met een hoofdletter.  
 **Toolcategorie**: Tekst Gereedschappen  
@@ -148,6 +160,12 @@
 **Toolbeschrijving**: Zet snel en automatisch uw multi-line tekst om in een enkele regel. Verbeter de leesbaarheid en optimaliseer de tekstlay-out.  
 **Toolcategorie**: Tekst Gereedschappen  
 **Link**: https://www.tools366.com/nl/tool/multiline-to-single-line-online-tool
+
+
+**Toolnaam**: Multilinguale Nummer naar Tekst Online Converter  
+**Toolbeschrijving**: De nummer naar tekst converter is een online tool die je snel nummers laat omzetten in tekstbeschrijvingen in meerdere talen. Ondersteunt momenteel tot 27 talen.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/numbers-to-words-multiple-languages-online-tool
 
 
 **Toolnaam**: Veilige en Efficiënte Online Wachtwoordgenerator  
@@ -178,17 +196,5 @@
 **Toolbeschrijving**: Gebruik dit hulpmiddel om uw tekst verticaal of horizontaal te kantelen.  
 **Toolcategorie**: Tekst Gereedschappen  
 **Link**: https://www.tools366.com/nl/tool/upside-down-text-online-tool
-
-
-**Toolnaam**: Multilinguale Nummer naar Tekst Online Converter  
-**Toolbeschrijving**: De nummer naar tekst converter is een online tool die je snel nummers laat omzetten in tekstbeschrijvingen in meerdere talen. Ondersteunt momenteel tot 27 talen.  
-**Toolcategorie**: Tekst Gereedschappen  
-**Link**: https://www.tools366.com/nl/tool/numbers-to-words-multiple-languages-online-tool
-
-
-**Toolnaam**: Online Batch-conversietool van Engelse tekst naar getallen  
-**Toolbeschrijving**: Zet snel Engelse woordvormnummers om in numeriek formaat. In staat om tekstparagrafen te analyseren, batchconversies uit te voeren en positieve getallen, negatieve getallen en enkele veelvoorkomende numerieke termen te ondersteunen.  
-**Toolcategorie**: Tekst Gereedschappen  
-**Link**: https://www.tools366.com/nl/tool/batch-english-words-to-numbers
 
 

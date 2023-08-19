@@ -96,6 +96,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/compress-image-online
 
 
+**工具名稱**: 在線圖像調整大小工具  
+**工具描述**: 在本地調整PNG / JPG / JPEG格式的圖像大小，自由選擇縮放比例和尺寸，可選擇保留或不保留長寬比。  
+**工具類別**: 圖片工具  
+**連結**: https://www.tools366.com/zh-TW/tool/resize-image
+
+
 **工具名稱**: 數字千分位格式轉換工具  
 **工具描述**: 輕鬆將數字轉換成逗號分隔的格式，或者將逗號分隔的數字還原。  
 **工具類別**: 數學工具  
@@ -138,6 +144,12 @@
 **連結**: https://www.tools366.com/zh-TW/tool/search-json-keys-online
 
 
+**工具名稱**: 英文文字到數字的在線批量轉換工具  
+**工具描述**: 快速將英文單詞形式的數字轉換為數字格式。能夠解析文本段落、執行批量轉換，並支持正數、負數和一些常見的數字術語。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/batch-english-words-to-numbers
+
+
 **工具名稱**: 線上英文大小寫轉換工具  
 **工具描述**: 輕鬆將文字轉換為大寫、小寫、每個單詞的首字母大寫，或每句的第一個字母大寫。  
 **工具類別**: 文本工具  
@@ -148,6 +160,12 @@
 **工具描述**: 快速並自動地將您的多行文字轉換為單行。提高可讀性並優化文字佈局。  
 **工具類別**: 文本工具  
 **連結**: https://www.tools366.com/zh-TW/tool/multiline-to-single-line-online-tool
+
+
+**工具名稱**: 多語言數字到文字在線轉換器  
+**工具描述**: 數字到文字轉換器是一款允許您將數字快速轉換為多種語言的文字描述的在線工具。目前支持多達27種語言。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/numbers-to-words-multiple-languages-online-tool
 
 
 **工具名稱**: 安全且高效的在線密碼生成器  
@@ -178,17 +196,5 @@
 **工具描述**: 使用此工具可垂直或水平翻轉您的文字。  
 **工具類別**: 文本工具  
 **連結**: https://www.tools366.com/zh-TW/tool/upside-down-text-online-tool
-
-
-**工具名稱**: 多語言數字到文字在線轉換器  
-**工具描述**: 數字到文字轉換器是一款允許您將數字快速轉換為多種語言的文字描述的在線工具。目前支持多達27種語言。  
-**工具類別**: 文本工具  
-**連結**: https://www.tools366.com/zh-TW/tool/numbers-to-words-multiple-languages-online-tool
-
-
-**工具名稱**: 英文文字到數字的在線批量轉換工具  
-**工具描述**: 快速將英文單詞形式的數字轉換為數字格式。能夠解析文本段落、執行批量轉換，並支持正數、負數和一些常見的數字術語。  
-**工具類別**: 文本工具  
-**連結**: https://www.tools366.com/zh-TW/tool/batch-english-words-to-numbers
 
 

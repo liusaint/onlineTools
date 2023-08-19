@@ -108,6 +108,30 @@
 **Link**: https://www.tools366.com/it/tool/search-json-keys-online
 
 
+**Nome dello strumento**: Strumento di Compressione Immagini Online  
+**Descrizione dello strumento**: Comprimi localmente immagini PNG/JPG/JPEG/altre immagini in formato, compressione singola, confronta la qualità della compressione, anteprima compressione, output nel formato originale.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-image-online
+
+
+**Nome dello strumento**: Strumento di Compressione di Immagini in Blocco Online  
+**Descrizione dello strumento**: Comprimi immagini PNG locali/immagini JPG/immagini JPEG/immagini in altri formati, output nel formato originale.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-images-online
+
+
+**Nome dello strumento**: Strumento di Compressione Immagini PNG Online  
+**Descrizione dello strumento**: Comprimi le immagini PNG localmente, compressione singola, confronta la qualità della compressione, anteprima della compressione  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-png-image-online
+
+
+**Nome dello strumento**: Strumento di compressione di immagini PNG online e in blocco  
+**Descrizione dello strumento**: Comprimi le immagini PNG localmente, riduci la dimensione del file senza diminuire significativamente la qualità dell'immagine.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/compress-png-images-online
+
+
 **Nome dello strumento**: Strumento di Conversione da Immagini a Colori Online a Scala di Grigi/Bianco e Nero  
 **Descrizione dello strumento**: Questo è uno strumento online che converte senza sforzo le tue immagini a colori in scala di grigi o bianco e nero, conferendo alle tue foto un'atmosfera vecchia e nostalgica.  
 **Categoria dello strumento**: Strumenti per immagini  
@@ -124,6 +148,18 @@
 **Descrizione dello strumento**: Uno strumento online che trasforma la tua immagine in un'immagine con effetto di goffratura, dando alle tue foto un tocco artistico.  
 **Categoria dello strumento**: Strumenti per immagini  
 **Link**: https://www.tools366.com/it/tool/image-embossing-online-tool
+
+
+**Nome dello strumento**: Strumento di Nascondimento del Codice QR Online/Strumento di Unione Immagini Online  
+**Descrizione dello strumento**: Unisci due immagini in una, mostrando due immagini diverse su sfondi bianchi e neri  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-hiding-QR-code-online-tool
+
+
+**Nome dello strumento**: Strumento online per immagini in Base64 | Codifica Base64 | Convertitore Base64  
+**Descrizione dello strumento**: Converti rapidamente i file immagine nel formato Base64. Supporta vari formati di immagine per un uso online conveniente.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-to-base64
 
 
 **Nome dello strumento**: Generatore di Effetti di Arte Pixel Online per Immagini  
@@ -150,45 +186,15 @@
 **Link**: https://www.tools366.com/it/tool/online-picture-invert-color-tool
 
 
+**Nome dello strumento**: Strumento per Ridimensionare Immagini Online  
+**Descrizione dello strumento**: Ridimensiona immagini in formati come PNG/JPG/JPEG localmente, scegli liberamente il rapporto di scala e le dimensioni, con l'opzione di mantenere o non mantenere il rapporto di aspetto.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/resize-image
+
+
 **Nome dello strumento**: Strumento di rotazione immagini online  
 **Descrizione dello strumento**: Ruota un'immagine di qualsiasi angolo  
 **Categoria dello strumento**: Strumenti per immagini  
 **Link**: https://www.tools366.com/it/tool/rotate-image-online
-
-
-**Nome dello strumento**: Strumento di Nascondimento del Codice QR Online/Strumento di Unione Immagini Online  
-**Descrizione dello strumento**: Unisci due immagini in una, mostrando due immagini diverse su sfondi bianchi e neri  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/image-hiding-QR-code-online-tool
-
-
-**Nome dello strumento**: Strumento online per immagini in Base64 | Codifica Base64 | Convertitore Base64  
-**Descrizione dello strumento**: Converti rapidamente i file immagine nel formato Base64. Supporta vari formati di immagine per un uso online conveniente.  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/image-to-base64
-
-
-**Nome dello strumento**: Strumento di compressione di immagini PNG online e in blocco  
-**Descrizione dello strumento**: Comprimi le immagini PNG localmente, riduci la dimensione del file senza diminuire significativamente la qualità dell'immagine.  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/compress-png-images-online
-
-
-**Nome dello strumento**: Strumento di Compressione Immagini PNG Online  
-**Descrizione dello strumento**: Comprimi le immagini PNG localmente, compressione singola, confronta la qualità della compressione, anteprima della compressione  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/compress-png-image-online
-
-
-**Nome dello strumento**: Strumento di Compressione di Immagini in Blocco Online  
-**Descrizione dello strumento**: Comprimi immagini PNG locali/immagini JPG/immagini JPEG/immagini in altri formati, output nel formato originale.  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/compress-images-online
-
-
-**Nome dello strumento**: Strumento di Compressione Immagini Online  
-**Descrizione dello strumento**: Comprimi localmente immagini PNG/JPG/JPEG/altre immagini in formato, compressione singola, confronta la qualità della compressione, anteprima compressione, output nel formato originale.  
-**Categoria dello strumento**: Strumenti per immagini  
-**Link**: https://www.tools366.com/it/tool/compress-image-online
 
 
