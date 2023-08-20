@@ -198,3 +198,9 @@
 **Link**: https://www.tools366.com/tool/rotate-image-online
 
 
+**Tool Name**: Online Bulk Image Size Resizing Tool  
+**Tool Description**: Locally resize PNG/JPG/JPEG, etc. format images, freely choose scaling ratio and size, retain or do not retain aspect ratio, output in original format  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/batch-resize-images
+
+

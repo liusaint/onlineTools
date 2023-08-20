@@ -198,3 +198,9 @@
 **Link**: https://www.tools366.com/pl/tool/rotate-image-online
 
 
+**Nazwa narzędzia**: Narzędzie do Masowej Zmiany Rozmiaru Obrazów Online  
+**Opis narzędzia**: Lokalna zmiana rozmiaru obrazów w formatach PNG/JPG/JPEG itp., dowolny wybór stosunku i rozmiaru skalowania, zachowanie lub niezachowanie proporcji, wyjście w oryginalnym formacie  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/batch-resize-images
+
+

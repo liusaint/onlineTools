@@ -102,6 +102,12 @@
 **Link**: https://www.tools366.com/nl/tool/resize-image
 
 
+**Toolnaam**: Online Bulk Image Size Resizing Tool  
+**Toolbeschrijving**: Lokaal formaat wijzigen van PNG/JPG/JPEG, enz. formaat afbeeldingen, vrij kiezen van schaalverhouding en grootte, behoud of behoud geen aspectverhouding, uitvoer in origineel formaat  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/batch-resize-images
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  

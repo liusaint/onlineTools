@@ -198,3 +198,9 @@
 **リンク**: https://www.tools366.com/ja/tool/rotate-image-online
 
 
+**ツール名**: オンライン一括画像サイズ変更ツール  
+**ツールの説明**: ローカルでPNG/JPG/JPEGなどの画像をリサイズし、拡大/縮小比率とサイズを自由に選ぶ、アスペクト比を保持するかどうかを選ぶ、元の形式で出力  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/batch-resize-images
+
+

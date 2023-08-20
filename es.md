@@ -198,3 +198,9 @@
 **Enlace**: https://www.tools366.com/es/tool/rotate-image-online
 
 
+**Nombre de la herramienta**: Herramienta de redimensionamiento de imágenes en línea en masa  
+**Descripción de la herramienta**: Redimensiona localmente imágenes en formatos PNG/JPG/JPEG, etc., elige libremente la relación y el tamaño de escalado, mantén o no la relación de aspecto, salida en formato original  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/batch-resize-images
+
+

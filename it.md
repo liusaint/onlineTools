@@ -198,3 +198,9 @@
 **Link**: https://www.tools366.com/it/tool/rotate-image-online
 
 
+**Nome dello strumento**: Strumento per ridimensionare le immagini in blocco online  
+**Descrizione dello strumento**: Ridimensiona localmente immagini in formato PNG/JPG/JPEG, ecc., scegli liberamente rapporto e dimensione di ridimensionamento, mantieni o non mantenere il rapporto di aspetto, output nel formato originale  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/batch-resize-images
+
+

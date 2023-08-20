@@ -102,6 +102,12 @@
 **Länk**: https://www.tools366.com/sv/tool/resize-image
 
 
+**Verktygsnamn**: Online Verktyg för Massändring av Bildstorlek  
+**Verktygsbeskrivning**: Ändra storlek lokalt på PNG/JPG/JPEG osv. formatbilder, välj fritt skalningsförhållande och storlek, behåll eller behåll inte bildförhållandet, utgå i originalformat  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/batch-resize-images
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  

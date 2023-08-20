@@ -102,6 +102,12 @@
 **Link**: https://www.tools366.com/pt/tool/resize-image
 
 
+**Nome da ferramenta**: Ferramenta de redimensionamento de imagens em lote online  
+**Descrição da ferramenta**: Redimensione localmente imagens no formato PNG/JPG/JPEG, etc., escolha livremente a proporção e o tamanho de redimensionamento, retenha ou não a proporção de aspecto, saída no formato original  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/batch-resize-images
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  

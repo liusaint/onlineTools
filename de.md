@@ -198,3 +198,9 @@
 **Link**: https://www.tools366.com/de/tool/rotate-image-online
 
 
+**Tool-Name**: Online-Bulk-Bildgrößen-Anpassungstool  
+**Tool-Beschreibung**: Lokales Größenanpassen von PNG/JPG/JPEG usw. Formatbildern, frei wählbares Skalierungsverhältnis und Größe, Beibehaltung oder Nichtbeibehaltung des Seitenverhältnisses, Ausgabe im Originalformat  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/batch-resize-images
+
+

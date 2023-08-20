@@ -198,3 +198,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
 
 
+**Araç Adı**: Çevrimiçi Toplu Resim Boyutu Değiştirme Aracı  
+**Araç Açıklaması**: Yerel olarak PNG/JPG/JPEG vb. formatındaki resimleri yeniden boyutlandırın, ölçekleme oranını ve boyutunu serbestçe seçin, en-boy oranını koruyun ya da korumayın, orijinal formatında çıktı alın  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/batch-resize-images
+
+

@@ -102,6 +102,12 @@
 **Lien**: https://www.tools366.com/fr/tool/resize-image
 
 
+**Nom de l'outil**: Outil de redimensionnement en vrac de la taille des images en ligne  
+**Description de l'outil**: Redimensionnez localement des images aux formats PNG/JPG/JPEG, etc., choisissez librement le rapport de mise à l'échelle et la taille, conservez ou non le rapport d'aspect, exportez au format d'origine  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/batch-resize-images
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  

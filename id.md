@@ -198,3 +198,9 @@
 **Tautan**: https://www.tools366.com/id/tool/rotate-image-online
 
 
+**Nama Alat**: Alat Pengubahan Ukuran Gambar Massal Online  
+**Deskripsi Alat**: Ubah ukuran gambar format PNG/JPG/JPEG, dll. secara lokal, pilih bebas rasio dan ukuran pengukuran, pertahankan atau tidak pertahankan rasio aspek, keluaran dalam format asli  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/batch-resize-images
+
+
