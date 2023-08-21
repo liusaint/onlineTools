@@ -204,3 +204,9 @@
 **Länk**: https://www.tools366.com/sv/tool/upside-down-text-online-tool
 
 
+**Verktygsnamn**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Text Generator, URL Hidden  
+**Verktygsbeskrivning**: Skapa unika glitch-texteffekter genom att justera olika parametrar.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/glitch-text-generator
+
+

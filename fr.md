@@ -204,3 +204,9 @@
 **Lien**: https://www.tools366.com/fr/tool/upside-down-text-online-tool
 
 
+**Nom de l'outil**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Générateur de texte en ligne Glitch, URL cachée  
+**Description de l'outil**: Créez des effets de texte glitch uniques en ajustant différents paramètres.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/glitch-text-generator
+
+

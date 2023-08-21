@@ -78,6 +78,12 @@
 **Link**: https://www.tools366.com/it/tool/batch-english-words-to-numbers
 
 
+**Nome dello strumento**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Generatore di Testo Glitch Online, URL Nascosto  
+**Descrizione dello strumento**: Crea effetti di testo glitch unici regolando diversi parametri.  
+**Categoria dello strumento**: Strumenti di Testo  
+**Link**: https://www.tools366.com/it/tool/glitch-text-generator
+
+
 **Nome dello strumento**: Copia Percorso JSON, Formatta e Comprimi Strumento JSON  
 **Descrizione dello strumento**: Converte il testo JSON in una struttura ad albero visuale, copia rapidamente e visualizza i percorsi JSON. Gestisce JSON non standard, formatta o comprime i dati JSON in JSON standard.  
 **Categoria dello strumento**: Strumenti di programmazione  

@@ -78,6 +78,12 @@
 **Enlace**: https://www.tools366.com/es/tool/batch-english-words-to-numbers
 
 
+**Nombre de la herramienta**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Generador de texto Glitch en línea, URL oculta  
+**Descripción de la herramienta**: Cree efectos de texto glitch únicos ajustando diferentes parámetros.  
+**Categoría de la herramienta**: Herramientas de Texto  
+**Enlace**: https://www.tools366.com/es/tool/glitch-text-generator
+
+
 **Nombre de la herramienta**: Copiar la ruta JSON, Herramienta de formato y compresión de JSON  
 **Descripción de la herramienta**: Convierte el texto JSON en una estructura de árbol visual, copia rápidamente y muestra las rutas JSON. Maneja JSON no estándar, formatea o comprime datos JSON en JSON estándar.  
 **Categoría de la herramienta**: Herramientas de programación  

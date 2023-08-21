@@ -204,3 +204,9 @@
 **링크**: https://www.tools366.com/ko/tool/upside-down-text-online-tool
 
 
+**도구 이름**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ 온라인 글리치 텍스트 생성기, URL 숨김  
+**도구 설명**: 다양한 파라미터를 조정하여 독특한 글리치 텍스트 효과를 만듭니다.  
+**도구 카테고리**: 텍스트 도구  
+**링크**: https://www.tools366.com/ko/tool/glitch-text-generator
+
+

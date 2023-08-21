@@ -204,3 +204,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/upside-down-text-online-tool
 
 
+**工具名稱**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ 線上故障文字產生器，URL隱藏  
+**工具描述**: 通過調整不同的參數來創建獨特的故障效果文字。  
+**工具類別**: 文本工具  
+**連結**: https://www.tools366.com/zh-TW/tool/glitch-text-generator
+
+

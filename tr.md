@@ -78,6 +78,12 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/batch-english-words-to-numbers
 
 
+**Araç Adı**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Metin Üreteci, URL Gizli  
+**Araç Açıklaması**: Farklı parametreleri ayarlayarak benzersiz glitch metin efektleri oluşturun.  
+**Araç Kategorisi**: Metin Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/glitch-text-generator
+
+
 **Araç Adı**: JSON Yolunu Kopyala, Formatla ve JSON Araçlarını Sıkıştır  
 **Araç Açıklaması**: JSON metnini görsel bir ağaç yapısına dönüştür, hızlı bir şekilde kopyala ve JSON yollarını göster. Standart dışı JSON'u işle, JSON verilerini standart JSON'a formatla veya sıkıştır.  
 **Araç Kategorisi**: Programlama Araçları  

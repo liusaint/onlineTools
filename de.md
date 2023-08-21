@@ -78,6 +78,12 @@
 **Link**: https://www.tools366.com/de/tool/batch-english-words-to-numbers
 
 
+**Tool-Name**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Text Generator, URL versteckt  
+**Tool-Beschreibung**: Erstellen Sie einzigartige Glitch-Texteffekte, indem Sie verschiedene Parameter anpassen.  
+**Tool-Kategorie**: Textwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/glitch-text-generator
+
+
 **Tool-Name**: Kopiere JSON Pfad, Format und Komprimiere JSON Tool  
 **Tool-Beschreibung**: Wandelt JSON Text in eine visuelle Baumstruktur um, kopiert schnell und zeigt JSON Pfade an. Behandelt nicht standardisiertes JSON, formatiert oder komprimiert JSON Daten in standardisiertes JSON.  
 **Tool-Kategorie**: Programmierwerkzeuge  

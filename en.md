@@ -78,6 +78,12 @@
 **Link**: https://www.tools366.com/tool/batch-english-words-to-numbers
 
 
+**Tool Name**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Text Generator, URL Hidden  
+**Tool Description**: Create unique glitch text effects by adjusting different parameters.  
+**Tool Category**: Text Tools  
+**Link**: https://www.tools366.com/tool/glitch-text-generator
+
+
 **Tool Name**: CamelCase/Underscore/Hyphen Conversion Tool  
 **Tool Description**: Implements conversion between CamelCase, underscore, and hyphen-separated text naming conventions.  
 **Tool Category**: Programming Tools  

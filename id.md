@@ -78,6 +78,12 @@
 **Tautan**: https://www.tools366.com/id/tool/batch-english-words-to-numbers
 
 
+**Nama Alat**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Generator Teks Glitch Online, URL Tersembunyi  
+**Deskripsi Alat**: Buat efek teks glitch unik dengan menyesuaikan berbagai parameter.  
+**Kategori Alat**: Alat Teks  
+**Tautan**: https://www.tools366.com/id/tool/glitch-text-generator
+
+
 **Nama Alat**: Alat Konversi CamelCase / Underscore / Hyphen  
 **Deskripsi Alat**: Menerapkan konversi antara konvensi penamaan teks CamelCase, underscore, dan teks yang dipisahkan dengan tanda hubung.  
 **Kategori Alat**: Alat Pemrograman  

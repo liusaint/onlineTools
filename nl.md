@@ -204,3 +204,9 @@
 **Link**: https://www.tools366.com/nl/tool/upside-down-text-online-tool
 
 
+**Toolnaam**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Tekstgenerator, URL Verborgen  
+**Toolbeschrijving**: Creëer unieke glitch-teksteffecten door verschillende parameters aan te passen.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/glitch-text-generator
+
+
