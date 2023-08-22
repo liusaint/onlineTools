@@ -210,3 +210,15 @@
 **Tautan**: https://www.tools366.com/id/tool/batch-resize-images
 
 
+**Nama Alat**: Alat Pengaburan Gambar Online  
+**Deskripsi Alat**: Kaburkan gambar PNG/JPG/JPEG dan format lain secara lokal. Pilih bebas radius kabur, pratinjau dan sesuaikan efek kabur.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/blur-image-tool-online
+
+
+**Nama Alat**: Alat Pengaburan Gambar Online Batch  
+**Deskripsi Alat**: Pengaburan batch PNG/JPG/JPEG dan format gambar lainnya, pilih bebas radius kabur, pratinjau, dan atur efek kabur.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/bulk-blur-image-tool-online
+
+

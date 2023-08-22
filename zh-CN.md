@@ -108,6 +108,18 @@
 **链接**: https://www.tools366.com/zh-CN/tool/batch-resize-images
 
 
+**工具名称**: 在线图片模糊工具  
+**工具描述**: 在本地模糊PNG/JPG/JPEG等格式的图片，自由选择模糊半径，预览并调整模糊效果。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/blur-image-tool-online
+
+
+**工具名称**: 批量图片模糊在线工具  
+**工具描述**: 批量模糊PNG/JPG/JPEG等格式的图片，自由选择模糊半径，预览并调整模糊效果。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/bulk-blur-image-tool-online
+
+
 **工具名称**: 数字千分位格式转换工具  
 **工具描述**: 轻松将数字转换成逗号分隔的格式，或者将逗号分隔的数字还原。  
 **工具类别**: 数学工具  

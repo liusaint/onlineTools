@@ -210,3 +210,15 @@
 **Link**: https://www.tools366.com/it/tool/batch-resize-images
 
 
+**Nome dello strumento**: Strumento di Sfocatura Immagini Online  
+**Descrizione dello strumento**: Sfoca immagini PNG/JPG/JPEG e altri formati localmente. Scegli liberamente il raggio di sfocatura, anteprima e regola l'effetto di sfocatura.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/blur-image-tool-online
+
+
+**Nome dello strumento**: Strumento di Sfocatura Immagini in Serie Online  
+**Descrizione dello strumento**: Sfocatura in serie di immagini PNG/JPG/JPEG e altri formati, scegli liberamente il raggio di sfocatura, anteprima e regola l'effetto sfocato.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/bulk-blur-image-tool-online
+
+

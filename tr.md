@@ -210,3 +210,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/batch-resize-images
 
 
+**Araç Adı**: Çevrimiçi Görüntü Bulanıklık Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG ve diğer görüntü formatlarını yerel olarak bulanıklaştırın. Bulanıklık yarıçapını özgürce seçin, önizleyin ve bulanıklık etkisini ayarlayın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/blur-image-tool-online
+
+
+**Araç Adı**: Çevrimiçi Toplu Resim Bulanıklaştırma Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG ve diğer resim formatlarını toplu olarak bulanıklaştırın, bulanıklaştırma yarıçapını özgürce seçin, önizleyin ve bulanık efektini ayarlayın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/bulk-blur-image-tool-online
+
+

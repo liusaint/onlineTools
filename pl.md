@@ -210,3 +210,15 @@
 **Link**: https://www.tools366.com/pl/tool/batch-resize-images
 
 
+**Nazwa narzędzia**: Narzędzie do Rozmywania Obrazów Online  
+**Opis narzędzia**: Rozmywaj lokalnie obrazy w formatach PNG/JPG/JPEG i innych. Dowolnie wybieraj promień rozmycia, podglądaj i dostosowuj efekt rozmycia.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/blur-image-tool-online
+
+
+**Nazwa narzędzia**: Narzędzie do rozmywania obrazów wsadowych online  
+**Opis narzędzia**: Rozmywanie wsadowe PNG/JPG/JPEG i innych formatów obrazów, dowolny wybór promienia rozmycia, podgląd i regulacja efektu rozmycia.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/bulk-blur-image-tool-online
+
+

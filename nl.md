@@ -108,6 +108,18 @@
 **Link**: https://www.tools366.com/nl/tool/batch-resize-images
 
 
+**Toolnaam**: Online Afbeelding Vervagen Tool  
+**Toolbeschrijving**: Vervaag PNG/JPG/JPEG en andere formaten van afbeeldingen lokaal. Kies vrijelijk de vervagingsradius, bekijk de voorbeeldweergave en pas het vervagingseffect aan.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/blur-image-tool-online
+
+
+**Toolnaam**: Batch Image Blurring Online Gereedschap  
+**Toolbeschrijving**: Batch vervagen van PNG/JPG/JPEG en andere beeldformaten, kies vrij de vervagingsradius, voorbeeld en pas het vervagingseffect aan.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/bulk-blur-image-tool-online
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  

@@ -210,3 +210,15 @@
 **Link**: https://www.tools366.com/de/tool/batch-resize-images
 
 
+**Tool-Name**: Online-Bildunschärfen-Tool  
+**Tool-Beschreibung**: Verwischen Sie PNG/JPG/JPEG und andere Bildformate lokal. Wählen Sie den Unschärferadius frei aus, sehen Sie eine Vorschau an und passen Sie den Unschärfeeffekt an.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/blur-image-tool-online
+
+
+**Tool-Name**: Batch-Bildunschärfung Online-Tool  
+**Tool-Beschreibung**: Stapelverarbeitung von Unschärfen für PNG/JPG/JPEG und andere Bildformate, frei wählbarer Unschärferadius, Vorschau und Anpassung des Unschärfeeffekts.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/bulk-blur-image-tool-online
+
+

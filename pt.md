@@ -108,6 +108,18 @@
 **Link**: https://www.tools366.com/pt/tool/batch-resize-images
 
 
+**Nome da ferramenta**: Ferramenta de Desfoque de Imagem Online  
+**Descrição da ferramenta**: Desfoque imagens PNG/JPG/JPEG e outros formatos localmente. Escolha livremente o raio de desfoque, visualize e ajuste o efeito de desfoque.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/blur-image-tool-online
+
+
+**Nome da ferramenta**: Ferramenta Online de Desfoque de Imagens em Lote  
+**Descrição da ferramenta**: Desfoque em lote de imagens PNG/JPG/JPEG e outros formatos, escolha livremente o raio de desfoque, visualize e ajuste o efeito de desfoque.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/bulk-blur-image-tool-online
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  

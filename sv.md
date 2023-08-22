@@ -108,6 +108,18 @@
 **Länk**: https://www.tools366.com/sv/tool/batch-resize-images
 
 
+**Verktygsnamn**: Verktyg för Online Bildoskärpa  
+**Verktygsbeskrivning**: Oskärpa PNG/JPG/JPEG och andra bildformat lokalt. Välj fritt oskärperadie, förhandsgranska och justera oskärpeffekten.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/blur-image-tool-online
+
+
+**Verktygsnamn**: Verktyg för Batch-bildoskärpning Online  
+**Verktygsbeskrivning**: Batch-oskärpa PNG/JPG/JPEG och andra bildformat, välj fritt oskärpningsradien, förhandsgranska och justera oskärpningseffekten.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/bulk-blur-image-tool-online
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  

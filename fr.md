@@ -108,6 +108,18 @@
 **Lien**: https://www.tools366.com/fr/tool/batch-resize-images
 
 
+**Nom de l'outil**: Outil de Flou d'Image en Ligne  
+**Description de l'outil**: Flouter les images PNG/JPG/JPEG et d'autres formats localement. Choisissez librement le rayon de flou, prévisualisez et ajustez l'effet de flou.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/blur-image-tool-online
+
+
+**Nom de l'outil**: Outil de Floutage d'Images en Ligne par Lots  
+**Description de l'outil**: Floutage en lots de PNG/JPG/JPEG et autres formats d'images, choisissez librement le rayon de flou, prévisualisez et ajustez l'effet de flou.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/bulk-blur-image-tool-online
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  

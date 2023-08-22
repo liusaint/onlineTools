@@ -210,3 +210,15 @@
 **Enlace**: https://www.tools366.com/es/tool/batch-resize-images
 
 
+**Nombre de la herramienta**: Herramienta de Desenfoque de Imágenes en Línea  
+**Descripción de la herramienta**: Desenfoca imágenes PNG/JPG/JPEG y otros formatos localmente. Elige libremente el radio de desenfoque, previsualiza y ajusta el efecto de desenfoque.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/blur-image-tool-online
+
+
+**Nombre de la herramienta**: Herramienta de Desenfoque de Imágenes en Línea por Lotes  
+**Descripción de la herramienta**: Desenfoca en lotes imágenes PNG/JPG/JPEG y otros formatos, elige libremente el radio de desenfoque, previsualiza y ajusta el efecto de desenfoque.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/bulk-blur-image-tool-online
+
+

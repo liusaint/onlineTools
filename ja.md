@@ -210,3 +210,15 @@
 **リンク**: https://www.tools366.com/ja/tool/batch-resize-images
 
 
+**ツール名**: オンライン画像ぼかしツール  
+**ツールの説明**: PNG/JPG/JPEGなどの画像フォーマットをローカルでぼかす。ぼかし半径を自由に選び、プレビューし、ぼかし効果を調整。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/blur-image-tool-online
+
+
+**ツール名**: バッチ画像ぼかしオンラインツール  
+**ツールの説明**: PNG/JPG/JPEGなどの画像をバッチぼかし、ぼかし半径を自由に選択、プレビューしてぼかし効果を調整します。  
+**ツールカテゴリ**: 画像ツール  
+**リンク**: https://www.tools366.com/ja/tool/bulk-blur-image-tool-online
+
+

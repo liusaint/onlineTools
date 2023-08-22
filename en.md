@@ -210,3 +210,15 @@
 **Link**: https://www.tools366.com/tool/batch-resize-images
 
 
+**Tool Name**: Online Image Blur Tool  
+**Tool Description**: Blur PNG/JPG/JPEG and other formats of images locally. Freely choose the blur radius, preview, and adjust the blurring effect.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/blur-image-tool-online
+
+
+**Tool Name**: Batch Image Blurring Online Tool  
+**Tool Description**: Batch blur PNG/JPG/JPEG and other formats of images, freely choose the blur radius, preview, and adjust the blur effect.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/bulk-blur-image-tool-online
+
+
