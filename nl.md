@@ -120,6 +120,12 @@
 **Link**: https://www.tools366.com/nl/tool/bulk-blur-image-tool-online
 
 
+**Toolnaam**: Online Afbeelding Splitsing Tool - Rooster Afbeelding Generator  
+**Toolbeschrijving**: Gratis online afbeelding bijsnijden en splitsing tool, afbeeldingen bijsnijden in roosters van 9, 4 of meer met één klik, geschikt voor sociale media zoals WeChat Moments, Instagram. U kunt ervoor kiezen om in vierkanten te snijden en ondersteunt formaten zoals PNG, JPG, JPEG, en ZIP-pakket downloaden met één klik.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/image-splitter
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  
@@ -220,5 +226,11 @@
 **Toolbeschrijving**: Creëer unieke glitch-teksteffecten door verschillende parameters aan te passen.  
 **Toolcategorie**: Tekst Gereedschappen  
 **Link**: https://www.tools366.com/nl/tool/glitch-text-generator
+
+
+**Toolnaam**: Online Wegwijzer Generator Tool  
+**Toolbeschrijving**: De online wegwijzer generator tool stelt je in staat om wegwijzers aan te passen en te ontwerpen, met realtime voorbeeld en download. Creëer snel wegwijzers in de stijl van het vasteland van China zonder software te downloaden. 'Miss You' internetberoemdheid wegwijzer generator.  
+**Toolcategorie**: Overige  
+**Link**: https://www.tools366.com/nl/tool/road-sign-generator
 
 

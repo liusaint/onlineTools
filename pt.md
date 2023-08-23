@@ -120,6 +120,12 @@
 **Link**: https://www.tools366.com/pt/tool/bulk-blur-image-tool-online
 
 
+**Nome da ferramenta**: Ferramenta de Divisão de Imagem Online - Gerador de Imagem em Grade  
+**Descrição da ferramenta**: Ferramenta gratuita de corte e divisão de imagens online, corte de imagens em grades de 9, 4 ou mais com um clique, adequado para mídias sociais como WeChat Moments, Instagram. Você pode escolher cortar em quadrados e suporta formatos como PNG, JPG, JPEG e download de pacote ZIP com um clique.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/image-splitter
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  
@@ -220,5 +226,11 @@
 **Descrição da ferramenta**: Crie efeitos de texto glitch únicos ajustando diferentes parâmetros.  
 **Categoria da ferramenta**: Ferramentas de Texto  
 **Link**: https://www.tools366.com/pt/tool/glitch-text-generator
+
+
+**Nome da ferramenta**: Ferramenta de Geração de Sinal de Estrada Online  
+**Descrição da ferramenta**: A ferramenta de geração de sinal de estrada online permite que você personalize e projete sinais de estrada, oferecendo visualização em tempo real e download. Crie sinais de estrada no estilo da China continental rapidamente sem baixar software. Gerador de sinal de estrada de celebridade da Internet 'Sinto sua falta'.  
+**Categoria da ferramenta**: Outros  
+**Link**: https://www.tools366.com/pt/tool/road-sign-generator
 
 

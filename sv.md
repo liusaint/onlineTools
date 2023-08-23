@@ -120,6 +120,12 @@
 **Länk**: https://www.tools366.com/sv/tool/bulk-blur-image-tool-online
 
 
+**Verktygsnamn**: Online Bildsplitteringsverktyg - Rutnätsbildgenerator  
+**Verktygsbeskrivning**: Gratis online bildbeskärning och splittringsverktyg, enklicksklippning av bilder i rutor om 9, 4 eller fler, lämplig för sociala medier som WeChat Moments, Instagram. Du kan välja att klippa i kvadrater och stöder format som PNG, JPG, JPEG och en-klicks ZIP-paket nedladdning.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/image-splitter
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  
@@ -220,5 +226,11 @@
 **Verktygsbeskrivning**: Skapa unika glitch-texteffekter genom att justera olika parametrar.  
 **Verktygskategori**: Textverktyg  
 **Länk**: https://www.tools366.com/sv/tool/glitch-text-generator
+
+
+**Verktygsnamn**: Online Vägmärkesgeneratorverktyg  
+**Verktygsbeskrivning**: Online vägmärkesgeneratorverktyget låter dig anpassa och designa vägmärken, och erbjuder realtidsförhandsgranskning och nedladdning. Skapa snabbt Fastlandskina-stil vägmärken utan att behöva ladda ner programvara. 'Saknar dig' internetkändis vägmärkesgenerator.  
+**Verktygskategori**: Övriga  
+**Länk**: https://www.tools366.com/sv/tool/road-sign-generator
 
 

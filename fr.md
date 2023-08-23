@@ -120,6 +120,12 @@
 **Lien**: https://www.tools366.com/fr/tool/bulk-blur-image-tool-online
 
 
+**Nom de l'outil**: Outil de division d'image en ligne - Générateur d'image en grille  
+**Description de l'outil**: Outil de rognage et de division d'image en ligne gratuit, découpage des images en grilles de 9, 4 ou plus en un clic, adapté aux médias sociaux tels que WeChat Moments, Instagram. Vous pouvez choisir de découper en carrés et prendre en charge des formats tels que PNG, JPG, JPEG et téléchargement de package ZIP en un clic.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/image-splitter
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  
@@ -220,5 +226,11 @@
 **Description de l'outil**: Créez des effets de texte glitch uniques en ajustant différents paramètres.  
 **Catégorie d'outil**: Outils de Texte  
 **Lien**: https://www.tools366.com/fr/tool/glitch-text-generator
+
+
+**Nom de l'outil**: Outil de génération de panneaux de signalisation en ligne  
+**Description de l'outil**: L'outil de génération de panneaux de signalisation en ligne vous permet de personnaliser et de concevoir des panneaux de signalisation, en offrant un aperçu en temps réel et un téléchargement. Créez rapidement des panneaux de signalisation de style Chine continentale sans télécharger de logiciel. Générateur de panneaux de signalisation de célébrité Internet  
+**Catégorie d'outil**: Autres  
+**Lien**: https://www.tools366.com/fr/tool/road-sign-generator
 
 

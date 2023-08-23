@@ -222,3 +222,15 @@
 **Tautan**: https://www.tools366.com/id/tool/bulk-blur-image-tool-online
 
 
+**Nama Alat**: Alat Pemisahan Gambar Online - Generator Gambar Grid  
+**Deskripsi Alat**: Alat pemotongan dan pemisahan gambar online gratis, pemotongan gambar menjadi kisi 9, 4, atau lebih dengan satu klik, cocok untuk media sosial seperti WeChat Moments, Instagram. Anda dapat memilih untuk memotong menjadi persegi dan mendukung format seperti PNG, JPG, JPEG, dan unduhan paket ZIP satu klik.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/image-splitter
+
+
+**Nama Alat**: Alat Generator Papan Penunjuk Jalan Online  
+**Deskripsi Alat**: Alat generator papan penunjuk jalan online memungkinkan Anda untuk menyesuaikan dan mendesain papan penunjuk jalan, menawarkan pratinjau real-time dan unduhan. Buat papan penunjuk jalan bergaya Tiongkok daratan dengan cepat tanpa mengunduh perangkat lunak. Generator papan penunjuk jalan selebriti internet 'Miss You'.  
+**Kategori Alat**: Lainnya  
+**Tautan**: https://www.tools366.com/id/tool/road-sign-generator
+
+

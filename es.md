@@ -222,3 +222,15 @@
 **Enlace**: https://www.tools366.com/es/tool/bulk-blur-image-tool-online
 
 
+**Nombre de la herramienta**: Herramienta de división de imágenes en línea - Generador de imágenes en cuadrícula  
+**Descripción de la herramienta**: Herramienta gratuita de recorte y división de imágenes en línea, corte de imágenes en cuadrículas de 9, 4 o más con un solo clic, adecuada para redes sociales como WeChat Moments, Instagram. Puede elegir cortar en cuadrados y admitir formatos como PNG, JPG, JPEG y descarga de paquete ZIP con un solo clic.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/image-splitter
+
+
+**Nombre de la herramienta**: Herramienta generadora de señales de tráfico en línea  
+**Descripción de la herramienta**: La herramienta generadora de señales de tráfico en línea te permite personalizar y diseñar señales de tráfico, ofreciendo una vista previa en tiempo real y descarga. Crea señales de tráfico al estilo de China continental rápidamente sin descargar software. Generador de señales de tráfico de celebridad de Internet 'Te extraño'.  
+**Categoría de la herramienta**: Otros  
+**Enlace**: https://www.tools366.com/es/tool/road-sign-generator
+
+

@@ -222,3 +222,15 @@
 **Link**: https://www.tools366.com/tool/bulk-blur-image-tool-online
 
 
+**Tool Name**: Online Image Splitting Tool - Grid Image Generator  
+**Tool Description**: Free online image cropping and splitting tool, one-click cutting of images into grids of 9, 4, or more, suitable for social media such as WeChat Moments, Instagram. You can choose to cut into squares and support formats like PNG, JPG, JPEG, and one-click ZIP package download.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/image-splitter
+
+
+**Tool Name**: Road Sign Generator Online Tool  
+**Tool Description**: The online road sign generator tool allows you to customize and design road signs, offering real-time preview and download. Create mainland China style road signs quickly without downloading software. 'Miss You' Internet celebrity road sign generator.  
+**Tool Category**: Other  
+**Link**: https://www.tools366.com/tool/road-sign-generator
+
+

@@ -120,6 +120,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/bulk-blur-image-tool-online
 
 
+**工具名称**: 图片分割在线工具 - 九宫格图片生成器  
+**工具描述**: 免费的在线图片裁剪分割工具，一键切割图片成九宫格、4格、多格，适合社交媒体如微信朋友圈、Instagram发布。可选择正方形切割，支持PNG、JPG、JPEG等格式，一键ZIP打包下载。  
+**工具类别**: 图片工具  
+**链接**: https://www.tools366.com/zh-CN/tool/image-splitter
+
+
 **工具名称**: 数字千分位格式转换工具  
 **工具描述**: 轻松将数字转换成逗号分隔的格式，或者将逗号分隔的数字还原。  
 **工具类别**: 数学工具  
@@ -174,6 +180,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/convert-case-online-tool
 
 
+**工具名称**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ 在线故障文本生成器，URL隐藏  
+**工具描述**: 通过调整不同的参数来创建独特的故障效果文本。  
+**工具类别**: 文本工具  
+**链接**: https://www.tools366.com/zh-CN/tool/glitch-text-generator
+
+
 **工具名称**: 在线多行文本合并为一行工具  
 **工具描述**: 快速自动将你的多行文本合并为一行。提高阅读连贯性，优化文本排版。  
 **工具类别**: 文本工具  
@@ -216,9 +228,9 @@
 **链接**: https://www.tools366.com/zh-CN/tool/upside-down-text-online-tool
 
 
-**工具名称**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ 在线故障文本生成器，URL隐藏  
-**工具描述**: 通过调整不同的参数来创建独特的故障效果文本。  
-**工具类别**: 文本工具  
-**链接**: https://www.tools366.com/zh-CN/tool/glitch-text-generator
+**工具名称**: 路牌生成在线工具  
+**工具描述**: 在线路牌生成工具允许你自定义和设计路牌，提供实时预览和下载。无需下载软件，快速创建中国大陆风格的路牌。网红路牌生成器  
+**工具类别**: 其他  
+**链接**: https://www.tools366.com/zh-CN/tool/road-sign-generator
 
 

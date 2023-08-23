@@ -222,3 +222,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/bulk-blur-image-tool-online
 
 
+**Araç Adı**: Çevrimiçi Görüntü Bölme Aracı - Izgara Görüntü Üreteci  
+**Araç Açıklaması**: Ücretsiz çevrimiçi görüntü kırpma ve bölme aracı, WeChat Moments, Instagram gibi sosyal medya için uygun 9, 4 veya daha fazla ızgaraya bir tıklama ile resimlerin kesilmesi. Karelere kesmeyi seçebilir ve PNG, JPG, JPEG gibi formatları ve bir tıklama ile ZIP paketi indirmeyi destekler.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-splitter
+
+
+**Araç Adı**: Çevrimiçi Yol İşareti Üreteci Aracı  
+**Araç Açıklaması**: Çevrimiçi yol işareti üreteci aracı, yol işaretlerini kişiselleştirmenize ve tasarlamanıza olanak tanır, gerçek zamanlı önizleme ve indirme sunar. Yazılım indirmeden hızla anakara Çin tarzı yol işaretleri oluşturun. 'Özlüyorum' internet ünlüsü yol işareti üreteci.  
+**Araç Kategorisi**: Diğer  
+**Bağlantı**: https://www.tools366.com/tr/tool/road-sign-generator
+
+

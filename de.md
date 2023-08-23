@@ -222,3 +222,15 @@
 **Link**: https://www.tools366.com/de/tool/bulk-blur-image-tool-online
 
 
+**Tool-Name**: Online-Bildaufteilungswerkzeug - Rastersymbolgenerator  
+**Tool-Beschreibung**: Kostenloses Online-Bildbeschneidungs- und -teilungswerkzeug, ein Klick, um Bilder in Rasters von 9, 4 oder mehr zu schneiden, geeignet für soziale Medien wie WeChat Moments, Instagram. Sie können wählen, in Quadrate zu schneiden und Formate wie PNG, JPG, JPEG zu unterstützen, und einen ZIP-Paketdownload mit einem Klick.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/image-splitter
+
+
+**Tool-Name**: Online-Straßenschild-Generator-Tool  
+**Tool-Beschreibung**: Das Online-Straßenschild-Generator-Tool ermöglicht es Ihnen, Straßenschilder anzupassen und zu gestalten, bietet eine Echtzeit-Vorschau und Download. Erstellen Sie schnell Straßenschilder im Stil von Festland China, ohne Software herunterzuladen. 'Vermisse Dich' Internet-Promi-Straßenschild-Generator.  
+**Tool-Kategorie**: Andere  
+**Link**: https://www.tools366.com/de/tool/road-sign-generator
+
+

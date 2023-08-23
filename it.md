@@ -222,3 +222,15 @@
 **Link**: https://www.tools366.com/it/tool/bulk-blur-image-tool-online
 
 
+**Nome dello strumento**: Strumento di divisione immagini online - Generatore di immagini a griglia  
+**Descrizione dello strumento**: Strumento gratuito di ritaglio e divisione immagini online, ritaglio di immagini in griglie di 9, 4 o più con un solo clic, adatto per social media come WeChat Moments, Instagram. Puoi scegliere di tagliare in quadrati e supportare formati come PNG, JPG, JPEG, e download del pacchetto ZIP con un solo clic.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/image-splitter
+
+
+**Nome dello strumento**: Strumento di generazione di segnali stradali online  
+**Descrizione dello strumento**: Lo strumento di generazione di segnali stradali online ti permette di personalizzare e progettare segnali stradali, offrendo anteprima in tempo reale e download. Crea segnali stradali in stile Cina continentale velocemente senza scaricare software. Generatore di segnali stradali della celebrità di Internet 'Mi manchi'.  
+**Categoria dello strumento**: Altri  
+**Link**: https://www.tools366.com/it/tool/road-sign-generator
+
+

@@ -222,3 +222,15 @@
 **Link**: https://www.tools366.com/pl/tool/bulk-blur-image-tool-online
 
 
+**Nazwa narzędzia**: Narzędzie do Dzielenia Obrazów Online - Generator Obrazów Siatki  
+**Opis narzędzia**: Darmowe narzędzie do przycinania i dzielenia obrazów online, jednokrotne cięcie obrazów na siatki 9, 4 lub więcej, odpowiednie dla mediów społecznościowych, takich jak WeChat Moments, Instagram. Możesz wybrać opcję cięcia na kwadraty i obsługuje formaty takie jak PNG, JPG, JPEG oraz pobieranie pakietu ZIP jednym kliknięciem.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/image-splitter
+
+
+**Nazwa narzędzia**: Narzędzie do Generowania Znaków Drogowych Online  
+**Opis narzędzia**: Narzędzie do generowania znaków drogowych online umożliwia dostosowywanie i projektowanie znaków drogowych, oferując podgląd w czasie rzeczywistym i pobieranie. Szybko twórz znaki drogowe w stylu chińskim kontynentu bez konieczności pobierania oprogramowania. Generator znaków drogowych gwiazd internetu 'Tęsknię za Tobą'.  
+**Kategoria narzędzi**: Inne  
+**Link**: https://www.tools366.com/pl/tool/road-sign-generator
+
+
