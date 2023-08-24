@@ -228,6 +228,18 @@
 **Link**: https://www.tools366.com/pl/tool/image-splitter
 
 
+**Nazwa narzędzia**: Narzędzie Online do Podziału GIF na Indywidualne Klatki  
+**Opis narzędzia**: Narzędzie online, które dzieli GIF na oddzielne klatki, ułatwiając ich wyświetlanie, edycję i użytkowanie.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/gif-splitter
+
+
+**Nazwa narzędzia**: Narzędzie do tworzenia GIFów online - niestandardowe animowane GIFy  
+**Opis narzędzia**: Dzięki temu narzędziu do tworzenia GIFów online możesz tworzyć niestandardowe animowane GIFy, przesyłając obrazy, ustawiając interwały czasowe, szerokość i wysokość. Połącz kilka obrazów w GIF.  
+**Kategoria narzędzi**: Narzędzia do obrazów  
+**Link**: https://www.tools366.com/pl/tool/gif-maker
+
+
 **Nazwa narzędzia**: Narzędzie do Generowania Znaków Drogowych Online  
 **Opis narzędzia**: Narzędzie do generowania znaków drogowych online umożliwia dostosowywanie i projektowanie znaków drogowych, oferując podgląd w czasie rzeczywistym i pobieranie. Szybko twórz znaki drogowe w stylu chińskim kontynentu bez konieczności pobierania oprogramowania. Generator znaków drogowych gwiazd internetu 'Tęsknię za Tobą'.  
 **Kategoria narzędzi**: Inne  

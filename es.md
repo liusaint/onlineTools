@@ -228,6 +228,18 @@
 **Enlace**: https://www.tools366.com/es/tool/image-splitter
 
 
+**Nombre de la herramienta**: Herramienta en línea para dividir GIF en fotogramas individuales  
+**Descripción de la herramienta**: Una herramienta en línea que descompone un GIF en fotogramas separados, facilitando su visualización, edición y uso.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/gif-splitter
+
+
+**Nombre de la herramienta**: Herramienta de creación de GIF en línea - GIF animado personalizado  
+**Descripción de la herramienta**: Con esta herramienta de creación de GIF en línea, puedes crear GIF animados personalizados cargando imágenes, estableciendo intervalos de tiempo, ancho y alto. Combina varias imágenes en un GIF.  
+**Categoría de la herramienta**: Herramientas de imagen  
+**Enlace**: https://www.tools366.com/es/tool/gif-maker
+
+
 **Nombre de la herramienta**: Herramienta generadora de señales de tráfico en línea  
 **Descripción de la herramienta**: La herramienta generadora de señales de tráfico en línea te permite personalizar y diseñar señales de tráfico, ofreciendo una vista previa en tiempo real y descarga. Crea señales de tráfico al estilo de China continental rápidamente sin descargar software. Generador de señales de tráfico de celebridad de Internet 'Te extraño'.  
 **Categoría de la herramienta**: Otros  

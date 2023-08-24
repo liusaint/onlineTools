@@ -228,6 +228,18 @@
 **Link**: https://www.tools366.com/it/tool/image-splitter
 
 
+**Nome dello strumento**: Strumento Online per Dividere GIF in Fotogrammi Individuali  
+**Descrizione dello strumento**: Uno strumento online che suddivide una GIF in fotogrammi separati, rendendola facile da visualizzare, modificare e utilizzare.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/gif-splitter
+
+
+**Nome dello strumento**: Strumento di creazione GIF online - GIF animato personalizzato  
+**Descrizione dello strumento**: Con questo strumento di creazione GIF online, puoi creare GIF animate personalizzate caricando immagini, impostando intervalli di tempo, larghezza e altezza. Combina più immagini in un GIF.  
+**Categoria dello strumento**: Strumenti per immagini  
+**Link**: https://www.tools366.com/it/tool/gif-maker
+
+
 **Nome dello strumento**: Strumento di generazione di segnali stradali online  
 **Descrizione dello strumento**: Lo strumento di generazione di segnali stradali online ti permette di personalizzare e progettare segnali stradali, offrendo anteprima in tempo reale e download. Crea segnali stradali in stile Cina continentale velocemente senza scaricare software. Generatore di segnali stradali della celebrità di Internet 'Mi manchi'.  
 **Categoria dello strumento**: Altri  

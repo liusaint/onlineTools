@@ -126,6 +126,18 @@
 **Lien**: https://www.tools366.com/fr/tool/image-splitter
 
 
+**Nom de l'outil**: Outil en ligne pour diviser un GIF en images individuelles  
+**Description de l'outil**: Un outil en ligne qui décompose un GIF en images séparées, facilitant ainsi leur visualisation, leur édition et leur utilisation.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/gif-splitter
+
+
+**Nom de l'outil**: Outil de création de GIF en ligne - GIF animé personnalisé  
+**Description de l'outil**: Avec cet outil de création de GIF en ligne, vous pouvez créer des GIF animés personnalisés en téléchargeant des images, en définissant des intervalles de temps, la largeur et la hauteur. Combinez plusieurs images en un GIF.  
+**Catégorie d'outil**: Outils d'image  
+**Lien**: https://www.tools366.com/fr/tool/gif-maker
+
+
 **Nom de l'outil**: Outil de Conversion de Format de Nombre en Millièmes  
 **Description de l'outil**: Convertissez facilement les nombres en format séparé par des virgules, ou restaurez les nombres séparés par des virgules.  
 **Catégorie d'outil**: Outils Mathématiques  

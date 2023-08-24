@@ -228,6 +228,18 @@
 **Link**: https://www.tools366.com/de/tool/image-splitter
 
 
+**Tool-Name**: Online-Tool zum Aufteilen von GIFs in einzelne Frames  
+**Tool-Beschreibung**: Ein Online-Tool, das ein GIF in separate Frames zerlegt, um sie leicht anzusehen, zu bearbeiten und zu verwenden.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/gif-splitter
+
+
+**Tool-Name**: Online GIF Maker Tool - Benutzerdefiniertes animiertes GIF  
+**Tool-Beschreibung**: Mit diesem Online-GIF-Maker-Tool können Sie benutzerdefinierte animierte GIFs erstellen, indem Sie Bilder hochladen, Zeitintervalle, Breite und Höhe festlegen. Kombinieren Sie mehrere Bilder zu einem GIF.  
+**Tool-Kategorie**: Bildwerkzeuge  
+**Link**: https://www.tools366.com/de/tool/gif-maker
+
+
 **Tool-Name**: Online-Straßenschild-Generator-Tool  
 **Tool-Beschreibung**: Das Online-Straßenschild-Generator-Tool ermöglicht es Ihnen, Straßenschilder anzupassen und zu gestalten, bietet eine Echtzeit-Vorschau und Download. Erstellen Sie schnell Straßenschilder im Stil von Festland China, ohne Software herunterzuladen. 'Vermisse Dich' Internet-Promi-Straßenschild-Generator.  
 **Tool-Kategorie**: Andere  

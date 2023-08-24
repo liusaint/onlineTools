@@ -126,6 +126,18 @@
 **Link**: https://www.tools366.com/pt/tool/image-splitter
 
 
+**Nome da ferramenta**: Ferramenta Online para Dividir GIF em Quadros Individuais  
+**Descrição da ferramenta**: Uma ferramenta online que divide um GIF em quadros separados, facilitando a visualização, edição e utilização.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/gif-splitter
+
+
+**Nome da ferramenta**: Ferramenta Online de Criação de GIF - GIF Animado Personalizado  
+**Descrição da ferramenta**: Com esta ferramenta online de criação de GIF, você pode criar GIFs animados personalizados carregando imagens, definindo intervalos de tempo, largura e altura. Combine várias imagens em um GIF.  
+**Categoria da ferramenta**: Ferramentas de Imagem  
+**Link**: https://www.tools366.com/pt/tool/gif-maker
+
+
 **Nome da ferramenta**: Ferramenta de Conversão de Formato de Números em Milésimos  
 **Descrição da ferramenta**: Converta facilmente números para o formato separado por vírgulas, ou restaure números separados por vírgulas.  
 **Categoria da ferramenta**: Ferramentas Matemáticas  

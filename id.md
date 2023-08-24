@@ -228,6 +228,18 @@
 **Tautan**: https://www.tools366.com/id/tool/image-splitter
 
 
+**Nama Alat**: Alat Online untuk Memisahkan GIF ke dalam Bingkai Individu  
+**Deskripsi Alat**: Sebuah alat online yang memecah GIF menjadi bingkai terpisah, sehingga mudah untuk dilihat, diedit, dan digunakan.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/gif-splitter
+
+
+**Nama Alat**: Alat Pembuat GIF Online - GIF Animasi Kustom  
+**Deskripsi Alat**: Dengan alat pembuat GIF online ini, Anda dapat membuat GIF animasi kustom dengan mengunggah gambar, mengatur interval waktu, lebar, dan tinggi. Gabungkan beberapa gambar menjadi GIF.  
+**Kategori Alat**: Alat Gambar  
+**Tautan**: https://www.tools366.com/id/tool/gif-maker
+
+
 **Nama Alat**: Alat Generator Papan Penunjuk Jalan Online  
 **Deskripsi Alat**: Alat generator papan penunjuk jalan online memungkinkan Anda untuk menyesuaikan dan mendesain papan penunjuk jalan, menawarkan pratinjau real-time dan unduhan. Buat papan penunjuk jalan bergaya Tiongkok daratan dengan cepat tanpa mengunduh perangkat lunak. Generator papan penunjuk jalan selebriti internet 'Miss You'.  
 **Kategori Alat**: Lainnya  

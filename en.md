@@ -228,6 +228,18 @@
 **Link**: https://www.tools366.com/tool/image-splitter
 
 
+**Tool Name**: Splitting GIF into Individual Frames Online Tool  
+**Tool Description**: An online tool that breaks down a GIF into separate frames, making it easy to view, edit, and use.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/gif-splitter
+
+
+**Tool Name**: Online GIF Maker Tool - Custom Animated GIF  
+**Tool Description**: With this online GIF maker tool, you can create custom animated GIFs by uploading images, setting time intervals, width, and height. Combine multiple images into a GIF.  
+**Tool Category**: Image Tools  
+**Link**: https://www.tools366.com/tool/gif-maker
+
+
 **Tool Name**: Road Sign Generator Online Tool  
 **Tool Description**: The online road sign generator tool allows you to customize and design road signs, offering real-time preview and download. Create mainland China style road signs quickly without downloading software. 'Miss You' Internet celebrity road sign generator.  
 **Tool Category**: Other  

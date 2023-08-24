@@ -126,6 +126,18 @@
 **Länk**: https://www.tools366.com/sv/tool/image-splitter
 
 
+**Verktygsnamn**: Onlineverktyg för att Dela upp GIF i Enskilda Bilder  
+**Verktygsbeskrivning**: Ett onlineverktyg som bryter ner en GIF i separata bilder, vilket gör det enkelt att visa, redigera och använda.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/gif-splitter
+
+
+**Verktygsnamn**: Online GIF-verktyg - Anpassade animerade GIFs  
+**Verktygsbeskrivning**: Med detta online-GIF-verktyg kan du skapa anpassade animerade GIFs genom att ladda upp bilder, ställa in tidsintervaller, bredd och höjd. Kombinera flera bilder till en GIF.  
+**Verktygskategori**: Bildverktyg  
+**Länk**: https://www.tools366.com/sv/tool/gif-maker
+
+
 **Verktygsnamn**: Konverteringsverktyg för tal i tusendelsformat  
 **Verktygsbeskrivning**: Konvertera enkelt tal till komma-separerat format, eller återställ komma-separerade tal.  
 **Verktygskategori**: Matematiska verktyg  

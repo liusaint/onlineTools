@@ -228,6 +228,18 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/image-splitter
 
 
+**Araç Adı**: GIF'i Tek Tek Karelerine Ayırma Çevrimiçi Aracı  
+**Araç Açıklaması**: Bir GIF'i ayrı karelerine bölen bir çevrim içi araç, görüntülemeyi, düzenlemeyi ve kullanmayı kolaylaştırır.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/gif-splitter
+
+
+**Araç Adı**: Çevrimiçi GIF Oluşturucu - Özel Animasyonlu GIF'ler  
+**Araç Açıklaması**: Bu çevrimiçi GIF oluşturucu aracıyla, resimleri yükleyerek, zaman aralıkları, genişlik ve yükseklik ayarlayarak özel animasyonlu GIF'ler oluşturabilirsiniz. Birden çok resmi bir GIF'e birleştirin.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/gif-maker
+
+
 **Araç Adı**: Çevrimiçi Yol İşareti Üreteci Aracı  
 **Araç Açıklaması**: Çevrimiçi yol işareti üreteci aracı, yol işaretlerini kişiselleştirmenize ve tasarlamanıza olanak tanır, gerçek zamanlı önizleme ve indirme sunar. Yazılım indirmeden hızla anakara Çin tarzı yol işaretleri oluşturun. 'Özlüyorum' internet ünlüsü yol işareti üreteci.  
 **Araç Kategorisi**: Diğer  

@@ -126,6 +126,18 @@
 **Link**: https://www.tools366.com/nl/tool/image-splitter
 
 
+**Toolnaam**: Online Tool voor het Splitsen van GIF in Individuele Frames  
+**Toolbeschrijving**: Een online tool die een GIF opsplitst in afzonderlijke frames, waardoor het gemakkelijk is om te bekijken, bewerken en gebruiken.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/gif-splitter
+
+
+**Toolnaam**: Online GIF Maker Tool - Aangepaste Geanimeerde GIF  
+**Toolbeschrijving**: Met deze online GIF-maker tool kunt u aangepaste geanimeerde GIF's maken door afbeeldingen te uploaden, tijdintervallen, breedte en hoogte in te stellen. Combineer meerdere afbeeldingen tot een GIF.  
+**Toolcategorie**: Afbeeldingstools  
+**Link**: https://www.tools366.com/nl/tool/gif-maker
+
+
 **Toolnaam**: Getal Duizendsten Formaat Conversie Gereedschap  
 **Toolbeschrijving**: Converteer getallen gemakkelijk naar komma gescheiden formaat, of herstel komma gescheiden getallen.  
 **Toolcategorie**: Wiskundige Gereedschappen  
