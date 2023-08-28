@@ -240,6 +240,12 @@
 **Link**: https://www.tools366.com/tool/gif-maker
 
 
+**Tool Name**: Color Blindness Color Conversion Simulator  
+**Tool Description**: Use our Color Blindness Simulator to visualize how colors appear for different types of color vision deficiencies. Simply input a HEX color to see its representation across various forms of color blindness.  
+**Tool Category**: Color  
+**Link**: https://www.tools366.com/tool/color-blindness-converter
+
+
 **Tool Name**: Road Sign Generator Online Tool  
 **Tool Description**: The online road sign generator tool allows you to customize and design road signs, offering real-time preview and download. Create mainland China style road signs quickly without downloading software. 'Miss You' Internet celebrity road sign generator.  
 **Tool Category**: Other  

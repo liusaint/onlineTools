@@ -246,3 +246,9 @@
 **Link**: https://www.tools366.com/nl/tool/road-sign-generator
 
 
+**Toolnaam**: Simulator voor Kleurconversie voor Kleurenblindheid  
+**Toolbeschrijving**: Gebruik onze Simulator voor Kleurenblindheid om te visualiseren hoe kleuren eruit zien voor verschillende soorten kleurzichtgebreken. Voer gewoon een HEX-kleur in om de weergave ervan te zien in verschillende vormen van kleurenblindheid.  
+**Toolcategorie**: Kleur  
+**Link**: https://www.tools366.com/nl/tool/color-blindness-converter
+
+

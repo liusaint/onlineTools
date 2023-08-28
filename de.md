@@ -246,3 +246,9 @@
 **Link**: https://www.tools366.com/de/tool/road-sign-generator
 
 
+**Tool-Name**: Simulator für Farbkonversion bei Farbenblindheit  
+**Tool-Beschreibung**: Nutzen Sie unseren Simulator für Farbenblindheit, um zu visualisieren, wie Farben bei verschiedenen Arten von Farbsehschwächen erscheinen. Geben Sie einfach eine HEX-Farbe ein, um deren Darstellung in verschiedenen Formen der Farbenblindheit zu sehen.  
+**Tool-Kategorie**: Farbe  
+**Link**: https://www.tools366.com/de/tool/color-blindness-converter
+
+

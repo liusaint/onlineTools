@@ -246,3 +246,9 @@
 **Tautan**: https://www.tools366.com/id/tool/road-sign-generator
 
 
+**Nama Alat**: Simulator Konversi Warna untuk Buta Warna  
+**Deskripsi Alat**: Gunakan Simulator Buta Warna kami untuk memvisualisasikan bagaimana warna tampak untuk berbagai jenis kekurangan penglihatan warna. Cukup masukkan warna HEX untuk melihat representasinya dalam berbagai bentuk buta warna.  
+**Kategori Alat**: Warna  
+**Tautan**: https://www.tools366.com/id/tool/color-blindness-converter
+
+

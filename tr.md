@@ -246,3 +246,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/road-sign-generator
 
 
+**Araç Adı**: Renk Körlüğü için Renk Dönüştürücü Simülatörü  
+**Araç Açıklaması**: Renk Körlüğü Simülatörümüzü kullanarak çeşitli renk görme eksiklikleri için renklerin nasıl göründüğünü görselleştirin. Farklı türdeki renk körlüğü formlarında temsilini görmek için bir HEX rengi girin.  
+**Araç Kategorisi**: Renk  
+**Bağlantı**: https://www.tools366.com/tr/tool/color-blindness-converter
+
+

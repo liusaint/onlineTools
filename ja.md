@@ -246,3 +246,9 @@
 **リンク**: https://www.tools366.com/ja/tool/road-sign-generator
 
 
+**ツール名**: 色覚障害の色変換シミュレータ  
+**ツールの説明**: 私たちの色覚障害シミュレータを使用して、さまざまなタイプの色覚欠損に対する色の可視化を行います。単純にHEXカラーを入力して、さまざまな形態の色覚障害でその表現を見てください。  
+**ツールカテゴリ**: 色  
+**リンク**: https://www.tools366.com/ja/tool/color-blindness-converter
+
+

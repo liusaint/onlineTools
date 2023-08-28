@@ -246,3 +246,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/road-sign-generator
 
 
+**工具名稱**: 色盲顏色轉換模擬器  
+**工具描述**: 使用我們的色盲模擬器來可視化不同類型的色視缺陷的顏色。只需輸入一個HEX顏色即可查看其在各種形式的色盲中的呈現。  
+**工具類別**: 顏色  
+**連結**: https://www.tools366.com/zh-TW/tool/color-blindness-converter
+
+

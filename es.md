@@ -246,3 +246,9 @@
 **Enlace**: https://www.tools366.com/es/tool/road-sign-generator
 
 
+**Nombre de la herramienta**: Simulador de Conversión de Color para Daltonismo  
+**Descripción de la herramienta**: Utilice nuestro simulador de daltonismo para visualizar cómo aparecen los colores para diferentes tipos de deficiencias en la visión del color. Simplemente ingrese un color en formato HEX para ver cómo se representa en diversas formas de daltonismo.  
+**Categoría de la herramienta**: Color  
+**Enlace**: https://www.tools366.com/es/tool/color-blindness-converter
+
+

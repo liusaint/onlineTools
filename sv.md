@@ -246,3 +246,9 @@
 **Länk**: https://www.tools366.com/sv/tool/road-sign-generator
 
 
+**Verktygsnamn**: Färgblindhetssimulator för färgkonvertering  
+**Verktygsbeskrivning**: Använd vår Färgblindhetssimulator för att visualisera hur färger ser ut för olika typer av färgsynsfel. Ange en HEX-färg för att se dess representation i olika former av färgblindhet.  
+**Verktygskategori**: Färg  
+**Länk**: https://www.tools366.com/sv/tool/color-blindness-converter
+
+

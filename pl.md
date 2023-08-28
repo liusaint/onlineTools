@@ -246,3 +246,9 @@
 **Link**: https://www.tools366.com/pl/tool/road-sign-generator
 
 
+**Nazwa narzędzia**: Symulator konwersji kolorów dla daltonistów  
+**Opis narzędzia**: Użyj naszego Symulatora Daltonizmu, aby zobaczyć, jak kolory są postrzegane w różnych rodzajach zaburzeń widzenia kolorów. Wystarczy wprowadzić kolor w formacie HEX, aby zobaczyć jego reprezentację w różnych formach daltonizmu.  
+**Kategoria narzędzi**: Kolor  
+**Link**: https://www.tools366.com/pl/tool/color-blindness-converter
+
+

@@ -246,3 +246,9 @@
 **링크**: https://www.tools366.com/ko/tool/road-sign-generator
 
 
+**도구 이름**: 색약 색상 변환 시뮬레이터  
+**도구 설명**: 우리의 색약 시뮬레이터를 사용하여 다양한 유형의 색각 결핍에 대한 색상을 시각화하십시오. 단순히 16진수 색상을 입력하여 다양한 형태의 색약에서 그 표현을 확인하십시오.  
+**도구 카테고리**: 색  
+**링크**: https://www.tools366.com/ko/tool/color-blindness-converter
+
+
