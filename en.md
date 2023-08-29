@@ -246,6 +246,12 @@
 **Link**: https://www.tools366.com/tool/color-blindness-converter
 
 
+**Tool Name**: CSS English Color to Hex Value Lookup Tool  
+**Tool Description**: Use our CSS Color Hex search tool to discover the English corresponding Hex values of CSS colors. Enter HEX color codes or color names for searching.  
+**Tool Category**: Color  
+**Link**: https://www.tools366.com/tool/html-color-hex-search
+
+
 **Tool Name**: Road Sign Generator Online Tool  
 **Tool Description**: The online road sign generator tool allows you to customize and design road signs, offering real-time preview and download. Create mainland China style road signs quickly without downloading software. 'Miss You' Internet celebrity road sign generator.  
 **Tool Category**: Other  

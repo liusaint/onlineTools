@@ -252,3 +252,9 @@
 **リンク**: https://www.tools366.com/ja/tool/color-blindness-converter
 
 
+**ツール名**: CSS英語色名からHex値を検索するツール  
+**ツールの説明**: 当社のCSS色Hex検索ツールを使用して、CSS色の英語名に対応するHex値を発見します。HEX色コードまたは色名で検索してください。  
+**ツールカテゴリ**: 色  
+**リンク**: https://www.tools366.com/ja/tool/html-color-hex-search
+
+

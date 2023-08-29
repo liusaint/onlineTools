@@ -252,3 +252,9 @@
 **連結**: https://www.tools366.com/zh-TW/tool/color-blindness-converter
 
 
+**工具名稱**: CSS 英文顏色對應 Hex 值查詢工具  
+**工具描述**: 使用我們的 CSS 顏色 Hex 搜索工具來發現 CSS 顏色的英文對應的 Hex 色值。輸入 HEX 顏色代碼或顏色名稱來進行查找。  
+**工具類別**: 顏色  
+**連結**: https://www.tools366.com/zh-TW/tool/html-color-hex-search
+
+

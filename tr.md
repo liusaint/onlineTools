@@ -252,3 +252,9 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/color-blindness-converter
 
 
+**Araç Adı**: CSS İngilizce Renk Hex Değer Arama Aracı  
+**Araç Açıklaması**: CSS renklerinin İngilizce'de karşılık gelen Hex değerlerini keşfetmek için Hex renk arama aracımızı kullanın. HEX renk kodları veya renk adları girerek arama yapın.  
+**Araç Kategorisi**: Renk  
+**Bağlantı**: https://www.tools366.com/tr/tool/html-color-hex-search
+
+

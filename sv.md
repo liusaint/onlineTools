@@ -252,3 +252,9 @@
 **Länk**: https://www.tools366.com/sv/tool/color-blindness-converter
 
 
+**Verktygsnamn**: CSS Färg till Hex Värde Sökverktyg på Engelska  
+**Verktygsbeskrivning**: Använd vårt CSS Färg Hex sökverktyg för att upptäcka de engelska motsvarande Hex-värdena för CSS-färger. Ange HEX-färgkoder eller färgnamn för sökning.  
+**Verktygskategori**: Färg  
+**Länk**: https://www.tools366.com/sv/tool/html-color-hex-search
+
+

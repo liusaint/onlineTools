@@ -246,6 +246,12 @@
 **链接**: https://www.tools366.com/zh-CN/tool/color-blindness-converter
 
 
+**工具名称**: CSS英文颜色对应Hex值查询工具  
+**工具描述**: 使用我们的CSS颜色Hex搜索工具来发现CSS颜色的英文对应的Hex色值。输入HEX颜色代码或颜色名称来进行查找。  
+**工具类别**: 颜色  
+**链接**: https://www.tools366.com/zh-CN/tool/html-color-hex-search
+
+
 **工具名称**: 路牌生成在线工具  
 **工具描述**: 在线路牌生成工具允许你自定义和设计路牌，提供实时预览和下载。无需下载软件，快速创建中国大陆风格的路牌。网红路牌生成器  
 **工具类别**: 其他  

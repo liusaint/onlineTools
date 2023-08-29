@@ -252,3 +252,9 @@
 **Link**: https://www.tools366.com/nl/tool/color-blindness-converter
 
 
+**Toolnaam**: CSS Kleur naar Hex Waarde Zoektool in het Engels  
+**Toolbeschrijving**: Gebruik onze CSS-kleur Hex zoektool om de overeenkomstige Hex-waarden van CSS-kleuren in het Engels te ontdekken. Voer HEX-kleurcodes of kleurnamen in voor zoeken.  
+**Toolcategorie**: Kleur  
+**Link**: https://www.tools366.com/nl/tool/html-color-hex-search
+
+

@@ -252,3 +252,9 @@
 **링크**: https://www.tools366.com/ko/tool/color-blindness-converter
 
 
+**도구 이름**: CSS 영어 색상 이름을 Hex 값으로 검색하는 도구  
+**도구 설명**: 저희의 CSS 색상 Hex 검색 도구를 사용하여 CSS 색상의 영어 이름에 해당하는 Hex 값을 찾아보세요. HEX 색상 코드 또는 색상 이름을 입력하여 검색하세요.  
+**도구 카테고리**: 색  
+**링크**: https://www.tools366.com/ko/tool/html-color-hex-search
+
+

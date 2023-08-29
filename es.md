@@ -252,3 +252,9 @@
 **Enlace**: https://www.tools366.com/es/tool/color-blindness-converter
 
 
+**Nombre de la herramienta**: Herramienta de búsqueda de valores Hex para colores CSS en inglés  
+**Descripción de la herramienta**: Utiliza nuestra herramienta de búsqueda de color Hex de CSS para descubrir los valores Hex correspondientes de los colores CSS en inglés. Ingresa códigos de color HEX o nombres de color para la búsqueda.  
+**Categoría de la herramienta**: Color  
+**Enlace**: https://www.tools366.com/es/tool/html-color-hex-search
+
+

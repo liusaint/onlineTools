@@ -252,3 +252,9 @@
 **Tautan**: https://www.tools366.com/id/tool/color-blindness-converter
 
 
+**Nama Alat**: Alat Pencarian Warna CSS ke Nilai Hex dalam Bahasa Inggris  
+**Deskripsi Alat**: Gunakan alat pencarian kami untuk menemukan nilai Hex yang sesuai dari warna CSS dalam bahasa Inggris. Masukkan kode warna HEX atau nama warna untuk pencarian.  
+**Kategori Alat**: Warna  
+**Tautan**: https://www.tools366.com/id/tool/html-color-hex-search
+
+
