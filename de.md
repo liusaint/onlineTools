@@ -248,13 +248,19 @@
 
 **Tool-Name**: Simulator für Farbkonversion bei Farbenblindheit  
 **Tool-Beschreibung**: Nutzen Sie unseren Simulator für Farbenblindheit, um zu visualisieren, wie Farben bei verschiedenen Arten von Farbsehschwächen erscheinen. Geben Sie einfach eine HEX-Farbe ein, um deren Darstellung in verschiedenen Formen der Farbenblindheit zu sehen.  
-**Tool-Kategorie**: Farbe  
+**Tool-Kategorie**: Farbwerkzeug  
 **Link**: https://www.tools366.com/de/tool/color-blindness-converter
 
 
 **Tool-Name**: CSS-Farbsuche in Englisch zu Hex-Wert Tool  
 **Tool-Beschreibung**: Verwenden Sie unser CSS-Farbsuche-Tool, um die entsprechenden Hex-Werte der CSS-Farben in Englisch zu finden. Geben Sie HEX-Farbcode oder Farbnamen für die Suche ein.  
-**Tool-Kategorie**: Farbe  
+**Tool-Kategorie**: Farbwerkzeug  
 **Link**: https://www.tools366.com/de/tool/html-color-hex-search
+
+
+**Tool-Name**: Abfrage-Tool für Dunklere und Hellere Hex-Farbcode  
+**Tool-Beschreibung**: Nutzen Sie unser Hex-Farbcode-Verlaufsgenerierungs- und Abfragetool, um verschiedene Farbverlaufseffekte zu erkunden. Geben Sie einen Hex-Farbcode ein, um seine dunkleren und helleren Verläufe anzuzeigen.  
+**Tool-Kategorie**: Farbwerkzeug  
+**Link**: https://www.tools366.com/de/tool/color-shades-and-tints
 
 

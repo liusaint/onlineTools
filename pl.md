@@ -248,13 +248,19 @@
 
 **Nazwa narzędzia**: Symulator konwersji kolorów dla daltonistów  
 **Opis narzędzia**: Użyj naszego Symulatora Daltonizmu, aby zobaczyć, jak kolory są postrzegane w różnych rodzajach zaburzeń widzenia kolorów. Wystarczy wprowadzić kolor w formacie HEX, aby zobaczyć jego reprezentację w różnych formach daltonizmu.  
-**Kategoria narzędzi**: Kolor  
+**Kategoria narzędzi**: Narzędzie koloru  
 **Link**: https://www.tools366.com/pl/tool/color-blindness-converter
 
 
 **Nazwa narzędzia**: Narzędzie do Wyszukiwania Kolorów CSS na Wartości Hex w Języku Angielskim  
 **Opis narzędzia**: Użyj naszego narzędzia do wyszukiwania kolorów Hex w CSS, aby odkryć odpowiadające im wartości Hex w języku angielskim. Wprowadź kody kolorów HEX lub nazwy kolorów do wyszukiwania.  
-**Kategoria narzędzi**: Kolor  
+**Kategoria narzędzi**: Narzędzie koloru  
 **Link**: https://www.tools366.com/pl/tool/html-color-hex-search
+
+
+**Nazwa narzędzia**: Narzędzie do Zapytań o Kody Kolorów Hex Cięższe i Lżejsze  
+**Opis narzędzia**: Użyj naszego Narzędzia do Generowania i Zapytań o Gradienty Kodów Kolorów Hex, aby odkrywać różne efekty gradientów kolorów. Wprowadź kod koloru Hex, aby zobaczyć jego ciemniejsze i jaśniejsze gradienty.  
+**Kategoria narzędzi**: Narzędzie koloru  
+**Link**: https://www.tools366.com/pl/tool/color-shades-and-tints
 
 

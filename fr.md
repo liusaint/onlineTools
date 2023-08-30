@@ -192,6 +192,12 @@
 **Lien**: https://www.tools366.com/fr/tool/convert-case-online-tool
 
 
+**Nom de l'outil**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Générateur de texte en ligne Glitch, URL cachée  
+**Description de l'outil**: Créez des effets de texte glitch uniques en ajustant différents paramètres.  
+**Catégorie d'outil**: Outils de Texte  
+**Lien**: https://www.tools366.com/fr/tool/glitch-text-generator
+
+
 **Nom de l'outil**: Convertisseur de texte multi-lignes en ligne en une seule ligne  
 **Description de l'outil**: Convertissez rapidement et automatiquement votre texte multi-lignes en une seule ligne. Améliorez la lisibilité et optimisez la mise en page du texte.  
 **Catégorie d'outil**: Outils de Texte  
@@ -234,12 +240,6 @@
 **Lien**: https://www.tools366.com/fr/tool/upside-down-text-online-tool
 
 
-**Nom de l'outil**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Générateur de texte en ligne Glitch, URL cachée  
-**Description de l'outil**: Créez des effets de texte glitch uniques en ajustant différents paramètres.  
-**Catégorie d'outil**: Outils de Texte  
-**Lien**: https://www.tools366.com/fr/tool/glitch-text-generator
-
-
 **Nom de l'outil**: Outil de génération de panneaux de signalisation en ligne  
 **Description de l'outil**: L'outil de génération de panneaux de signalisation en ligne vous permet de personnaliser et de concevoir des panneaux de signalisation, en offrant un aperçu en temps réel et un téléchargement. Créez rapidement des panneaux de signalisation de style Chine continentale sans télécharger de logiciel. Générateur de panneaux de signalisation de célébrité Internet  
 **Catégorie d'outil**: Autres  
@@ -248,13 +248,19 @@
 
 **Nom de l'outil**: Simulateur de conversion de couleur pour daltonisme  
 **Description de l'outil**: Utilisez notre simulateur de daltonisme pour visualiser comment les couleurs apparaissent pour différents types de déficiences de la vision des couleurs. Entrez simplement une couleur HEX pour voir sa représentation dans diverses formes de daltonisme.  
-**Catégorie d'outil**: Couleur  
+**Catégorie d'outil**: Outil de couleur  
 **Lien**: https://www.tools366.com/fr/tool/color-blindness-converter
 
 
 **Nom de l'outil**: Outil de recherche de valeurs Hex pour les couleurs CSS en anglais  
 **Description de l'outil**: Utilisez notre outil de recherche de couleur Hex CSS pour découvrir les valeurs Hex correspondantes des couleurs CSS en anglais. Entrez des codes de couleur HEX ou des noms de couleur pour la recherche.  
-**Catégorie d'outil**: Couleur  
+**Catégorie d'outil**: Outil de couleur  
 **Lien**: https://www.tools366.com/fr/tool/html-color-hex-search
+
+
+**Nom de l'outil**: Outil de Requête pour les Codes Couleurs Hexadécimaux Plus Sombres et Plus Clairs  
+**Description de l'outil**: Utilisez notre outil de génération et de requête de dégradés de codes couleurs hexadécimaux pour explorer divers effets de dégradés de couleur. Entrez un code couleur hexadécimal pour voir ses dégradés plus sombres et plus clairs.  
+**Catégorie d'outil**: Outil de couleur  
+**Lien**: https://www.tools366.com/fr/tool/color-shades-and-tints
 
 

@@ -248,13 +248,19 @@
 
 **工具名稱**: 色盲顏色轉換模擬器  
 **工具描述**: 使用我們的色盲模擬器來可視化不同類型的色視缺陷的顏色。只需輸入一個HEX顏色即可查看其在各種形式的色盲中的呈現。  
-**工具類別**: 顏色  
+**工具類別**: 顏色工具  
 **連結**: https://www.tools366.com/zh-TW/tool/color-blindness-converter
 
 
 **工具名稱**: CSS 英文顏色對應 Hex 值查詢工具  
 **工具描述**: 使用我們的 CSS 顏色 Hex 搜索工具來發現 CSS 顏色的英文對應的 Hex 色值。輸入 HEX 顏色代碼或顏色名稱來進行查找。  
-**工具類別**: 顏色  
+**工具類別**: 顏色工具  
 **連結**: https://www.tools366.com/zh-TW/tool/html-color-hex-search
+
+
+**工具名稱**: Hex 色碼漸變色生成與查詢工具  
+**工具描述**: 使用我們的 Hex 色碼漸變色生成與查詢工具，探索各種顏色漸變效果。輸入一個 Hex 色碼，查看其更深和更淺的漸變。  
+**工具類別**: 顏色工具  
+**連結**: https://www.tools366.com/zh-TW/tool/color-shades-and-tints
 
 

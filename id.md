@@ -248,13 +248,19 @@
 
 **Nama Alat**: Simulator Konversi Warna untuk Buta Warna  
 **Deskripsi Alat**: Gunakan Simulator Buta Warna kami untuk memvisualisasikan bagaimana warna tampak untuk berbagai jenis kekurangan penglihatan warna. Cukup masukkan warna HEX untuk melihat representasinya dalam berbagai bentuk buta warna.  
-**Kategori Alat**: Warna  
+**Kategori Alat**: Alat Warna  
 **Tautan**: https://www.tools366.com/id/tool/color-blindness-converter
 
 
 **Nama Alat**: Alat Pencarian Warna CSS ke Nilai Hex dalam Bahasa Inggris  
 **Deskripsi Alat**: Gunakan alat pencarian kami untuk menemukan nilai Hex yang sesuai dari warna CSS dalam bahasa Inggris. Masukkan kode warna HEX atau nama warna untuk pencarian.  
-**Kategori Alat**: Warna  
+**Kategori Alat**: Alat Warna  
 **Tautan**: https://www.tools366.com/id/tool/html-color-hex-search
+
+
+**Nama Alat**: Alat Query untuk Kode Warna Hex yang Lebih Gelap dan Lebih Terang  
+**Deskripsi Alat**: Gunakan Alat Generasi dan Query Gradien Kode Warna Hex kami untuk mengeksplorasi berbagai efek gradien warna. Masukkan kode warna Hex untuk melihat gradiennya yang lebih gelap dan lebih terang.  
+**Kategori Alat**: Alat Warna  
+**Tautan**: https://www.tools366.com/id/tool/color-shades-and-tints
 
 

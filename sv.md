@@ -192,6 +192,12 @@
 **Länk**: https://www.tools366.com/sv/tool/convert-case-online-tool
 
 
+**Verktygsnamn**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Text Generator, URL Hidden  
+**Verktygsbeskrivning**: Skapa unika glitch-texteffekter genom att justera olika parametrar.  
+**Verktygskategori**: Textverktyg  
+**Länk**: https://www.tools366.com/sv/tool/glitch-text-generator
+
+
 **Verktygsnamn**: Onlinekonverterare från flera linjer till en linje  
 **Verktygsbeskrivning**: Konvertera snabbt och automatiskt din text med flera linjer till en enda rad. Förbättra läsbarheten och optimera textlayouten.  
 **Verktygskategori**: Textverktyg  
@@ -234,12 +240,6 @@
 **Länk**: https://www.tools366.com/sv/tool/upside-down-text-online-tool
 
 
-**Verktygsnamn**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Text Generator, URL Hidden  
-**Verktygsbeskrivning**: Skapa unika glitch-texteffekter genom att justera olika parametrar.  
-**Verktygskategori**: Textverktyg  
-**Länk**: https://www.tools366.com/sv/tool/glitch-text-generator
-
-
 **Verktygsnamn**: Online Vägmärkesgeneratorverktyg  
 **Verktygsbeskrivning**: Online vägmärkesgeneratorverktyget låter dig anpassa och designa vägmärken, och erbjuder realtidsförhandsgranskning och nedladdning. Skapa snabbt Fastlandskina-stil vägmärken utan att behöva ladda ner programvara. 'Saknar dig' internetkändis vägmärkesgenerator.  
 **Verktygskategori**: Övriga  
@@ -248,13 +248,19 @@
 
 **Verktygsnamn**: Färgblindhetssimulator för färgkonvertering  
 **Verktygsbeskrivning**: Använd vår Färgblindhetssimulator för att visualisera hur färger ser ut för olika typer av färgsynsfel. Ange en HEX-färg för att se dess representation i olika former av färgblindhet.  
-**Verktygskategori**: Färg  
+**Verktygskategori**: Färgverktyg  
 **Länk**: https://www.tools366.com/sv/tool/color-blindness-converter
 
 
 **Verktygsnamn**: CSS Färg till Hex Värde Sökverktyg på Engelska  
 **Verktygsbeskrivning**: Använd vårt CSS Färg Hex sökverktyg för att upptäcka de engelska motsvarande Hex-värdena för CSS-färger. Ange HEX-färgkoder eller färgnamn för sökning.  
-**Verktygskategori**: Färg  
+**Verktygskategori**: Färgverktyg  
 **Länk**: https://www.tools366.com/sv/tool/html-color-hex-search
+
+
+**Verktygsnamn**: Förfrågningsverktyg för Mörkare och Ljusare Hex-färgkoder  
+**Verktygsbeskrivning**: Använd vårt Hex-färgkod Gradient Generering och Förfrågningsverktyg för att utforska olika färggradienteffekter. Ange en hex-färgkod för att se dess mörkare och ljusare gradienter.  
+**Verktygskategori**: Färgverktyg  
+**Länk**: https://www.tools366.com/sv/tool/color-shades-and-tints
 
 

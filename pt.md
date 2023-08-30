@@ -192,6 +192,12 @@
 **Link**: https://www.tools366.com/pt/tool/convert-case-online-tool
 
 
+**Nome da ferramenta**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Gerador de Texto Glitch Online, URL Oculto  
+**Descrição da ferramenta**: Crie efeitos de texto glitch únicos ajustando diferentes parâmetros.  
+**Categoria da ferramenta**: Ferramentas de Texto  
+**Link**: https://www.tools366.com/pt/tool/glitch-text-generator
+
+
 **Nome da ferramenta**: Conversor Online de Texto Multilinha para Linha Única  
 **Descrição da ferramenta**: Converta rapidamente e automaticamente seu texto multilinha em uma única linha. Melhore a legibilidade e otimize o layout do texto.  
 **Categoria da ferramenta**: Ferramentas de Texto  
@@ -234,12 +240,6 @@
 **Link**: https://www.tools366.com/pt/tool/upside-down-text-online-tool
 
 
-**Nome da ferramenta**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Gerador de Texto Glitch Online, URL Oculto  
-**Descrição da ferramenta**: Crie efeitos de texto glitch únicos ajustando diferentes parâmetros.  
-**Categoria da ferramenta**: Ferramentas de Texto  
-**Link**: https://www.tools366.com/pt/tool/glitch-text-generator
-
-
 **Nome da ferramenta**: Ferramenta de Geração de Sinal de Estrada Online  
 **Descrição da ferramenta**: A ferramenta de geração de sinal de estrada online permite que você personalize e projete sinais de estrada, oferecendo visualização em tempo real e download. Crie sinais de estrada no estilo da China continental rapidamente sem baixar software. Gerador de sinal de estrada de celebridade da Internet 'Sinto sua falta'.  
 **Categoria da ferramenta**: Outros  
@@ -248,13 +248,19 @@
 
 **Nome da ferramenta**: Simulador de Conversão de Cores para Daltonismo  
 **Descrição da ferramenta**: Use nosso Simulador de Daltonismo para visualizar como as cores aparecem para diferentes tipos de deficiências de visão de cor. Basta inserir uma cor HEX para ver sua representação em várias formas de daltonismo.  
-**Categoria da ferramenta**: Cor  
+**Categoria da ferramenta**: Ferramenta de cor  
 **Link**: https://www.tools366.com/pt/tool/color-blindness-converter
 
 
 **Nome da ferramenta**: Ferramenta de Busca de Cores em Inglês para CSS  
 **Descrição da ferramenta**: Use nossa ferramenta de busca de cores Hex do CSS para descobrir os valores Hex correspondentes de cores CSS em inglês. Insira códigos de cores HEX ou nomes de cores para a busca.  
-**Categoria da ferramenta**: Cor  
+**Categoria da ferramenta**: Ferramenta de cor  
 **Link**: https://www.tools366.com/pt/tool/html-color-hex-search
+
+
+**Nome da ferramenta**: Ferramenta de Consulta de Códigos de Cor Hex Mais Escuros e Mais Claros  
+**Descrição da ferramenta**: Use nossa Ferramenta de Geração e Consulta de Gradiente de Códigos de Cor Hex para explorar vários efeitos de gradiente de cor. Insira um código de cor Hex para visualizar seus gradientes mais escuros e mais claros.  
+**Categoria da ferramenta**: Ferramenta de cor  
+**Link**: https://www.tools366.com/pt/tool/color-shades-and-tints
 
 

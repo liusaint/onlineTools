@@ -192,6 +192,12 @@
 **Link**: https://www.tools366.com/nl/tool/convert-case-online-tool
 
 
+**Toolnaam**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Tekstgenerator, URL Verborgen  
+**Toolbeschrijving**: Creëer unieke glitch-teksteffecten door verschillende parameters aan te passen.  
+**Toolcategorie**: Tekst Gereedschappen  
+**Link**: https://www.tools366.com/nl/tool/glitch-text-generator
+
+
 **Toolnaam**: Online multi-line tekst naar single-line converter  
 **Toolbeschrijving**: Zet snel en automatisch uw multi-line tekst om in een enkele regel. Verbeter de leesbaarheid en optimaliseer de tekstlay-out.  
 **Toolcategorie**: Tekst Gereedschappen  
@@ -234,12 +240,6 @@
 **Link**: https://www.tools366.com/nl/tool/upside-down-text-online-tool
 
 
-**Toolnaam**: C͕͛ḽ̏ḭ̈́c̲̉k̖̊ ͈̆H̛̭ȅ͎ŕ̻e͇̾ Online Glitch Tekstgenerator, URL Verborgen  
-**Toolbeschrijving**: Creëer unieke glitch-teksteffecten door verschillende parameters aan te passen.  
-**Toolcategorie**: Tekst Gereedschappen  
-**Link**: https://www.tools366.com/nl/tool/glitch-text-generator
-
-
 **Toolnaam**: Online Wegwijzer Generator Tool  
 **Toolbeschrijving**: De online wegwijzer generator tool stelt je in staat om wegwijzers aan te passen en te ontwerpen, met realtime voorbeeld en download. Creëer snel wegwijzers in de stijl van het vasteland van China zonder software te downloaden. 'Miss You' internetberoemdheid wegwijzer generator.  
 **Toolcategorie**: Overige  
@@ -248,13 +248,19 @@
 
 **Toolnaam**: Simulator voor Kleurconversie voor Kleurenblindheid  
 **Toolbeschrijving**: Gebruik onze Simulator voor Kleurenblindheid om te visualiseren hoe kleuren eruit zien voor verschillende soorten kleurzichtgebreken. Voer gewoon een HEX-kleur in om de weergave ervan te zien in verschillende vormen van kleurenblindheid.  
-**Toolcategorie**: Kleur  
+**Toolcategorie**: Kleurhulpmiddel  
 **Link**: https://www.tools366.com/nl/tool/color-blindness-converter
 
 
 **Toolnaam**: CSS Kleur naar Hex Waarde Zoektool in het Engels  
 **Toolbeschrijving**: Gebruik onze CSS-kleur Hex zoektool om de overeenkomstige Hex-waarden van CSS-kleuren in het Engels te ontdekken. Voer HEX-kleurcodes of kleurnamen in voor zoeken.  
-**Toolcategorie**: Kleur  
+**Toolcategorie**: Kleurhulpmiddel  
 **Link**: https://www.tools366.com/nl/tool/html-color-hex-search
+
+
+**Toolnaam**: Query-tool voor Donkere en Lichtere Hex-kleurcodes  
+**Toolbeschrijving**: Gebruik onze Hex-kleurcode Gradiënt Generatie en Query-tool om verschillende kleurverloop-effecten te verkennen. Voer een hex-kleurcode in om de donkere en lichte gradiënten ervan te zien.  
+**Toolcategorie**: Kleurhulpmiddel  
+**Link**: https://www.tools366.com/nl/tool/color-shades-and-tints
 
 

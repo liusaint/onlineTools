@@ -242,14 +242,20 @@
 
 **Tool Name**: Color Blindness Color Conversion Simulator  
 **Tool Description**: Use our Color Blindness Simulator to visualize how colors appear for different types of color vision deficiencies. Simply input a HEX color to see its representation across various forms of color blindness.  
-**Tool Category**: Color  
+**Tool Category**: Color Tool  
 **Link**: https://www.tools366.com/tool/color-blindness-converter
 
 
 **Tool Name**: CSS English Color to Hex Value Lookup Tool  
 **Tool Description**: Use our CSS Color Hex search tool to discover the English corresponding Hex values of CSS colors. Enter HEX color codes or color names for searching.  
-**Tool Category**: Color  
+**Tool Category**: Color Tool  
 **Link**: https://www.tools366.com/tool/html-color-hex-search
+
+
+**Tool Name**: Hex Color Code Darker and Lighter Color Query Tool  
+**Tool Description**: Use our Hex Color Code Gradient Generation and Query Tool to explore various color gradient effects. Enter a Hex color code to view its darker and lighter gradients.  
+**Tool Category**: Color Tool  
+**Link**: https://www.tools366.com/tool/color-shades-and-tints
 
 
 **Tool Name**: Road Sign Generator Online Tool  

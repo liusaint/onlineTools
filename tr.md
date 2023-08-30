@@ -114,6 +114,24 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/search-json-keys-online
 
 
+**Araç Adı**: Çevrimiçi Toplu Resim Boyutu Değiştirme Aracı  
+**Araç Açıklaması**: Yerel olarak PNG/JPG/JPEG vb. formatındaki resimleri yeniden boyutlandırın, ölçekleme oranını ve boyutunu serbestçe seçin, en-boy oranını koruyun ya da korumayın, orijinal formatında çıktı alın  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/batch-resize-images
+
+
+**Araç Adı**: Çevrimiçi Görüntü Bulanıklık Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG ve diğer görüntü formatlarını yerel olarak bulanıklaştırın. Bulanıklık yarıçapını özgürce seçin, önizleyin ve bulanıklık etkisini ayarlayın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/blur-image-tool-online
+
+
+**Araç Adı**: Çevrimiçi Toplu Resim Bulanıklaştırma Aracı  
+**Araç Açıklaması**: PNG/JPG/JPEG ve diğer resim formatlarını toplu olarak bulanıklaştırın, bulanıklaştırma yarıçapını özgürce seçin, önizleyin ve bulanık efektini ayarlayın.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/bulk-blur-image-tool-online
+
+
 **Araç Adı**: Çevrimiçi Resim Sıkıştırma Aracı  
 **Araç Açıklaması**: PNG/JPG/JPEG/diğer format resimlerini yerel olarak sıkıştırın, tek sıkıştırma, sıkıştırma kalitesini karşılaştırın, sıkıştırmayı görüntüleyin, orijinal formatında çıktı alın.  
 **Araç Kategorisi**: Resim Araçları  
@@ -144,6 +162,18 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/convert-color-image-to-grayscale-and-black-and-white-image
 
 
+**Araç Adı**: Çevrimiçi GIF Oluşturucu - Özel Animasyonlu GIF'ler  
+**Araç Açıklaması**: Bu çevrimiçi GIF oluşturucu aracıyla, resimleri yükleyerek, zaman aralıkları, genişlik ve yükseklik ayarlayarak özel animasyonlu GIF'ler oluşturabilirsiniz. Birden çok resmi bir GIF'e birleştirin.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/gif-maker
+
+
+**Araç Adı**: GIF'i Tek Tek Karelerine Ayırma Çevrimiçi Aracı  
+**Araç Açıklaması**: Bir GIF'i ayrı karelerine bölen bir çevrim içi araç, görüntülemeyi, düzenlemeyi ve kullanmayı kolaylaştırır.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/gif-splitter
+
+
 **Araç Adı**: Çevrimiçi Resim Renk Oranı Çıkarma ve Görselleştirme Aracı  
 **Araç Açıklaması**: Bir resim yükleyin, resimdeki ana renkleri analiz edin, resim renklerinin oranını hesaplayın ve renklerin dağılımını görsel olarak gösterin.  
 **Araç Kategorisi**: Resim Araçları  
@@ -160,6 +190,12 @@
 **Araç Açıklaması**: İki resmi birleştirin, beyaz ve siyah arka planlarda iki farklı resim gösterin  
 **Araç Kategorisi**: Resim Araçları  
 **Bağlantı**: https://www.tools366.com/tr/tool/image-hiding-QR-code-online-tool
+
+
+**Araç Adı**: Çevrimiçi Görüntü Bölme Aracı - Izgara Görüntü Üreteci  
+**Araç Açıklaması**: Ücretsiz çevrimiçi görüntü kırpma ve bölme aracı, WeChat Moments, Instagram gibi sosyal medya için uygun 9, 4 veya daha fazla ızgaraya bir tıklama ile resimlerin kesilmesi. Karelere kesmeyi seçebilir ve PNG, JPG, JPEG gibi formatları ve bir tıklama ile ZIP paketi indirmeyi destekler.  
+**Araç Kategorisi**: Resim Araçları  
+**Bağlantı**: https://www.tools366.com/tr/tool/image-splitter
 
 
 **Araç Adı**: Çevrimiçi Resimden Base64 Aracı | Base64 Kodlama | Base64 Dönüştürücü  
@@ -204,42 +240,6 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/rotate-image-online
 
 
-**Araç Adı**: Çevrimiçi Toplu Resim Boyutu Değiştirme Aracı  
-**Araç Açıklaması**: Yerel olarak PNG/JPG/JPEG vb. formatındaki resimleri yeniden boyutlandırın, ölçekleme oranını ve boyutunu serbestçe seçin, en-boy oranını koruyun ya da korumayın, orijinal formatında çıktı alın  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/batch-resize-images
-
-
-**Araç Adı**: Çevrimiçi Görüntü Bulanıklık Aracı  
-**Araç Açıklaması**: PNG/JPG/JPEG ve diğer görüntü formatlarını yerel olarak bulanıklaştırın. Bulanıklık yarıçapını özgürce seçin, önizleyin ve bulanıklık etkisini ayarlayın.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/blur-image-tool-online
-
-
-**Araç Adı**: Çevrimiçi Toplu Resim Bulanıklaştırma Aracı  
-**Araç Açıklaması**: PNG/JPG/JPEG ve diğer resim formatlarını toplu olarak bulanıklaştırın, bulanıklaştırma yarıçapını özgürce seçin, önizleyin ve bulanık efektini ayarlayın.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/bulk-blur-image-tool-online
-
-
-**Araç Adı**: Çevrimiçi Görüntü Bölme Aracı - Izgara Görüntü Üreteci  
-**Araç Açıklaması**: Ücretsiz çevrimiçi görüntü kırpma ve bölme aracı, WeChat Moments, Instagram gibi sosyal medya için uygun 9, 4 veya daha fazla ızgaraya bir tıklama ile resimlerin kesilmesi. Karelere kesmeyi seçebilir ve PNG, JPG, JPEG gibi formatları ve bir tıklama ile ZIP paketi indirmeyi destekler.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/image-splitter
-
-
-**Araç Adı**: GIF'i Tek Tek Karelerine Ayırma Çevrimiçi Aracı  
-**Araç Açıklaması**: Bir GIF'i ayrı karelerine bölen bir çevrim içi araç, görüntülemeyi, düzenlemeyi ve kullanmayı kolaylaştırır.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/gif-splitter
-
-
-**Araç Adı**: Çevrimiçi GIF Oluşturucu - Özel Animasyonlu GIF'ler  
-**Araç Açıklaması**: Bu çevrimiçi GIF oluşturucu aracıyla, resimleri yükleyerek, zaman aralıkları, genişlik ve yükseklik ayarlayarak özel animasyonlu GIF'ler oluşturabilirsiniz. Birden çok resmi bir GIF'e birleştirin.  
-**Araç Kategorisi**: Resim Araçları  
-**Bağlantı**: https://www.tools366.com/tr/tool/gif-maker
-
-
 **Araç Adı**: Çevrimiçi Yol İşareti Üreteci Aracı  
 **Araç Açıklaması**: Çevrimiçi yol işareti üreteci aracı, yol işaretlerini kişiselleştirmenize ve tasarlamanıza olanak tanır, gerçek zamanlı önizleme ve indirme sunar. Yazılım indirmeden hızla anakara Çin tarzı yol işaretleri oluşturun. 'Özlüyorum' internet ünlüsü yol işareti üreteci.  
 **Araç Kategorisi**: Diğer  
@@ -248,13 +248,19 @@
 
 **Araç Adı**: Renk Körlüğü için Renk Dönüştürücü Simülatörü  
 **Araç Açıklaması**: Renk Körlüğü Simülatörümüzü kullanarak çeşitli renk görme eksiklikleri için renklerin nasıl göründüğünü görselleştirin. Farklı türdeki renk körlüğü formlarında temsilini görmek için bir HEX rengi girin.  
-**Araç Kategorisi**: Renk  
+**Araç Kategorisi**: Renk Aracı  
 **Bağlantı**: https://www.tools366.com/tr/tool/color-blindness-converter
 
 
 **Araç Adı**: CSS İngilizce Renk Hex Değer Arama Aracı  
 **Araç Açıklaması**: CSS renklerinin İngilizce'de karşılık gelen Hex değerlerini keşfetmek için Hex renk arama aracımızı kullanın. HEX renk kodları veya renk adları girerek arama yapın.  
-**Araç Kategorisi**: Renk  
+**Araç Kategorisi**: Renk Aracı  
 **Bağlantı**: https://www.tools366.com/tr/tool/html-color-hex-search
+
+
+**Araç Adı**: Daha Koyu ve Daha Açık Hex Renk Kodları için Sorgu Aracı  
+**Araç Açıklaması**: Çeşitli renk gradyan etkilerini keşfetmek için Hex Renk Kodu Gradyan Üretim ve Sorgu Aracımızı kullanın. Daha koyu ve daha açık gradyanlarını görmek için bir hex renk kodu girin.  
+**Araç Kategorisi**: Renk Aracı  
+**Bağlantı**: https://www.tools366.com/tr/tool/color-shades-and-tints
 
 
