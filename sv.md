@@ -264,3 +264,15 @@
 **Länk**: https://www.tools366.com/sv/tool/color-shades-and-tints
 
 
+**Verktygsnamn**: Färgscheman och Relaterade Färgverktyg  
+**Verktygsbeskrivning**: Utforska och generera olika färgscheman. Ange en Hex-färgkod för att se komplementärfärger, triadiskt schema, split-komplementärfärger, analogiska färger och monokromatiska scheman.  
+**Verktygskategori**: Färgverktyg  
+**Länk**: https://www.tools366.com/sv/tool/related-colors
+
+
+**Verktygsnamn**: Online Frågeverktyg för Websäkra Färger  
+**Verktygsbeskrivning**: Använd detta verktyg för att hitta och tillämpa CSS-färger som är säkra och lättlästa. Stödjer Hex och RGB-format.  
+**Verktygskategori**: Färgverktyg  
+**Länk**: https://www.tools366.com/sv/tool/web-safe-colors
+
+

@@ -258,6 +258,18 @@
 **Link**: https://www.tools366.com/tool/color-shades-and-tints
 
 
+**Tool Name**: Color Schemes and Related Color Tools  
+**Tool Description**: Explore and generate multiple color schemes. Enter a Hex color code to see its complementary colors, triadic colors, split complementary colors, analogous colors, and monochromatic schemes.  
+**Tool Category**: Color Tool  
+**Link**: https://www.tools366.com/tool/related-colors
+
+
+**Tool Name**: Web Safe Colors Online Query Tool  
+**Tool Description**: Use this tool to find and apply safe, readable CSS colors. Supports both Hex and RGB formats.  
+**Tool Category**: Color Tool  
+**Link**: https://www.tools366.com/tool/web-safe-colors
+
+
 **Tool Name**: Road Sign Generator Online Tool  
 **Tool Description**: The online road sign generator tool allows you to customize and design road signs, offering real-time preview and download. Create mainland China style road signs quickly without downloading software. 'Miss You' Internet celebrity road sign generator.  
 **Tool Category**: Other  

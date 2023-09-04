@@ -264,3 +264,15 @@
 **Lien**: https://www.tools366.com/fr/tool/color-shades-and-tints
 
 
+**Nom de l'outil**: Schemas de Couleurs et Outils Couleurs Associés  
+**Description de l'outil**: Explorez et générez plusieurs schémas de couleurs. Entrez un code couleur Hex pour voir ses couleurs complémentaires, couleurs triadiques, couleurs complémentaires divisées, couleurs analogues, et schémas monochromatiques.  
+**Catégorie d'outil**: Outil de couleur  
+**Lien**: https://www.tools366.com/fr/tool/related-colors
+
+
+**Nom de l'outil**: Outil de requête en ligne pour couleurs Web sûres  
+**Description de l'outil**: Utilisez cet outil pour trouver et appliquer des couleurs CSS sûres et lisibles. Prend en charge les formats Hex et RGB.  
+**Catégorie d'outil**: Outil de couleur  
+**Lien**: https://www.tools366.com/fr/tool/web-safe-colors
+
+

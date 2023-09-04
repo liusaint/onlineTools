@@ -264,3 +264,15 @@
 **Link**: https://www.tools366.com/it/tool/html-color-hex-search
 
 
+**Nome dello strumento**: Schemi di colore e strumenti correlati  
+**Descrizione dello strumento**: Esplora e genera vari schemi di colore. Inserisci un codice colore Hex per vedere i suoi colori complementari, colori triadici, colori complementari divisi, colori analoghi e schemi monocromatici.  
+**Categoria dello strumento**: Strumento di colore  
+**Link**: https://www.tools366.com/it/tool/related-colors
+
+
+**Nome dello strumento**: Strumento di Query Online per Colori Sicuri per il Web  
+**Descrizione dello strumento**: Utilizza questo strumento per trovare e applicare colori CSS sicuri e leggibili. Supporta sia i formati Hex che RGB.  
+**Categoria dello strumento**: Strumento di colore  
+**Link**: https://www.tools366.com/it/tool/web-safe-colors
+
+

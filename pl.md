@@ -264,3 +264,15 @@
 **Link**: https://www.tools366.com/pl/tool/color-shades-and-tints
 
 
+**Nazwa narzędzia**: Schematy kolorów i powiązane narzędzia do kolorów  
+**Opis narzędzia**: Odkrywaj i generuj różne schematy kolorów. Wprowadź kod koloru Hex, aby zobaczyć kolory dopełniające, schemat triadowy, rozdzielone kolory dopełniające, kolory analogiczne i schematy monochromatyczne.  
+**Kategoria narzędzi**: Narzędzie koloru  
+**Link**: https://www.tools366.com/pl/tool/related-colors
+
+
+**Nazwa narzędzia**: Narzędzie do Zapytań Online dla Bezpiecznych Kolorów Webowych  
+**Opis narzędzia**: Użyj tego narzędzia, aby znaleźć i zastosować bezpieczne i czytelne kolory CSS. Obsługuje zarówno formaty Hex, jak i RGB.  
+**Kategoria narzędzi**: Narzędzie koloru  
+**Link**: https://www.tools366.com/pl/tool/web-safe-colors
+
+

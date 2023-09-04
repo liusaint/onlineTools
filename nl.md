@@ -264,3 +264,15 @@
 **Link**: https://www.tools366.com/nl/tool/color-shades-and-tints
 
 
+**Toolnaam**: Kleurenschema's en gerelateerde kleurtools  
+**Toolbeschrijving**: Verken en genereer meerdere kleurenschema's. Voer een Hex-kleurcode in om de complementaire kleuren, driekleurenschema, gesplitste complementaire kleuren, analoge kleuren en monochromatische schema's te zien.  
+**Toolcategorie**: Kleurhulpmiddel  
+**Link**: https://www.tools366.com/nl/tool/related-colors
+
+
+**Toolnaam**: Online Query Tool voor Webveilige Kleuren  
+**Toolbeschrijving**: Gebruik dit hulpmiddel om veilige en leesbare CSS-kleuren te vinden en toe te passen. Ondersteunt Hex en RGB formaten.  
+**Toolcategorie**: Kleurhulpmiddel  
+**Link**: https://www.tools366.com/nl/tool/web-safe-colors
+
+

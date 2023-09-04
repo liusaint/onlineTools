@@ -264,3 +264,15 @@
 **Link**: https://www.tools366.com/de/tool/color-shades-and-tints
 
 
+**Tool-Name**: Farbschemas und damit verbundene Farbwerkzeuge  
+**Tool-Beschreibung**: Erkunden und generieren Sie mehrere Farbschemas. Geben Sie einen Hex-Farbcode ein, um die damit verbundenen Komplementärfarben, triadischen Farben, geteilten Komplementärfarben, analogen Farben und monochromen Schemas zu sehen.  
+**Tool-Kategorie**: Farbwerkzeug  
+**Link**: https://www.tools366.com/de/tool/related-colors
+
+
+**Tool-Name**: Online-Abfrage-Tool für Web-sichere Farben  
+**Tool-Beschreibung**: Verwenden Sie dieses Tool, um sichere, lesbare CSS-Farben zu finden und anzuwenden. Unterstützt sowohl Hex- als auch RGB-Formate.  
+**Tool-Kategorie**: Farbwerkzeug  
+**Link**: https://www.tools366.com/de/tool/web-safe-colors
+
+

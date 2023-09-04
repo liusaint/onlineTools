@@ -264,3 +264,15 @@
 **Bağlantı**: https://www.tools366.com/tr/tool/color-shades-and-tints
 
 
+**Araç Adı**: Renk Şemaları ve İlgili Renk Araçları  
+**Araç Açıklaması**: Çeşitli renk şemalarını keşfedin ve oluşturun. Tamamlayıcı renkleri, üçlü renk şeması, bölünmüş tamamlayıcı renkler, benzer renkler ve monokromatik şemaları görmek için bir Hex renk kodu girin.  
+**Araç Kategorisi**: Renk Aracı  
+**Bağlantı**: https://www.tools366.com/tr/tool/related-colors
+
+
+**Araç Adı**: Web Güvenli Renkler için Çevrimiçi Sorgu Aracı  
+**Araç Açıklaması**: Bu aracı kullanarak güvenli ve okunabilir CSS renklerini bulun ve uygulayın. Hem Hex hem de RGB formatlarını destekler.  
+**Araç Kategorisi**: Renk Aracı  
+**Bağlantı**: https://www.tools366.com/tr/tool/web-safe-colors
+
+

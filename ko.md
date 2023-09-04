@@ -264,3 +264,15 @@
 **링크**: https://www.tools366.com/ko/tool/color-shades-and-tints
 
 
+**도구 이름**: 색상 스키마 및 관련 색상 도구  
+**도구 설명**: 다양한 색상 스키마를 탐색하고 생성합니다. Hex 색상 코드를 입력하여 해당 색상의 보색, 삼원색, 분할 보색, 유사색, 단색 스키마를 확인하세요.  
+**도구 카테고리**: 색상 도구  
+**링크**: https://www.tools366.com/ko/tool/related-colors
+
+
+**도구 이름**: 웹 세이프 컬러 온라인 쿼리 도구  
+**도구 설명**: 이 도구를 사용하여 안전하고 읽기 쉬운 CSS 색상을 찾고 적용하십시오. Hex와 RGB 형식을 모두 지원합니다.  
+**도구 카테고리**: 색상 도구  
+**링크**: https://www.tools366.com/ko/tool/web-safe-colors
+
+

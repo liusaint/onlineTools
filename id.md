@@ -264,3 +264,15 @@
 **Tautan**: https://www.tools366.com/id/tool/color-shades-and-tints
 
 
+**Nama Alat**: Skema Warna dan Alat Warna Terkait  
+**Deskripsi Alat**: Jelajahi dan hasilkan berbagai skema warna. Masukkan kode warna Hex untuk melihat warna komplementernya, warna triadik, warna komplementer terbagi, warna analog, dan skema monokromatik.  
+**Kategori Alat**: Alat Warna  
+**Tautan**: https://www.tools366.com/id/tool/related-colors
+
+
+**Nama Alat**: Alat Query Online untuk Warna Aman Web  
+**Deskripsi Alat**: Gunakan alat ini untuk menemukan dan menerapkan warna CSS yang aman dan mudah dibaca. Mendukung format Hex dan RGB.  
+**Kategori Alat**: Alat Warna  
+**Tautan**: https://www.tools366.com/id/tool/web-safe-colors
+
+
